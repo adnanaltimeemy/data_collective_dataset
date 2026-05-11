@@ -1,0 +1,73 @@
+COCOMO-81 Dataset Description
+=============================
+
+Dataset Name:
+COCOMO-81 (Constructive Cost Model 1981)
+
+Overview:
+---------
+The COCOMO-81 dataset is used for software effort estimation based on the COCOMO (Constructive Cost Model) developed by Barry Boehm in 1981. It is widely used in software engineering research to predict the effort required to develop software projects based on various project attributes.
+
+The dataset contains historical software project data including size, complexity, and development effort.
+
+Purpose:
+--------
+The dataset is used for:
+- Software effort estimation
+- Regression modeling
+- Machine learning applications in software engineering
+- Comparing predictive models such as Decision Trees and Random Forests
+
+Typical Target Variable:
+------------------------
+- effort (actual development effort in person-months)
+
+Common Features (may vary depending on version of dataset):
+-----------------------------------------------------------
+- LOC (Lines of Code)
+- cost drivers such as:
+  * RELY (required software reliability)
+  * DATA (database size)
+  * CPLX (product complexity)
+  * TIME (execution time constraint)
+  * STOR (main storage constraint)
+  * VIRT (virtual machine volatility)
+  * TURN (computer turnaround time)
+  * ACAP (analyst capability)
+  * AEXP (application experience)
+  * PCAP (programmer capability)
+  * VEXP (virtual machine experience)
+  * LEXP (language experience)
+
+Dataset Characteristics:
+------------------------
+- Small to medium-sized dataset
+- Numeric and categorical features (depending on encoding)
+- Suitable for regression tasks
+- Often used for benchmarking machine learning models
+
+Missing Values:
+--------------
+Some versions of the dataset may contain missing or encoded categorical values that require preprocessing before model training.
+
+Preprocessing Steps (Recommended):
+----------------------------------
+- Handle missing values
+- Encode categorical variables
+- Normalize or standardize features (optional for tree-based models)
+- Split dataset into training and testing sets
+
+Common Machine Learning Models Used:
+------------------------------------
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+- Support Vector Regression
+- Neural Networks
+
+References:
+----------
+- Barry W. Boehm, "Software Engineering Economics", 1981
+- COCOMO Model: Constructive Cost Estimation Model
+
+End of File
