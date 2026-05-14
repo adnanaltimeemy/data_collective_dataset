@@ -1,0 +1,11 @@
+food,disease,causative_agent,symptoms,incubation_period,severity,notes
+chicken,salmonellosis,Salmonella enterica,diarrhea;fever;abdominal cramps,6-72 hours,moderate,Often caused by undercooked poultry
+eggs,salmonellosis,Salmonella enterica,diarrhea;vomiting;fever,6-72 hours,moderate,Raw or lightly cooked eggs are high risk
+beef,escherichia_coli_infection,E. coli O157:H7,severe abdominal cramps;bloody diarrhea,1-10 days,severe,Undercooked ground beef is common source
+unpasteurized_milk,listeriosis,Listeria monocytogenes,fever;muscle aches;nausea,1-4 weeks,severe,Dangerous for pregnant individuals
+shellfish,norovirus_infection,Norovirus,vomiting;diarrhea;nausea,12-48 hours,moderate,Highly contagious virus
+rice,bacillus_cereus_food_poisoning,Bacillus cereus,vomiting;diarrhea,1-6 hours,mild to moderate,Improperly stored cooked rice risk
+fish,scombroid_poisoning,histamine_toxins,flushing;rash;headache,minutes to hours,mild to severe,Improper refrigeration causes toxin buildup
+cheese,listeriosis,Listeria monocytogenes,fever;confusion;muscle aches,1-4 weeks,severe,Soft cheeses are higher risk
+leafy_greens,cyclospora_infection,Cyclospora cayetanensis,watery diarrhea;fatigue,2-14 days,moderate,often linked to contaminated produce
+pork,trichinellosis,Trichinella spiralis,muscle pain;fever;swelling,1-2 weeks,moderate to severe,Undercooked pork or wild game
