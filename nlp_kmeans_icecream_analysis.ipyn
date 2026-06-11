@@ -1,0 +1,417 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "cd9a10f9-9ff4-4b37-8d63-aa8f28dca35f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "\n",
+    "from sklearn.feature_extraction.text import TfidfVectorizer\n",
+    "from sklearn.cluster import KMeans\n",
+    "from sklearn.preprocessing import StandardScaler\n",
+    "from sklearn.decomposition import PCA\n",
+    "\n",
+    "import matplotlib.pyplot as plt"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "243561fb-4c69-41b5-9a32-7546c3a61009",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>id</th>\n",
+       "      <th>recipeName</th>\n",
+       "      <th>rating</th>\n",
+       "      <th>totalTimeInSeconds</th>\n",
+       "      <th>course</th>\n",
+       "      <th>cuisine</th>\n",
+       "      <th>ingredients</th>\n",
+       "      <th>dish</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>Thin-Mint-Ice-Cream-Pie-1374376</td>\n",
+       "      <td>Thin Mint Ice Cream Pie</td>\n",
+       "      <td>4</td>\n",
+       "      <td>8100.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>[cookies, melted butter, vanilla bean ice crea...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Mint-Chocolate-Beer-Ice-Cream-1377825</td>\n",
+       "      <td>Mint Chocolate Beer Ice Cream</td>\n",
+       "      <td>3</td>\n",
+       "      <td>11700.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>[whole milk, mint leaves, heavy cream, stout, ...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>Honey-Rosemary-Ice-Cream-1366181</td>\n",
+       "      <td>Honey Rosemary Ice Cream</td>\n",
+       "      <td>4</td>\n",
+       "      <td>3000.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>[heavy whipping cream, whole milk, honey, rose...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>Red-Velvet-Ice-Cream-1377800</td>\n",
+       "      <td>Red Velvet Ice Cream</td>\n",
+       "      <td>3</td>\n",
+       "      <td>900.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>[coconut milk, half &amp; half, egg yolks, sugar, ...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>Peanut-Butter-Chocolate-Ice-Cream-1379244</td>\n",
+       "      <td>Peanut Butter Chocolate Ice Cream</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1500.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>[heavy cream, cocoa, sugar, salt, creamy peanu...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                                          id  \\\n",
+       "0            Thin-Mint-Ice-Cream-Pie-1374376   \n",
+       "1      Mint-Chocolate-Beer-Ice-Cream-1377825   \n",
+       "2           Honey-Rosemary-Ice-Cream-1366181   \n",
+       "3               Red-Velvet-Ice-Cream-1377800   \n",
+       "4  Peanut-Butter-Chocolate-Ice-Cream-1379244   \n",
+       "\n",
+       "                          recipeName  rating  totalTimeInSeconds      course  \\\n",
+       "0            Thin Mint Ice Cream Pie       4              8100.0  [Desserts]   \n",
+       "1      Mint Chocolate Beer Ice Cream       3             11700.0  [Desserts]   \n",
+       "2           Honey Rosemary Ice Cream       4              3000.0  [Desserts]   \n",
+       "3               Red Velvet Ice Cream       3               900.0  [Desserts]   \n",
+       "4  Peanut Butter Chocolate Ice Cream       4              1500.0  [Desserts]   \n",
+       "\n",
+       "  cuisine                                        ingredients       dish  \n",
+       "0     NaN  [cookies, melted butter, vanilla bean ice crea...  ice+cream  \n",
+       "1     NaN  [whole milk, mint leaves, heavy cream, stout, ...  ice+cream  \n",
+       "2     NaN  [heavy whipping cream, whole milk, honey, rose...  ice+cream  \n",
+       "3     NaN  [coconut milk, half & half, egg yolks, sugar, ...  ice+cream  \n",
+       "4     NaN  [heavy cream, cocoa, sugar, salt, creamy peanu...  ice+cream  "
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df = pd.read_csv(\"ice+cream.csv\")\n",
+    "\n",
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "e8d445c6-b176-4a73-889a-c1102c284054",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Index(['id', 'recipeName', 'rating', 'totalTimeInSeconds', 'course', 'cuisine',\n",
+      "       'ingredients', 'dish'],\n",
+      "      dtype='str')\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Drop missing values\n",
+    "df = df.dropna()\n",
+    "\n",
+    "# Ensure text column exists\n",
+    "print(df.columns)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "0c7deb25-d4e0-4f2d-bd16-d3904a66f816",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Index(['id', 'recipeName', 'rating', 'totalTimeInSeconds', 'course', 'cuisine',\n",
+      "       'ingredients', 'dish'],\n",
+      "      dtype='str')\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(df.columns)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "6a7744ea-225e-45de-86fc-67a75d7c6f6d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>id</th>\n",
+       "      <th>recipeName</th>\n",
+       "      <th>rating</th>\n",
+       "      <th>totalTimeInSeconds</th>\n",
+       "      <th>course</th>\n",
+       "      <th>cuisine</th>\n",
+       "      <th>ingredients</th>\n",
+       "      <th>dish</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>82</th>\n",
+       "      <td>Homemade-Irish-Cream-Ice-Cream-682128</td>\n",
+       "      <td>Homemade Irish Cream Ice Cream</td>\n",
+       "      <td>4</td>\n",
+       "      <td>2100.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>[Irish]</td>\n",
+       "      <td>[eggs, sugar, heavy cream, Baileys Irish Cream...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>181</th>\n",
+       "      <td>Brownie-Ice-Cream-513417</td>\n",
+       "      <td>Brownie Ice Cream</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2700.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>[American]</td>\n",
+       "      <td>[bittersweet chocolate, unsalted butter, light...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>415</th>\n",
+       "      <td>Avocado-Ice-Cream-474228</td>\n",
+       "      <td>Avocado Ice Cream</td>\n",
+       "      <td>5</td>\n",
+       "      <td>4500.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>[American]</td>\n",
+       "      <td>[avocado, granulated sugar, sour cream, heavy ...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>441</th>\n",
+       "      <td>Reeses-Fluffernutter-Ice-Cream-634786</td>\n",
+       "      <td>Reese’s Fluffernutter Ice Cream</td>\n",
+       "      <td>3</td>\n",
+       "      <td>2700.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>[Kid-Friendly]</td>\n",
+       "      <td>[sweetened condensed milk, peanut butter, heav...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>458</th>\n",
+       "      <td>Chocolate-Ice-Cream-544452</td>\n",
+       "      <td>Chocolate Ice Cream</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1200.0</td>\n",
+       "      <td>[Desserts]</td>\n",
+       "      <td>[American]</td>\n",
+       "      <td>[sweetened condensed milk, dark chocolate, whi...</td>\n",
+       "      <td>ice+cream</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                                        id                       recipeName  \\\n",
+       "82   Homemade-Irish-Cream-Ice-Cream-682128   Homemade Irish Cream Ice Cream   \n",
+       "181               Brownie-Ice-Cream-513417                Brownie Ice Cream   \n",
+       "415               Avocado-Ice-Cream-474228                Avocado Ice Cream   \n",
+       "441  Reeses-Fluffernutter-Ice-Cream-634786  Reese’s Fluffernutter Ice Cream   \n",
+       "458             Chocolate-Ice-Cream-544452              Chocolate Ice Cream   \n",
+       "\n",
+       "     rating  totalTimeInSeconds      course         cuisine  \\\n",
+       "82        4              2100.0  [Desserts]         [Irish]   \n",
+       "181       5              2700.0  [Desserts]      [American]   \n",
+       "415       5              4500.0  [Desserts]      [American]   \n",
+       "441       3              2700.0  [Desserts]  [Kid-Friendly]   \n",
+       "458       4              1200.0  [Desserts]      [American]   \n",
+       "\n",
+       "                                           ingredients       dish  \n",
+       "82   [eggs, sugar, heavy cream, Baileys Irish Cream...  ice+cream  \n",
+       "181  [bittersweet chocolate, unsalted butter, light...  ice+cream  \n",
+       "415  [avocado, granulated sugar, sour cream, heavy ...  ice+cream  \n",
+       "441  [sweetened condensed milk, peanut butter, heav...  ice+cream  \n",
+       "458  [sweetened condensed milk, dark chocolate, whi...  ice+cream  "
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "e086bb92-8570-4083-8b5e-1fff6832193b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Index(['id', 'recipeName', 'rating', 'totalTimeInSeconds', 'course', 'cuisine',\n",
+      "       'ingredients', 'dish'],\n",
+      "      dtype='str')\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(df.columns)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "0215418a-3fcd-4eb9-a78d-c2f05df92fd7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "X_text exists: False\n",
+      "Index(['id', 'recipeName', 'rating', 'totalTimeInSeconds', 'course', 'cuisine',\n",
+      "       'ingredients', 'dish'],\n",
+      "      dtype='str')\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"X_text exists:\", \"X_text\" in globals())\n",
+    "print(df.columns)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "fcc93d0e-7ebe-4b4d-953f-3598bc7b5ed9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Index(['id', 'recipeName', 'rating', 'totalTimeInSeconds', 'course', 'cuisine',\n",
+      "       'ingredients', 'dish'],\n",
+      "      dtype='str')\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(df.columns)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8bfa4f3b-aef0-46c7-bf8d-42879ca0d31e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
