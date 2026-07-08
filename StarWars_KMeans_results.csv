@@ -1,0 +1,6 @@
+import pandas as pd
+# Read CSV file
+"df = pd.read_csv(""Sheet6.csv"")"
+# Write all CSV data into a text file
+    file.write(df.to_string(index=False))
+"print(""Sheet6.txt has been created."")"
