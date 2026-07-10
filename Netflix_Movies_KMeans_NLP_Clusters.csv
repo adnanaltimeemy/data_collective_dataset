@@ -1,0 +1,388 @@
+index,title,release_year,score,number_of_votes,duration,main_genre,main_production,combined_text,clean_text,cluster
+0,David Attenborough: A Life on Our Planet,2020,9.0,31180,83,documentary,GB,David Attenborough: A Life on Our Planet documentary GB,david attenborough life planet documentari gb,0
+1,Inception,2010,8.8,2268288,148,scifi,GB,Inception scifi GB,incept scifi gb,0
+2,Forrest Gump,1994,8.8,1994599,142,drama,US,Forrest Gump drama US,forrest gump drama us,3
+3,Anbe Sivam,2003,8.7,20595,160,comedy,IN,Anbe Sivam comedy IN,anb sivam comedi,2
+4,Bo Burnham: Inside,2021,8.7,44074,87,comedy,US,Bo Burnham: Inside comedy US,bo burnham insid comedi us,2
+5,Saving Private Ryan,1998,8.6,1346020,169,drama,US,Saving Private Ryan drama US,save privat ryan drama us,3
+6,Django Unchained,2012,8.4,1472668,165,western,US,Django Unchained western US,django unchain western us,3
+7,Dangal,2016,8.4,180247,161,action,IN,Dangal action IN,dangal action,0
+8,Bo Burnham: Make Happy,2016,8.4,14356,60,comedy,US,Bo Burnham: Make Happy comedy US,bo burnham make happi comedi us,2
+9,Louis C.K.: Hilarious,2010,8.4,11973,84,comedy,US,Louis C.K.: Hilarious comedy US,loui c k hilari comedi us,2
+10,Dave Chappelle: Sticks & Stones,2019,8.4,25687,65,comedy,US,Dave Chappelle: Sticks & Stones comedy US,dave chappel stick stone comedi us,2
+11,3 Idiots,2009,8.4,385782,170,comedy,IN,3 Idiots comedy IN,idiot comedi,2
+12,Black Friday,2004,8.4,20611,143,crime,IN,Black Friday crime IN,black friday crime,0
+13,Super Deluxe,2019,8.4,13680,176,thriller,IN,Super Deluxe thriller IN,super delux thriller,1
+14,Winter on Fire: Ukraine's Fight for Freedom,2015,8.3,17710,98,documentary,UA,Winter on Fire: Ukraine's Fight for Freedom documentary UA,winter fire ukrain fight freedom documentari ua,0
+15,Once Upon a Time in America,1984,8.3,342335,229,drama,US,Once Upon a Time in America drama US,upon time america drama us,3
+16,Taxi Driver,1976,8.3,795222,113,crime,US,Taxi Driver crime US,taxi driver crime us,0
+17,Like Stars on Earth,2007,8.3,188234,165,drama,IN,Like Stars on Earth drama IN,like star earth drama,3
+18,Bo Burnham: What.,2013,8.3,11488,60,comedy,US,Bo Burnham: What. comedy US,bo burnham comedi us,2
+19,Full Metal Jacket,1987,8.3,723306,116,drama,GB,Full Metal Jacket drama GB,full metal jacket drama gb,3
+20,Warrior,2011,8.2,463276,140,drama,US,Warrior drama US,warrior drama us,3
+21,Drishyam,2015,8.2,79075,163,thriller,IN,Drishyam thriller IN,drishyam thriller,1
+22,Queen,2014,8.2,64805,146,drama,IN,Queen drama IN,queen drama,3
+23,Paan Singh Tomar,2012,8.2,35888,135,drama,IN,Paan Singh Tomar drama IN,paan singh tomar drama,3
+24,Cowspiracy: The Sustainability Secret,2014,8.2,24845,90,documentary,US,Cowspiracy: The Sustainability Secret documentary US,cowspiraci sustain secret documentari us,3
+25,Virunga,2014,8.2,11403,90,war,CD,Virunga war CD,virunga war cd,0
+26,PK,2014,8.2,178012,153,comedy,IN,PK comedy IN,pk comedi,2
+27,Bāhubali 2: The Conclusion,2017,8.2,91560,168,fantasy,IN,Bāhubali 2: The Conclusion fantasy IN,b hubali conclus fantasi,0
+28,Monty Python and the Holy Grail,1975,8.2,530877,91,comedy,GB,Monty Python and the Holy Grail comedy GB,monti python holi grail comedi gb,2
+29,Article 15,2019,8.2,32336,130,crime,IN,Article 15 crime IN,articl crime,0
+30,Miracle in Cell No. 7,2019,8.2,46939,132,drama,TR,Miracle in Cell No. 7 drama TR,miracl cell drama tr,3
+31,13th,2016,8.2,34914,100,documentary,US,13th documentary US,th documentari us,3
+32,Andhadhun,2018,8.2,88359,139,thriller,IN,Andhadhun thriller IN,andhadhun thriller,1
+33,Bill Burr: Paper Tiger,2019,8.1,10649,67,comedy,GB,Bill Burr: Paper Tiger comedy GB,bill burr paper tiger comedi gb,2
+34,Udaan,2010,8.1,44556,138,drama,IN,Udaan drama IN,udaan drama,3
+35,How to Train Your Dragon,2010,8.1,719717,98,fantasy,US,How to Train Your Dragon fantasy US,train dragon fantasi us,0
+36,Klaus,2019,8.1,141480,97,comedy,ES,Klaus comedy ES,klau comedi es,2
+37,Swades,2004,8.1,89085,189,drama,IN,Swades drama IN,swade drama,3
+38,Minnal Murali,2021,8.1,24681,158,action,IN,Minnal Murali action IN,minnal murali action,0
+39,Rang De Basanti,2006,8.1,118092,157,comedy,IN,Rang De Basanti comedy IN,rang de basanti comedi,2
+40,Seaspiracy,2021,8.1,29604,80,documentary,US,Seaspiracy documentary US,seaspiraci documentari us,3
+41,Rush,2013,8.1,465254,123,drama,US,Rush drama US,rush drama us,3
+42,Hannah Gadsby: Nanette,2018,8.1,12035,69,comedy,AU,Hannah Gadsby: Nanette comedy AU,hannah gadsbi nanett comedi au,2
+43,Barfi!,2012,8.1,80643,151,drama,IN,Barfi! drama IN,barfi drama,3
+44,Haider,2014,8.1,54001,150,drama,IN,Haider drama IN,haider drama,3
+45,Zindagi Na Milegi Dobara,2011,8.1,75801,166,comedy,IN,Zindagi Na Milegi Dobara comedy IN,zindagi na milegi dobara comedi,2
+46,A Silent Voice: The Movie,2016,8.1,75132,130,romance,JP,A Silent Voice: The Movie romance JP,silent voic movi romanc jp,4
+47,OMG: Oh My God!,2012,8.1,57449,125,fantasy,IN,OMG: Oh My God! fantasy IN,omg oh god fantasi,0
+48,Talvar,2015,8.1,34659,132,thriller,IN,Talvar thriller IN,talvar thriller,1
+49,Into the Wild,2007,8.1,611379,140,drama,US,Into the Wild drama US,wild drama us,3
+50,Lagaan: Once Upon a Time in India,2001,8.1,111053,224,drama,IN,Lagaan: Once Upon a Time in India drama IN,lagaan upon time india drama,3
+51,My Octopus Teacher,2020,8.1,51232,84,documentary,ZA,My Octopus Teacher documentary ZA,octopu teacher documentari za,0
+52,Dil Chahta Hai,2001,8.1,71167,183,drama,IN,Dil Chahta Hai drama IN,dil chahta hai drama,3
+53,Mersal,2017,8.1,32573,169,thriller,IN,Mersal thriller IN,mersal thriller,1
+54,The Legend of Bhagat Singh,2002,8.1,16225,155,drama,IN,The Legend of Bhagat Singh drama IN,legend bhagat singh drama,3
+55,Stand by Me,1986,8.1,392790,89,drama,US,Stand by Me drama US,stand drama us,3
+56,The Exorcist,1973,8.1,391942,133,horror,US,The Exorcist horror US,exorcist horror us,0
+57,Bombay,1995,8.1,12512,141,romance,IN,Bombay romance IN,bombay romanc,4
+58,Dasvi,2022,8.0,13140,125,drama,IN,Dasvi drama IN,dasvi drama,3
+59,G.O.R.A.,2004,8.0,61797,127,scifi,TR,G.O.R.A. scifi TR,g r scifi tr,0
+60,Blood Diamond,2006,8.0,536858,143,thriller,US,Blood Diamond thriller US,blood diamond thriller us,1
+61,Vizontele,2001,8.0,36291,110,comedy,TR,Vizontele comedy TR,vizontel comedi tr,2
+62,Ip Man,2008,8.0,221095,108,drama,HK,Ip Man drama HK,ip man drama hk,3
+63,Her,2013,8.0,586679,126,drama,US,Her drama US,drama us,3
+64,The Bourne Ultimatum,2007,8.0,627009,115,thriller,DE,The Bourne Ultimatum thriller DE,bourn ultimatum thriller de,1
+65,Casino Royale,2006,8.0,644336,139,thriller,GB,Casino Royale thriller GB,casino royal thriller gb,1
+66,Special 26,2013,8.0,55489,144,thriller,IN,Special 26 thriller IN,special thriller,1
+67,Neon Genesis Evangelion: The End of Evangelion,1997,8.0,51938,87,scifi,JP,Neon Genesis Evangelion: The End of Evangelion scifi JP,neon genesi evangelion end evangelion scifi jp,0
+68,Bāhubali: The Beginning,2015,8.0,117333,159,drama,IN,Bāhubali: The Beginning drama IN,b hubali begin drama,3
+69,Ankhon Dekhi,2014,8.0,11330,104,drama,IN,Ankhon Dekhi drama IN,ankhon dekhi drama,3
+70,Big Fish,2003,8.0,435503,125,drama,US,Big Fish drama US,big fish drama us,3
+71,Silenced,2011,8.0,15889,125,drama,KR,Silenced drama KR,silenc drama kr,3
+72,Life of Brian,1979,8.0,392419,94,comedy,GB,Life of Brian comedy GB,life brian comedi gb,2
+73,The Invisible Guest,2017,8.0,170351,107,thriller,ES,The Invisible Guest thriller ES,invis guest thriller es,1
+74,Dave Chappelle: The Closer,2021,8.0,24903,72,comedy,US,Dave Chappelle: The Closer comedy US,dave chappel closer comedi us,2
+75,Blade Runner 2049,2017,8.0,539864,164,scifi,CA,Blade Runner 2049 scifi CA,blade runner scifi ca,0
+76,The Imitation Game,2014,8.0,748654,113,thriller,US,The Imitation Game thriller US,imit game thriller us,1
+77,Jab We Met,2007,7.9,51945,138,comedy,IN,Jab We Met comedy IN,jab met comedi,2
+78,Free to Play,2014,7.9,13308,75,documentary,UA,Free to Play documentary UA,free play documentari ua,0
+79,Monty Python Live at the Hollywood Bowl,1982,7.9,15186,77,comedy,GB,Monty Python Live at the Hollywood Bowl comedy GB,monti python live hollywood bowl comedi gb,2
+80,Dev.D,2009,7.9,30389,144,drama,IN,Dev.D drama IN,dev drama,3
+81,Marriage Story,2019,7.9,290643,136,drama,GB,Marriage Story drama GB,marriag stori drama gb,3
+82,Icarus,2017,7.9,48672,121,documentary,US,Icarus documentary US,icaru documentari us,3
+83,I Am Not Your Negro,2017,7.9,21632,93,documentary,BE,I Am Not Your Negro documentary BE,negro documentari,0
+84,Ricky Gervais: Humanity,2018,7.9,18523,79,comedy,GB,Ricky Gervais: Humanity comedy GB,ricki gervai human comedi gb,2
+85,Secret Superstar,2017,7.9,24046,150,drama,IN,Secret Superstar drama IN,secret superstar drama,3
+86,Kal Ho Naa Ho,2003,7.9,68028,186,drama,IN,Kal Ho Naa Ho drama IN,kal ho naa ho drama,3
+87,Pad Man,2018,7.9,25269,140,comedy,IN,Pad Man comedy IN,pad man comedi,2
+88,Shyam Singha Roy,2021,7.9,10903,157,drama,IN,Shyam Singha Roy drama IN,shyam singha roy drama,3
+89,How to Train Your Dragon 2,2014,7.8,327565,102,fantasy,US,How to Train Your Dragon 2 fantasy US,train dragon fantasi us,0
+90,The Irishman,2019,7.8,371209,209,drama,US,The Irishman drama US,irishman drama us,3
+91,Gangaajal,2003,7.8,17029,157,drama,IN,Gangaajal drama IN,gangaaj drama,3
+92,The Girl with the Dragon Tattoo,2011,7.8,454917,158,crime,NO,The Girl with the Dragon Tattoo crime NO,girl dragon tattoo crime,0
+93,Lakshya,2004,7.8,23076,186,drama,IN,Lakshya drama IN,lakshya drama,3
+94,The Social Network,2010,7.8,681286,121,drama,US,The Social Network drama US,social network drama us,3
+95,Dunkirk,2017,7.8,619645,107,drama,US,Dunkirk drama US,dunkirk drama us,3
+96,Kai Po Che!,2013,7.8,36512,126,drama,IN,Kai Po Che! drama IN,kai po che drama,3
+97,The Gentlemen,2019,7.8,314049,113,comedy,US,The Gentlemen comedy US,gentlemen comedi us,2
+98,Marco Polo: One Hundred Eyes,2015,7.8,10742,28,action,US,Marco Polo: One Hundred Eyes action US,marco polo one hundr eye action us,0
+99,The Hateful Eight,2015,7.8,570138,188,western,US,The Hateful Eight western US,hate eight western us,3
+100,Hunt for the Wilderpeople,2016,7.8,125720,101,comedy,NZ,Hunt for the Wilderpeople comedy NZ,hunt wilderpeopl comedi nz,2
+101,The Last Samurai,2003,7.8,429097,154,drama,NZ,The Last Samurai drama NZ,last samurai drama nz,3
+102,Gattaca,1997,7.8,298168,106,thriller,US,Gattaca thriller US,gattaca thriller us,1
+103,The Butterfly's Dream,2013,7.8,21882,138,drama,TR,The Butterfly's Dream drama TR,butterfli dream drama tr,3
+104,14 Peaks: Nothing Is Impossible,2021,7.8,22858,101,documentary,US,14 Peaks: Nothing Is Impossible documentary US,peak noth imposs documentari us,3
+105,Nightcrawler,2014,7.8,523686,118,crime,US,Nightcrawler crime US,nightcrawl crime us,0
+106,Udta Punjab,2016,7.8,29819,148,crime,IN,Udta Punjab crime IN,udta punjab crime,0
+107,My Fair Lady,1964,7.8,94121,170,drama,US,My Fair Lady drama US,fair ladi drama us,3
+108,System Crasher,2019,7.8,12699,118,drama,DE,System Crasher drama DE,system crasher drama de,3
+109,The Game Changers,2019,7.8,19708,88,documentary,US,The Game Changers documentary US,game changer documentari us,3
+110,Awakenings,1990,7.8,137549,120,drama,US,Awakenings drama US,awaken drama us,3
+111,Badla,2019,7.8,27130,120,thriller,IN,Badla thriller IN,badla thriller,1
+112,Madras Cafe,2013,7.7,24319,130,thriller,IN,Madras Cafe thriller IN,madra cafe thriller,1
+113,Beasts of No Nation,2015,7.7,80129,137,war,US,Beasts of No Nation war US,beast nation war us,3
+114,Bonnie and Clyde,1967,7.7,111189,110,drama,US,Bonnie and Clyde drama US,bonni clyde drama us,3
+115,Roma,2018,7.7,153508,135,drama,MX,Roma drama MX,roma drama mx,3
+116,Kapoor & Sons,2016,7.7,25792,132,romance,IN,Kapoor & Sons romance IN,kapoor son romanc,4
+117,Mucize,2015,7.7,12395,136,drama,TR,Mucize drama TR,muciz drama tr,3
+118,Wind River,2017,7.7,240408,106,thriller,FR,Wind River thriller FR,wind river thriller fr,1
+119,Oye Lucky! Lucky Oye!,2008,7.7,17411,126,comedy,IN,Oye Lucky! Lucky Oye! comedy IN,oye lucki lucki oye comedi,2
+120,Dirty Harry,1971,7.7,153463,102,thriller,US,Dirty Harry thriller US,dirti harri thriller us,1
+121,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,7.7,25593,94,comedy,US,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton comedy US",jim andi great beyond featur special contractu oblig mention toni clifton comedi us,2
+122,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,7.7,10257,80,fantasy,JP,Berserk: The Golden Age Arc II - The Battle for Doldrey fantasy JP,berserk golden age arc ii battl doldrey fantasi jp,0
+123,Silver Linings Playbook,2012,7.7,697481,122,drama,US,Silver Linings Playbook drama US,silver line playbook drama us,3
+124,Sanju,2018,7.7,52227,161,drama,IN,Sanju drama IN,sanju drama,3
+125,Argo,2012,7.7,600392,120,drama,US,Argo drama US,argo drama us,3
+126,Guru,2007,7.7,23541,166,romance,IN,Guru romance IN,guru romanc,4
+127,Road to Perdition,2002,7.7,263212,117,thriller,US,Road to Perdition thriller US,road perdit thriller us,1
+128,The Trial of the Chicago 7,2020,7.7,170728,130,drama,US,The Trial of the Chicago 7 drama US,trial chicago drama us,3
+129,When Harry Met Sally...,1989,7.7,212913,96,romance,US,When Harry Met Sally... romance US,harri met salli romanc us,4
+130,Rock On!!,2008,7.7,21963,144,drama,IN,Rock On!! drama IN,rock drama,3
+131,In the Family,2017,7.7,23297,124,comedy,TR,In the Family comedy TR,famili comedi tr,2
+132,Pyaar Ka Punchnama,2011,7.7,21204,149,romance,IN,Pyaar Ka Punchnama romance IN,pyaar ka punchnama romanc,4
+133,Midnight in Paris,2011,7.7,413541,94,fantasy,US,Midnight in Paris fantasy US,midnight pari fantasi us,0
+134,Donnie Brasco,1997,7.7,300073,127,thriller,US,Donnie Brasco thriller US,donni brasco thriller us,1
+135,The Blind Side,2009,7.6,323939,129,drama,US,The Blind Side drama US,blind side drama us,3
+136,Sherlock Holmes,2009,7.6,620154,129,crime,GB,Sherlock Holmes crime GB,sherlock holm crime gb,0
+137,Stardust,2007,7.6,269043,122,fantasy,US,Stardust fantasy US,stardust fantasi us,0
+138,Kuch Kuch Hota Hai,1998,7.6,51640,185,drama,IN,Kuch Kuch Hota Hai drama IN,kuch kuch hota hai drama,3
+139,Parmanu: The Story of Pokhran,2018,7.6,23771,129,drama,IN,Parmanu: The Story of Pokhran drama IN,parmanu stori pokhran drama,3
+140,Doctor,2021,7.6,14590,150,thriller,IN,Doctor thriller IN,doctor thriller,1
+141,"What Happened, Miss Simone?",2015,7.6,13703,101,musical,US,"What Happened, Miss Simone? musical US",happen miss simon music us,3
+142,Eddie Murphy Raw,1987,7.6,19646,93,comedy,US,Eddie Murphy Raw comedy US,eddi murphi raw comedi us,2
+143,Delhi Belly,2011,7.6,29578,102,comedy,IN,Delhi Belly comedy IN,delhi belli comedi,2
+144,The Boy Who Harnessed the Wind,2019,7.6,36805,113,drama,MW,The Boy Who Harnessed the Wind drama MW,boy har wind drama mw,3
+145,Kabhi Haan Kabhi Naa,1994,7.6,18224,158,comedy,IN,Kabhi Haan Kabhi Naa comedy IN,kabhi haan kabhi naa comedi,2
+146,The Two Popes,2019,7.6,120871,125,drama,US,The Two Popes drama US,two pope drama us,3
+147,The Social Dilemma,2020,7.6,79674,94,drama,US,The Social Dilemma drama US,social dilemma drama us,3
+148,Bad Genius,2017,7.6,20430,130,thriller,TH,Bad Genius thriller TH,bad geniu thriller th,1
+149,The Mitchells vs. the Machines,2021,7.6,100787,113,animation,US,The Mitchells vs. the Machines animation US,mitchel vs machin anim us,3
+150,Gifted Hands: The Ben Carson Story,2009,7.6,10210,86,drama,US,Gifted Hands: The Ben Carson Story drama US,gift hand ben carson stori drama us,3
+151,Tell Me Who I Am,2019,7.6,14215,85,thriller,GB,Tell Me Who I Am thriller GB,tell thriller gb,1
+152,RBG,2018,7.6,14037,98,documentary,US,RBG documentary US,rbg documentari us,3
+153,Highway,2014,7.6,28370,133,drama,IN,Highway drama IN,highway drama,3
+154,Athlete A,2020,7.6,10544,104,documentary,US,Athlete A documentary US,athlet documentari us,3
+155,Lupin the Third: The Castle of Cagliostro,1979,7.6,30277,100,comedy,JP,Lupin the Third: The Castle of Cagliostro comedy JP,lupin third castl cagliostro comedi jp,2
+156,Love Actually,2003,7.6,474176,139,drama,GB,Love Actually drama GB,love actual drama gb,3
+157,Hell or High Water,2016,7.6,224900,102,western,US,Hell or High Water western US,hell high water western us,3
+158,Wake Up Sid,2009,7.6,30818,138,comedy,IN,Wake Up Sid comedy IN,wake sid comedi,2
+159,Ludo,2020,7.6,37528,150,crime,IN,Ludo crime IN,ludo crime,0
+160,Stree,2018,7.6,32814,128,horror,IN,Stree horror IN,stree horror,0
+161,Aamir,2008,7.6,11241,99,thriller,IN,Aamir thriller IN,aamir thriller,1
+162,I Am Sam,2001,7.6,149082,132,drama,US,I Am Sam drama US,sam drama us,3
+163,True Grit,2010,7.6,333378,110,western,US,True Grit western US,true grit western us,3
+164,The Distinguished Citizen,2016,7.5,11495,118,comedy,AR,The Distinguished Citizen comedy AR,distinguish citizen comedi ar,2
+165,Jodhaa Akbar,2008,7.5,32188,213,romance,IN,Jodhaa Akbar romance IN,jodhaa akbar romanc,4
+166,The Conjuring,2013,7.5,491048,107,thriller,US,The Conjuring thriller US,conjur thriller us,1
+167,Dhamaka,2021,7.5,39620,104,thriller,IN,Dhamaka thriller IN,dhamaka thriller,1
+168,Bareilly Ki Barfi,2017,7.5,23011,123,romance,IN,Bareilly Ki Barfi romance IN,bareilli ki barfi romanc,4
+169,Les Misérables,2012,7.5,325132,157,drama,GB,Les Misérables drama GB,le mi rabl drama gb,3
+170,Berserk: The Golden Age Arc I - The Egg of the King,2012,7.5,12278,76,fantasy,JP,Berserk: The Golden Age Arc I - The Egg of the King fantasy JP,berserk golden age arc egg king fantasi jp,0
+171,Dil Se..,1998,7.5,28409,163,drama,IN,Dil Se.. drama IN,dil se drama,3
+172,Omar,2013,7.5,14230,96,thriller,PS,Omar thriller PS,omar thriller ps,1
+173,I Lost My Body,2019,7.5,31531,81,fantasy,FR,I Lost My Body fantasy FR,lost bodi fantasi fr,0
+174,"tick, tick... BOOM!",2021,7.5,96418,121,drama,US,"tick, tick... BOOM! drama US",tick tick boom drama us,3
+175,Coming Soon,2014,7.5,33714,134,drama,TR,Coming Soon drama TR,come soon drama tr,3
+176,Nocturnal Animals,2016,7.5,264884,115,drama,US,Nocturnal Animals drama US,nocturn anim drama us,3
+177,A Monster Calls,2016,7.5,86614,108,fantasy,ES,A Monster Calls fantasy ES,monster call fantasi es,0
+178,On Body and Soul,2017,7.5,27003,116,fantasy,HU,On Body and Soul fantasy HU,bodi soul fantasi hu,0
+179,Ala Vaikunthapurramuloo,2020,7.5,14839,165,drama,IN,Ala Vaikunthapurramuloo drama IN,ala vaikunthapurramuloo drama,3
+180,The Devil's Advocate,1997,7.5,361422,144,horror,DE,The Devil's Advocate horror DE,devil advoc horror de,0
+181,Sivaji: The Boss,2007,7.5,19556,189,drama,IN,Sivaji: The Boss drama IN,sivaji boss drama,3
+182,Happy as Lazzaro,2018,7.5,17716,125,fantasy,IT,Happy as Lazzaro fantasy IT,happi lazzaro fantasi,0
+183,The Guns of Navarone,1961,7.5,50150,158,war,US,The Guns of Navarone war US,gun navaron war us,3
+184,Who Am I,2014,7.5,55044,105,thriller,DE,Who Am I thriller DE,thriller de,1
+185,White Christmas,1954,7.5,42373,115,romance,US,White Christmas romance US,white christma romanc us,4
+186,Ip Man 2,2010,7.5,103673,108,drama,CN,Ip Man 2 drama CN,ip man drama cn,3
+187,42,2013,7.5,93314,128,drama,US,42 drama US,drama us,3
+188,Menace II Society,1993,7.5,57399,97,drama,US,Menace II Society drama US,menac ii societi drama us,3
+189,Hum Aapke Hain Koun..!,1994,7.5,20986,206,romance,IN,Hum Aapke Hain Koun..! romance IN,hum aapk hain koun romanc,4
+190,Blow,2001,7.5,255099,124,drama,US,Blow drama US,blow drama us,3
+191,Begin Again,2013,7.4,154049,104,comedy,US,Begin Again comedy US,begin comedi us,2
+192,Uncut Gems,2019,7.4,261956,130,drama,US,Uncut Gems drama US,uncut gem drama us,3
+193,Sherlock Holmes: A Game of Shadows,2011,7.4,446531,129,crime,US,Sherlock Holmes: A Game of Shadows crime US,sherlock holm game shadow crime us,0
+194,Rurouni Kenshin Part I: Origins,2012,7.4,25793,134,drama,JP,Rurouni Kenshin Part I: Origins drama JP,rurouni kenshin part origin drama jp,3
+195,Forgotten,2017,7.4,29804,109,thriller,KR,Forgotten thriller KR,forgotten thriller kr,1
+196,Tamasha,2015,7.4,26790,139,drama,IN,Tamasha drama IN,tamasha drama,3
+197,Mudbound,2017,7.4,47676,120,drama,US,Mudbound drama US,mudbound drama us,3
+198,Lady Bird,2017,7.4,277165,94,drama,US,Lady Bird drama US,ladi bird drama us,3
+199,Molly's Game,2017,7.4,165817,140,drama,CA,Molly's Game drama CA,molli game drama ca,3
+200,Raman Raghav 2.0,2016,7.4,14380,134,thriller,IN,Raman Raghav 2.0 thriller IN,raman raghav thriller,1
+201,Once Upon a Time in Mumbaai,2010,7.4,17494,132,thriller,IN,Once Upon a Time in Mumbaai thriller IN,upon time mumbaai thriller,1
+202,Jaane Tu... Ya Jaane Na,2008,7.4,26738,155,drama,IN,Jaane Tu... Ya Jaane Na drama IN,jaan tu ya jaan na drama,3
+203,Peepli Live,2010,7.4,12265,104,drama,IN,Peepli Live drama IN,peepli live drama,3
+204,Even the Rain,2010,7.4,13446,104,drama,ES,Even the Rain drama ES,even rain drama es,3
+205,Darkest Hour,2017,7.4,193208,125,drama,GB,Darkest Hour drama GB,darkest hour drama gb,3
+206,The Bucket List,2007,7.4,242733,97,drama,US,The Bucket List drama US,bucket list drama us,3
+207,American Factory,2019,7.4,21415,110,documentary,US,American Factory documentary US,american factori documentari us,3
+208,Miss Americana,2020,7.4,19151,85,documentary,US,Miss Americana documentary US,miss americana documentari us,3
+209,The Hand of God,2021,7.4,30235,130,drama,IT,The Hand of God drama IT,hand god drama,3
+210,A Nightmare on Elm Street,1984,7.4,230543,91,horror,US,A Nightmare on Elm Street horror US,nightmar elm street horror us,0
+211,83,2021,7.4,23781,163,drama,IN,83 drama IN,drama,3
+212,Meenakshi Sundareshwar,2021,7.4,17141,141,comedy,IN,Meenakshi Sundareshwar comedy IN,meenakshi sundareshwar comedi,2
+213,Kurup,2021,7.4,11582,155,crime,IN,Kurup crime IN,kurup crime,0
+214,"Crazy, Stupid, Love.",2011,7.4,507878,118,romance,US,"Crazy, Stupid, Love. romance US",crazi stupid love romanc us,4
+215,Schumacher,2021,7.4,21558,112,sports,DE,Schumacher sports DE,schumach sport de,0
+216,Guzaarish,2010,7.4,18466,126,drama,IN,Guzaarish drama IN,guzaarish drama,3
+217,What the Health,2017,7.4,28911,97,documentary,US,What the Health documentary US,health documentari us,3
+218,Mirage,2018,7.4,52657,129,thriller,ES,Mirage thriller ES,mirag thriller es,1
+219,Bully,2011,7.4,10266,92,drama,US,Bully drama US,bulli drama us,3
+220,Phantom Thread,2017,7.4,128600,130,romance,US,Phantom Thread romance US,phantom thread romanc us,4
+221,Looper,2012,7.4,566791,119,thriller,US,Looper thriller US,looper thriller us,1
+222,Felon,2008,7.4,78039,103,crime,US,Felon crime US,felon crime us,0
+223,Life in a Metro,2007,7.4,11934,124,drama,IN,Life in a Metro drama IN,life metro drama,3
+224,Kabhi Khushi Kabhie Gham,2001,7.4,48818,210,drama,IN,Kabhi Khushi Kabhie Gham drama IN,kabhi khushi kabhi gham drama,3
+225,Kaminey,2009,7.4,17136,135,drama,IN,Kaminey drama IN,kaminey drama,3
+226,"Girl, Interrupted",1999,7.3,180532,127,drama,US,"Girl, Interrupted drama US",girl interrupt drama us,3
+227,Talaash,2012,7.3,41752,149,thriller,IN,Talaash thriller IN,talaash thriller,1
+228,Starship Troopers,1997,7.3,288960,129,scifi,US,Starship Troopers scifi US,starship trooper scifi us,0
+229,The Guernsey Literary & Potato Peel Pie Society,2018,7.3,44917,124,romance,GB,The Guernsey Literary & Potato Peel Pie Society romance GB,guernsey literari potato peel pie societi romanc gb,4
+230,Okja,2017,7.3,116305,122,drama,KR,Okja drama KR,okja drama kr,3
+231,Ishqiya,2010,7.3,10415,115,comedy,IN,Ishqiya comedy IN,ishqiya comedi,2
+232,The Edge of Seventeen,2016,7.3,120488,104,comedy,US,The Edge of Seventeen comedy US,edg seventeen comedi us,2
+233,Pyaar Ka Punchnama 2,2015,7.3,14968,159,comedy,IN,Pyaar Ka Punchnama 2 comedy IN,pyaar ka punchnama comedi,2
+234,The Nightingale,2018,7.3,28196,136,thriller,AU,The Nightingale thriller AU,nightingal thriller au,1
+235,Corpse Bride,2005,7.3,265023,77,fantasy,US,Corpse Bride fantasy US,corps bride fantasi us,0
+236,Memoirs of a Geisha,2005,7.3,146847,145,drama,FR,Memoirs of a Geisha drama FR,memoir geisha drama fr,3
+237,El Camino: A Breaking Bad Movie,2019,7.3,216847,123,thriller,US,El Camino: A Breaking Bad Movie thriller US,el camino break bad movi thriller us,1
+238,Official Secrets,2019,7.3,45200,112,thriller,GB,Official Secrets thriller GB,offici secret thriller gb,1
+239,Coach Carter,2005,7.3,143670,130,drama,US,Coach Carter drama US,coach carter drama us,3
+240,The King,2019,7.3,119020,140,drama,AU,The King drama AU,king drama au,3
+241,Identity,2003,7.3,240433,90,thriller,US,Identity thriller US,ident thriller us,1
+242,The Best of Enemies,2019,7.3,16441,133,drama,US,The Best of Enemies drama US,best enemi drama us,3
+243,The Professionals,1966,7.3,16168,117,western,US,The Professionals western US,profession western us,3
+244,Raat Akeli Hai,2020,7.3,17570,149,thriller,IN,Raat Akeli Hai thriller IN,raat ake hai thriller,1
+245,Little Women,1994,7.3,57621,115,drama,US,Little Women drama US,littl women drama us,3
+246,Badhaai Do,2022,7.3,15032,147,comedy,IN,Badhaai Do comedy IN,badhaai comedi,2
+247,The Conjuring 2,2016,7.3,260693,134,thriller,US,The Conjuring 2 thriller US,conjur thriller us,1
+248,The Fundamentals of Caring,2016,7.3,70542,97,drama,US,The Fundamentals of Caring drama US,fundament care drama us,3
+249,The Ballad of Buster Scruggs,2018,7.3,141528,132,western,US,The Ballad of Buster Scruggs western US,ballad buster scrugg western us,3
+250,Shot Caller,2017,7.3,83961,120,thriller,US,Shot Caller thriller US,shot caller thriller us,1
+251,The Disaster Artist,2017,7.3,149604,104,comedy,US,The Disaster Artist comedy US,disast artist comedi us,2
+252,Blue Jay,2016,7.3,17033,81,romance,US,Blue Jay romance US,blue jay romanc us,4
+253,Te3n,2016,7.3,12816,136,thriller,IN,Te3n thriller IN,te n thriller,1
+254,Monster,2003,7.3,149218,110,crime,US,Monster crime US,monster crime us,0
+255,No One Killed Jessica,2011,7.2,11665,136,crime,IN,No One Killed Jessica crime IN,one kill jessica crime,0
+256,Toilet: A Love Story,2017,7.2,20675,155,comedy,IN,Toilet: A Love Story comedy IN,toilet love stori comedi,2
+257,Wish Dragon,2021,7.2,24712,99,fantasy,CN,Wish Dragon fantasy CN,wish dragon fantasi cn,0
+258,Mom,2017,7.2,10320,147,crime,IN,Mom crime IN,mom crime,0
+259,The Professor and the Madman,2019,7.2,44418,124,thriller,US,The Professor and the Madman thriller US,professor madman thriller us,1
+260,Kabir Singh,2019,7.2,30949,172,drama,IN,Kabir Singh drama IN,kabir singh drama,3
+261,Dolemite Is My Name,2019,7.2,59836,118,comedy,US,Dolemite Is My Name comedy US,dolemit name comedi us,2
+262,In the Line of Fire,1993,7.2,101939,128,drama,US,In the Line of Fire drama US,line fire drama us,3
+263,The Witcher: Nightmare of the Wolf,2021,7.2,41508,83,fantasy,PL,The Witcher: Nightmare of the Wolf fantasy PL,witcher nightmar wolf fantasi pl,0
+264,Ittefaq,2017,7.2,12095,107,thriller,IN,Ittefaq thriller IN,ittefaq thriller,1
+265,The Tinder Swindler,2022,7.2,57606,114,crime,GB,The Tinder Swindler crime GB,tinder swindler crime gb,0
+266,First They Killed My Father,2017,7.2,17871,136,drama,KH,First They Killed My Father drama KH,first kill father drama kh,3
+267,Don't Look Up,2021,7.2,498447,138,scifi,US,Don't Look Up scifi US,look scifi us,0
+268,Wazir,2016,7.2,18681,103,thriller,IN,Wazir thriller IN,wazir thriller,1
+269,Gabbar Is Back,2015,7.2,24676,130,drama,IN,Gabbar Is Back drama IN,gabbar back drama,3
+270,Fyre,2019,7.2,44715,98,documentary,US,Fyre documentary US,fyre documentari us,3
+271,Steve Jobs,2015,7.2,166288,122,drama,GB,Steve Jobs drama GB,steve job drama gb,3
+272,Shooter,2007,7.2,329417,124,thriller,US,Shooter thriller US,shooter thriller us,1
+273,The Butler,2013,7.2,114013,132,drama,US,The Butler drama US,butler drama us,3
+274,The Siege of Jadotville,2016,7.2,38308,108,thriller,IE,The Siege of Jadotville thriller IE,sieg jadotvil thriller ie,1
+275,Closer,2004,7.2,215678,94,drama,GB,Closer drama GB,closer drama gb,3
+276,Private Life,2018,7.2,19023,123,drama,US,Private Life drama US,privat life drama us,3
+277,American Murder: The Family Next Door,2020,7.2,26355,83,crime,US,American Murder: The Family Next Door crime US,american murder famili next door crime us,0
+278,St. Vincent,2014,7.2,102103,102,comedy,US,St. Vincent comedy US,st vincent comedi us,2
+279,A River Runs Through It,1992,7.2,59086,123,drama,US,A River Runs Through It drama US,river run drama us,3
+280,The Patriot,2000,7.2,270231,165,drama,DE,The Patriot drama DE,patriot drama de,3
+281,Five Feet Apart,2019,7.2,61878,116,romance,US,Five Feet Apart romance US,five feet apart romanc us,4
+282,Michael Clayton,2007,7.2,163878,120,thriller,US,Michael Clayton thriller US,michael clayton thriller us,1
+283,The Edge of Democracy,2019,7.2,14605,121,documentary,BR,The Edge of Democracy documentary BR,edg democraci documentari br,0
+284,Paddington,2014,7.2,111092,96,comedy,FR,Paddington comedy FR,paddington comedi fr,2
+285,Wedding Association,2013,7.1,22186,106,comedy,XX,Wedding Association comedy XX,wed associ comedi xx,2
+286,Let Me In,2010,7.1,120208,116,horror,GB,Let Me In horror GB,let horror gb,0
+287,Raajneeti,2010,7.1,17555,167,drama,IN,Raajneeti drama IN,raajneeti drama,3
+288,Body of Lies,2008,7.1,224896,128,drama,GB,Body of Lies drama GB,bodi lie drama gb,3
+289,The Forgotten Battle,2020,7.1,26368,124,drama,LT,The Forgotten Battle drama LT,forgotten battl drama lt,3
+290,Knock Down the House,2019,7.1,12418,86,documentary,US,Knock Down the House documentary US,knock hous documentari us,3
+291,The Call,2020,7.1,29450,112,thriller,KR,The Call thriller KR,call thriller kr,1
+292,Forgetting Sarah Marshall,2008,7.1,280121,111,comedy,US,Forgetting Sarah Marshall comedy US,forget sarah marshal comedi us,2
+293,The Railway Man,2013,7.1,39743,116,drama,GB,The Railway Man drama GB,railway man drama gb,3
+294,The Great Hack,2019,7.1,22838,114,documentary,US,The Great Hack documentary US,great hack documentari us,3
+295,Paddleton,2019,7.1,13419,89,drama,US,Paddleton drama US,paddleton drama us,3
+296,Desperado,1995,7.1,183638,104,thriller,US,Desperado thriller US,desperado thriller us,1
+297,Gantz:O,2016,7.1,14501,95,animation,JP,Gantz:O animation JP,gantz anim jp,0
+298,The Ring,2002,7.1,341888,111,horror,JP,The Ring horror JP,ring horror jp,0
+299,Margin Call,2011,7.1,125883,107,thriller,US,Margin Call thriller US,margin call thriller us,1
+300,Copenhagen,2014,7.1,13135,98,drama,US,Copenhagen drama US,copenhagen drama us,3
+301,Black Mirror: Bandersnatch,2018,7.1,123377,90,scifi,GB,Black Mirror: Bandersnatch scifi GB,black mirror bandersnatch scifi gb,0
+302,Metallica: Through the Never,2013,7.1,17433,93,musical,US,Metallica: Through the Never musical US,metallica never music us,3
+303,Seven Years in Tibet,1997,7.1,141308,136,drama,US,Seven Years in Tibet drama US,seven year tibet drama us,3
+304,Girl,2018,7.1,14046,105,drama,NL,Girl drama NL,girl drama nl,3
+305,Kung Fu Panda 3,2016,7.1,152791,95,comedy,US,Kung Fu Panda 3 comedy US,kung fu panda comedi us,2
+306,To All the Boys I've Loved Before,2018,7.1,101175,100,romance,US,To All the Boys I've Loved Before romance US,boy love romanc us,4
+307,Arthur Christmas,2011,7.1,58296,97,drama,GB,Arthur Christmas drama GB,arthur christma drama gb,3
+308,Trailer Park Boys: The Movie,2006,7.1,12831,95,comedy,CA,Trailer Park Boys: The Movie comedy CA,trailer park boy movi comedi ca,2
+309,Karthik Calling Karthik,2010,7.1,11944,135,thriller,IN,Karthik Calling Karthik thriller IN,karthik call karthik thriller,1
+310,The White Tiger,2021,7.1,58190,125,drama,IN,The White Tiger drama IN,white tiger drama,3
+311,Shootout at Lokhandwala,2007,7.1,10139,145,crime,IN,Shootout at Lokhandwala crime IN,shootout lokhandwala crime,0
+312,The Devil All the Time,2020,7.1,122321,138,drama,US,The Devil All the Time drama US,devil time drama us,3
+313,Tangerine,2015,7.1,31385,87,comedy,US,Tangerine comedy US,tangerin comedi us,2
+314,The Danish Girl,2015,7.1,180805,119,drama,DE,The Danish Girl drama DE,danish girl drama de,3
+315,The Unforgivable,2021,7.1,101975,112,drama,DE,The Unforgivable drama DE,unforgiv drama de,3
+316,Phir Hera Pheri,2006,7.1,22505,155,comedy,IN,Phir Hera Pheri comedy IN,phir hera pheri comedi,2
+317,War Dogs,2016,7.1,208185,114,crime,US,War Dogs crime US,war dog crime us,0
+318,The Dig,2021,7.1,71915,112,drama,GB,The Dig drama GB,dig drama gb,3
+319,Blade,1998,7.1,267181,120,action,US,Blade action US,blade action us,0
+320,Luck by Chance,2009,7.1,10206,155,romance,IN,Luck by Chance romance IN,luck chanc romanc,4
+321,Namastey London,2007,7.1,21745,131,comedy,IN,Namastey London comedy IN,namastey london comedi,2
+322,Don,2006,7.1,36836,178,thriller,IN,Don thriller IN,thriller,1
+323,Don 2,2011,7.1,52338,139,action,DE,Don 2 action DE,action de,0
+324,Main Hoon Na,2004,7.0,35142,179,drama,IN,Main Hoon Na drama IN,main hoon na drama,3
+325,Gangubai Kathiawadi,2022,7.0,44045,157,drama,IN,Gangubai Kathiawadi drama IN,gangubai kathiawadi drama,3
+326,Croupier,1998,7.0,21382,94,thriller,FR,Croupier thriller FR,croupier thriller fr,1
+327,Pieces of a Woman,2020,7.0,47795,127,drama,HU,Pieces of a Woman drama HU,piec woman drama hu,3
+328,Raw,2016,7.0,72460,98,horror,BE,Raw horror BE,raw horror,0
+329,Loving,2016,7.0,34139,123,drama,GB,Loving drama GB,love drama gb,3
+330,Harold & Kumar Go to White Castle,2004,7.0,193053,88,comedy,US,Harold & Kumar Go to White Castle comedy US,harold kumar go white castl comedi us,2
+331,Haseen Dillruba,2021,7.0,25771,135,drama,IN,Haseen Dillruba drama IN,haseen dillruba drama,3
+332,Rose Island,2020,7.0,20019,117,drama,IT,Rose Island drama IT,rose island drama,3
+333,Ferry,2021,7.0,10748,106,drama,NL,Ferry drama NL,ferri drama nl,3
+334,Handsome Devil,2017,7.0,13708,95,drama,IE,Handsome Devil drama IE,handsom devil drama ie,3
+335,Torbaaz,2020,7.0,17828,132,drama,IN,Torbaaz drama IN,torbaaz drama,3
+336,Ip Man 3,2015,7.0,54128,105,drama,HK,Ip Man 3 drama HK,ip man drama hk,3
+337,The Foreigner,2017,7.0,112487,113,thriller,IN,The Foreigner thriller IN,foreign thriller,1
+338,Mirai,2018,7.0,14983,98,fantasy,JP,Mirai fantasy JP,mirai fantasi jp,0
+339,Gaga: Five Foot Two,2017,7.0,12825,100,musical,US,Gaga: Five Foot Two musical US,gaga five foot two music us,3
+340,The Christmas Chronicles,2018,7.0,71182,104,fantasy,US,The Christmas Chronicles fantasy US,christma chronicl fantasi us,0
+341,Sarkar,2018,7.0,18453,164,drama,IN,Sarkar drama IN,sarkar drama,3
+342,Rambo,2008,7.0,228799,92,thriller,US,Rambo thriller US,rambo thriller us,1
+343,Dil Dhadakne Do,2015,7.0,17149,170,drama,IN,Dil Dhadakne Do drama IN,dil dhadakn drama,3
+344,Soul Surfer,2011,7.0,49101,112,drama,US,Soul Surfer drama US,soul surfer drama us,3
+345,Happy Gilmore,1996,7.0,217534,92,comedy,US,Happy Gilmore comedy US,happi gilmor comedi us,2
+346,Den of Thieves,2018,7.0,107701,140,thriller,US,Den of Thieves thriller US,den thiev thriller us,1
+347,The Zookeeper's Wife,2017,7.0,42808,122,drama,GB,The Zookeeper's Wife drama GB,zookeep wife drama gb,3
+348,The Platform,2019,7.0,207877,94,horror,ES,The Platform horror ES,platform horror es,0
+349,Public Enemies,2009,7.0,297525,143,crime,US,Public Enemies crime US,public enemi crime us,0
+350,Ip Man 4: The Finale,2019,7.0,30694,107,drama,CN,Ip Man 4: The Finale drama CN,ip man final drama cn,3
+351,John Q,2002,7.0,131999,116,drama,US,John Q drama US,john q drama us,3
+352,Fashion,2008,6.9,12468,167,romance,IN,Fashion romance IN,fashion romanc,4
+353,Ma Rainey's Black Bottom,2020,6.9,50275,94,musical,US,Ma Rainey's Black Bottom musical US,rainey black bottom music us,3
+354,Any Given Sunday,1999,6.9,118479,162,drama,US,Any Given Sunday drama US,given sunday drama us,3
+355,The Long Riders,1980,6.9,11329,99,western,US,The Long Riders western US,long rider western us,3
+356,Get on Up,2014,6.9,24456,139,drama,US,Get on Up drama US,get drama us,3
+357,Fukrey,2013,6.9,11656,137,romance,IN,Fukrey romance IN,fukrey romanc,4
+358,Chup Chup Ke,2006,6.9,10528,165,comedy,IN,Chup Chup Ke comedy IN,chup chup ke comedi,2
+359,Then Came You,2019,6.9,12356,93,comedy,US,Then Came You comedy US,came comedi us,2
+360,The Wolf's Call,2019,6.9,17236,115,thriller,FR,The Wolf's Call thriller FR,wolf call thriller fr,1
+361,Cloudy with a Chance of Meatballs,2009,6.9,226225,90,animation,US,Cloudy with a Chance of Meatballs animation US,cloudi chanc meatbal anim us,3
+362,Our Souls at Night,2017,6.9,13360,101,drama,US,Our Souls at Night drama US,soul night drama us,3
+363,Chandigarh Kare Aashiqui,2021,6.9,12303,117,crime,IN,Chandigarh Kare Aashiqui crime IN,chandigarh kare aashiqui crime,0
+364,Welcome,2007,6.9,21799,160,romance,IN,Welcome romance IN,welcom romanc,4
+365,Everybody Knows,2018,6.9,34009,132,drama,IT,Everybody Knows drama IT,everybodi know drama,3
+366,The Meyerowitz Stories (New and Selected),2017,6.9,47971,112,drama,US,The Meyerowitz Stories (New and Selected) drama US,meyerowitz stori new select drama us,3
+367,I Don't Feel at Home in This World Anymore,2017,6.9,55549,93,drama,US,I Don't Feel at Home in This World Anymore drama US,feel home world anymor drama us,3
+368,The Highwaymen,2019,6.9,88714,132,thriller,US,The Highwaymen thriller US,highwaymen thriller us,1
+369,Legend,2015,6.9,175273,132,thriller,US,Legend thriller US,legend thriller us,1
+370,AK vs AK,2020,6.9,14048,108,drama,IN,AK vs AK drama IN,ak vs ak drama,3
+371,My Girl,1991,6.9,79800,103,comedy,US,My Girl comedy US,girl comedi us,2
+372,Amanda Knox,2016,6.9,23969,92,crime,DK,Amanda Knox crime DK,amanda knox crime dk,0
+373,2 States,2014,6.9,25344,149,comedy,IN,2 States comedy IN,state comedi,2
+374,The Power of the Dog,2021,6.9,158487,126,drama,CA,The Power of the Dog drama CA,power dog drama ca,3
+375,The Half of It,2020,6.9,34959,104,comedy,US,The Half of It comedy US,half comedi us,2
+376,Outlaw King,2018,6.9,69834,121,drama,GB,Outlaw King drama GB,outlaw king drama gb,3
+377,Mary Kom,2014,6.9,10656,122,drama,IN,Mary Kom drama IN,mari kom drama,3
+378,Suffragette,2015,6.9,41529,106,drama,FR,Suffragette drama FR,suffragett drama fr,3
+379,Legend of the Guardians: The Owls of Ga'Hoole,2010,6.9,82623,100,fantasy,US,Legend of the Guardians: The Owls of Ga'Hoole fantasy US,legend guardian owl ga hool fantasi us,0
+380,Christine,2016,6.9,14977,115,drama,US,Christine drama US,christin drama us,3
+381,The Night Comes for Us,2018,6.9,25500,121,thriller,ID,The Night Comes for Us thriller ID,night come us thriller id,1
+382,The Trip,2021,6.9,19706,113,comedy,NO,The Trip comedy NO,trip comedi,2
+383,The Dirt,2019,6.9,47603,108,drama,US,The Dirt drama US,dirt drama us,3
+384,Top Gun,1986,6.9,329656,110,drama,US,Top Gun drama US,top gun drama us,3
+385,Radhe Shyam,2022,6.9,21328,138,romance,IN,Radhe Shyam romance IN,radh shyam romanc,4
+386,Sorry to Bother You,2018,6.9,75653,111,fantasy,US,Sorry to Bother You fantasy US,sorri bother fantasi us,0
