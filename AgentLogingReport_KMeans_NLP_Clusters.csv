@@ -1,0 +1,1001 @@
+SL No,Agent,Date,Login Time,Logout Time,Duration,combined_text,clean_text,Cluster
+1,Shivananda Sonwane,30-Jul-22,15:35:29,17:39:39,02:04:10,Shivananda Sonwane 30-Jul-22 15:35:29 17:39:39 02:04:10,shivananda sonwane jul,1
+2,Khushboo Priya,30-Jul-22,15:06:59,15:07:16,00:00:17,Khushboo Priya 30-Jul-22 15:06:59 15:07:16 00:00:17,khushboo priya jul,1
+3,Nandani Gupta,30-Jul-22,15:04:24,17:31:07,02:26:42,Nandani Gupta 30-Jul-22 15:04:24 17:31:07 02:26:42,nandani gupta jul,0
+4,Hrisikesh Neogi,30-Jul-22,14:34:29,15:19:35,00:45:06,Hrisikesh Neogi 30-Jul-22 14:34:29 15:19:35 00:45:06,hrisikesh neogi jul,1
+5,Mukesh,30-Jul-22,14:03:15,15:11:52,01:08:36,Mukesh 30-Jul-22 14:03:15 15:11:52 01:08:36,mukesh jul,1
+6,Sowmiya Sivakumar,30-Jul-22,14:03:11,15:05:37,01:02:26,Sowmiya Sivakumar 30-Jul-22 14:03:11 15:05:37 01:02:26,sowmiya sivakumar jul,1
+7,Manjunatha A,30-Jul-22,14:00:12,15:08:29,01:08:16,Manjunatha A 30-Jul-22 14:00:12 15:08:29 01:08:16,manjunatha jul,1
+8,Harikrishnan Shaji,30-Jul-22,13:53:05,16:06:49,02:13:43,Harikrishnan Shaji 30-Jul-22 13:53:05 16:06:49 02:13:43,harikrishnan shaji jul,1
+9,Suraj S Bilgi,30-Jul-22,13:50:01,15:11:42,01:21:41,Suraj S Bilgi 30-Jul-22 13:50:01 15:11:42 01:21:41,suraj bilgi jul,1
+10,Shivan K,30-Jul-22,13:28:18,13:59:00,00:30:42,Shivan K 30-Jul-22 13:28:18 13:59:00 00:30:42,shivan k jul,1
+11,Anurag Tiwari,30-Jul-22,13:06:12,13:11:57,00:05:44,Anurag Tiwari 30-Jul-22 13:06:12 13:11:57 00:05:44,anurag tiwari jul,1
+12,Ishawant Kumar,30-Jul-22,13:05:35,13:12:45,00:07:10,Ishawant Kumar 30-Jul-22 13:05:35 13:12:45 00:07:10,ishawant kumar jul,3
+13,Shivan K,30-Jul-22,13:01:33,13:27:53,00:26:20,Shivan K 30-Jul-22 13:01:33 13:27:53 00:26:20,shivan k jul,1
+14,Shubham Sharma,30-Jul-22,12:48:50,13:03:10,00:14:20,Shubham Sharma 30-Jul-22 12:48:50 13:03:10 00:14:20,shubham sharma jul,1
+15,Shivan K,30-Jul-22,12:34:27,12:40:37,00:06:10,Shivan K 30-Jul-22 12:34:27 12:40:37 00:06:10,shivan k jul,1
+16,Prerna Singh,30-Jul-22,12:32:28,14:10:08,01:37:40,Prerna Singh 30-Jul-22 12:32:28 14:10:08 01:37:40,prerna singh jul,1
+17,Shivan K,30-Jul-22,12:26:15,12:28:15,00:02:00,Shivan K 30-Jul-22 12:26:15 12:28:15 00:02:00,shivan k jul,1
+18,Shivan K,30-Jul-22,11:54:57,12:13:38,00:18:40,Shivan K 30-Jul-22 11:54:57 12:13:38 00:18:40,shivan k jul,1
+19,Hrisikesh Neogi,30-Jul-22,11:48:23,14:23:52,02:35:29,Hrisikesh Neogi 30-Jul-22 11:48:23 14:23:52 02:35:29,hrisikesh neogi jul,1
+20,Khushboo Priya,30-Jul-22,11:35:29,15:06:52,03:31:22,Khushboo Priya 30-Jul-22 11:35:29 15:06:52 03:31:22,khushboo priya jul,1
+21,Nishtha Jain,30-Jul-22,11:34:54,15:06:11,03:31:17,Nishtha Jain 30-Jul-22 11:34:54 15:06:11 03:31:17,nishtha jain jul,1
+22,Prateek _iot,30-Jul-22,11:16:36,11:20:26,00:03:50,Prateek _iot 30-Jul-22 11:16:36 11:20:26 00:03:50,prateek iot jul,1
+23,Hrisikesh Neogi,30-Jul-22,10:07:31,11:44:57,01:37:25,Hrisikesh Neogi 30-Jul-22 10:07:31 11:44:57 01:37:25,hrisikesh neogi jul,1
+24,Shivan K,30-Jul-22,09:22:39,11:54:03,02:31:23,Shivan K 30-Jul-22 09:22:39 11:54:03 02:31:23,shivan k jul,1
+25,Nishtha Jain,30-Jul-22,09:19:25,10:50:37,01:31:12,Nishtha Jain 30-Jul-22 09:19:25 10:50:37 01:31:12,nishtha jain jul,1
+26,Khushboo Priya,30-Jul-22,09:16:43,11:19:59,02:03:15,Khushboo Priya 30-Jul-22 09:16:43 11:19:59 02:03:15,khushboo priya jul,1
+27,Suraj S Bilgi,30-Jul-22,09:14:28,13:40:23,04:25:55,Suraj S Bilgi 30-Jul-22 09:14:28 13:40:23 04:25:55,suraj bilgi jul,1
+28,Mithun S,30-Jul-22,09:13:18,15:14:28,06:01:10,Mithun S 30-Jul-22 09:13:18 15:14:28 06:01:10,mithun jul,1
+29,Harikrishnan Shaji,30-Jul-22,09:12:11,13:19:25,04:07:13,Harikrishnan Shaji 30-Jul-22 09:12:11 13:19:25 04:07:13,harikrishnan shaji jul,1
+30,Manjunatha A,30-Jul-22,09:11:59,12:58:23,03:46:23,Manjunatha A 30-Jul-22 09:11:59 12:58:23 03:46:23,manjunatha jul,1
+31,Hrisikesh Neogi,30-Jul-22,09:11:05,10:05:53,00:54:47,Hrisikesh Neogi 30-Jul-22 09:11:05 10:05:53 00:54:47,hrisikesh neogi jul,1
+32,Sowmiya Sivakumar,30-Jul-22,09:00:17,13:38:54,04:38:37,Sowmiya Sivakumar 30-Jul-22 09:00:17 13:38:54 04:38:37,sowmiya sivakumar jul,1
+33,Madhulika G,30-Jul-22,08:58:44,14:19:14,05:20:30,Madhulika G 30-Jul-22 08:58:44 14:19:14 05:20:30,madhulika g jul,1
+34,Boktiar Ahmed Bappy,30-Jul-22,02:09:33,02:52:03,00:42:29,Boktiar Ahmed Bappy 30-Jul-22 02:09:33 02:52:03 00:42:29,boktiar ahmed bappy jul,1
+35,Jawala Prakash,29-Jul-22,23:40:40,03:06:43,03:26:03,Jawala Prakash 29-Jul-22 23:40:40 03:06:43 03:26:03,jawala prakash jul,1
+36,Dibyanshu,29-Jul-22,23:29:51,00:37:20,01:07:28,Dibyanshu 29-Jul-22 23:29:51 00:37:20 01:07:28,dibyanshu jul,1
+37,Dibyanshu,29-Jul-22,23:25:45,23:27:45,00:02:00,Dibyanshu 29-Jul-22 23:25:45 23:27:45 00:02:00,dibyanshu jul,1
+38,Dibyanshu,29-Jul-22,23:08:53,23:10:53,00:02:00,Dibyanshu 29-Jul-22 23:08:53 23:10:53 00:02:00,dibyanshu jul,1
+39,Hrisikesh Neogi,29-Jul-22,23:06:02,01:38:08,02:32:06,Hrisikesh Neogi 29-Jul-22 23:06:02 01:38:08 02:32:06,hrisikesh neogi jul,1
+40,Dibyanshu,29-Jul-22,22:38:21,22:40:21,00:02:00,Dibyanshu 29-Jul-22 22:38:21 22:40:21 00:02:00,dibyanshu jul,1
+41,Boktiar Ahmed Bappy,29-Jul-22,22:06:15,02:07:46,04:01:30,Boktiar Ahmed Bappy 29-Jul-22 22:06:15 02:07:46 04:01:30,boktiar ahmed bappy jul,1
+42,Jawala Prakash,29-Jul-22,21:49:53,23:33:19,01:43:26,Jawala Prakash 29-Jul-22 21:49:53 23:33:19 01:43:26,jawala prakash jul,1
+43,Boktiar Ahmed Bappy,29-Jul-22,21:40:33,22:01:15,00:20:41,Boktiar Ahmed Bappy 29-Jul-22 21:40:33 22:01:15 00:20:41,boktiar ahmed bappy jul,1
+44,Jawala Prakash,29-Jul-22,21:40:18,21:47:11,00:06:52,Jawala Prakash 29-Jul-22 21:40:18 21:47:11 00:06:52,jawala prakash jul,1
+45,Boktiar Ahmed Bappy,29-Jul-22,21:36:53,21:39:04,00:02:10,Boktiar Ahmed Bappy 29-Jul-22 21:36:53 21:39:04 00:02:10,boktiar ahmed bappy jul,1
+46,Hrisikesh Neogi,29-Jul-22,21:19:07,23:00:55,01:41:48,Hrisikesh Neogi 29-Jul-22 21:19:07 23:00:55 01:41:48,hrisikesh neogi jul,1
+47,Jawala Prakash,29-Jul-22,21:05:15,21:39:36,00:34:20,Jawala Prakash 29-Jul-22 21:05:15 21:39:36 00:34:20,jawala prakash jul,1
+48,Ishawant Kumar,29-Jul-22,21:03:31,03:04:35,06:01:04,Ishawant Kumar 29-Jul-22 21:03:31 03:04:35 06:01:04,ishawant kumar jul,3
+49,Deepranjan Gupta,29-Jul-22,21:02:24,03:07:02,06:04:37,Deepranjan Gupta 29-Jul-22 21:02:24 03:07:02 06:04:37,deepranjan gupta jul,0
+50,Shivananda Sonwane,29-Jul-22,21:00:59,03:02:39,06:01:39,Shivananda Sonwane 29-Jul-22 21:00:59 03:02:39 06:01:39,shivananda sonwane jul,1
+51,Jaydeep Dixit,29-Jul-22,20:57:35,21:02:05,00:04:30,Jaydeep Dixit 29-Jul-22 20:57:35 21:02:05 00:04:30,jaydeep dixit jul,1
+52,Boktiar Ahmed Bappy,29-Jul-22,20:50:08,21:36:41,00:46:32,Boktiar Ahmed Bappy 29-Jul-22 20:50:08 21:36:41 00:46:32,boktiar ahmed bappy jul,1
+53,Hrisikesh Neogi,29-Jul-22,20:47:59,21:17:55,00:29:55,Hrisikesh Neogi 29-Jul-22 20:47:59 21:17:55 00:29:55,hrisikesh neogi jul,1
+54,Jaydeep Dixit,29-Jul-22,20:45:08,20:50:58,00:05:50,Jaydeep Dixit 29-Jul-22 20:45:08 20:50:58 00:05:50,jaydeep dixit jul,1
+55,Ayushi Mishra,29-Jul-22,20:40:28,20:46:50,00:06:21,Ayushi Mishra 29-Jul-22 20:40:28 20:46:50 00:06:21,ayushi mishra jul,1
+56,Mahesh Sarade,29-Jul-22,20:08:50,21:08:35,00:59:45,Mahesh Sarade 29-Jul-22 20:08:50 21:08:35 00:59:45,mahesh sarade jul,4
+57,Muskan Garg,29-Jul-22,19:48:19,22:06:25,02:18:06,Muskan Garg 29-Jul-22 19:48:19 22:06:25 02:18:06,muskan garg jul,1
+58,Dibyanshu,29-Jul-22,19:42:11,21:53:10,02:10:58,Dibyanshu 29-Jul-22 19:42:11 21:53:10 02:10:58,dibyanshu jul,1
+59,Chaitra K Hiremath,29-Jul-22,19:41:48,19:43:58,00:02:10,Chaitra K Hiremath 29-Jul-22 19:41:48 19:43:58 00:02:10,chaitra k hiremath jul,1
+60,Dibyanshu,29-Jul-22,19:38:03,19:40:03,00:02:00,Dibyanshu 29-Jul-22 19:38:03 19:40:03 00:02:00,dibyanshu jul,1
+61,Hrisikesh Neogi,29-Jul-22,19:35:02,20:46:55,01:11:52,Hrisikesh Neogi 29-Jul-22 19:35:02 20:46:55 01:11:52,hrisikesh neogi jul,1
+62,Shiva Srivastava,29-Jul-22,19:32:34,22:03:09,02:30:34,Shiva Srivastava 29-Jul-22 19:32:34 22:03:09 02:30:34,shiva srivastava jul,1
+63,Chaitra K Hiremath,29-Jul-22,19:25:41,19:41:46,00:16:05,Chaitra K Hiremath 29-Jul-22 19:25:41 19:41:46 00:16:05,chaitra k hiremath jul,1
+64,Ishawant Kumar,29-Jul-22,19:24:30,19:29:11,00:04:40,Ishawant Kumar 29-Jul-22 19:24:30 19:29:11 00:04:40,ishawant kumar jul,3
+65,Ishawant Kumar,29-Jul-22,19:12:12,19:15:02,00:02:50,Ishawant Kumar 29-Jul-22 19:12:12 19:15:02 00:02:50,ishawant kumar jul,3
+66,Hrisikesh Neogi,29-Jul-22,19:06:38,19:32:55,00:26:16,Hrisikesh Neogi 29-Jul-22 19:06:38 19:32:55 00:26:16,hrisikesh neogi jul,1
+67,Dibyanshu,29-Jul-22,19:04:57,19:06:57,00:02:00,Dibyanshu 29-Jul-22 19:04:57 19:06:57 00:02:00,dibyanshu jul,1
+68,Deepranjan Gupta,29-Jul-22,18:59:08,20:02:55,01:03:46,Deepranjan Gupta 29-Jul-22 18:59:08 20:02:55 01:03:46,deepranjan gupta jul,0
+69,Shivananda Sonwane,29-Jul-22,18:16:18,18:32:59,00:16:41,Shivananda Sonwane 29-Jul-22 18:16:18 18:32:59 00:16:41,shivananda sonwane jul,1
+70,Dibyanshu,29-Jul-22,18:04:21,18:15:10,00:10:48,Dibyanshu 29-Jul-22 18:04:21 18:15:10 00:10:48,dibyanshu jul,1
+71,Prateek _iot,29-Jul-22,17:57:02,20:02:13,02:05:10,Prateek _iot 29-Jul-22 17:57:02 20:02:13 02:05:10,prateek iot jul,1
+72,Suraj S Bilgi,29-Jul-22,17:54:03,18:27:21,00:33:17,Suraj S Bilgi 29-Jul-22 17:54:03 18:27:21 00:33:17,suraj bilgi jul,1
+73,Aditya_iot,29-Jul-22,17:51:57,20:04:03,02:12:05,Aditya_iot 29-Jul-22 17:51:57 20:04:03 02:12:05,adityaiot jul,1
+74,Shivananda Sonwane,29-Jul-22,17:48:16,17:48:30,00:00:13,Shivananda Sonwane 29-Jul-22 17:48:16 17:48:30 00:00:13,shivananda sonwane jul,1
+75,Prerna Singh,29-Jul-22,17:47:06,21:03:44,03:16:37,Prerna Singh 29-Jul-22 17:47:06 21:03:44 03:16:37,prerna singh jul,1
+76,Mahesh Sarade,29-Jul-22,17:43:21,20:08:05,02:24:44,Mahesh Sarade 29-Jul-22 17:43:21 20:08:05 02:24:44,mahesh sarade jul,4
+77,Prateek _iot,29-Jul-22,17:39:29,17:56:14,00:16:45,Prateek _iot 29-Jul-22 17:39:29 17:56:14 00:16:45,prateek iot jul,1
+78,Dibyanshu,29-Jul-22,16:40:43,17:57:11,01:16:28,Dibyanshu 29-Jul-22 16:40:43 17:57:11 01:16:28,dibyanshu jul,1
+79,Dibyanshu,29-Jul-22,16:27:50,16:39:43,00:11:53,Dibyanshu 29-Jul-22 16:27:50 16:39:43 00:11:53,dibyanshu jul,1
+80,Dibyanshu,29-Jul-22,16:20:33,16:24:01,00:03:27,Dibyanshu 29-Jul-22 16:20:33 16:24:01 00:03:27,dibyanshu jul,1
+81,Dibyanshu,29-Jul-22,16:10:14,16:15:55,00:05:41,Dibyanshu 29-Jul-22 16:10:14 16:15:55 00:05:41,dibyanshu jul,1
+82,Ishawant Kumar,29-Jul-22,16:04:55,16:07:35,00:02:40,Ishawant Kumar 29-Jul-22 16:04:55 16:07:35 00:02:40,ishawant kumar jul,3
+83,Prabir Kumar Satapathy,29-Jul-22,15:44:14,15:55:24,00:11:10,Prabir Kumar Satapathy 29-Jul-22 15:44:14 15:55:24 00:11:10,prabir kumar satapathy jul,3
+84,Mithun S,29-Jul-22,15:44:07,15:46:17,00:02:10,Mithun S 29-Jul-22 15:44:07 15:46:17 00:02:10,mithun jul,1
+85,Nandani Gupta,29-Jul-22,15:41:31,21:02:48,05:21:17,Nandani Gupta 29-Jul-22 15:41:31 21:02:48 05:21:17,nandani gupta jul,0
+86,Dibyanshu,29-Jul-22,15:41:08,15:55:11,00:14:02,Dibyanshu 29-Jul-22 15:41:08 15:55:11 00:14:02,dibyanshu jul,1
+87,Dibyanshu,29-Jul-22,15:27:23,15:29:54,00:02:30,Dibyanshu 29-Jul-22 15:27:23 15:29:54 00:02:30,dibyanshu jul,1
+88,Deepranjan Gupta,29-Jul-22,15:19:37,16:44:55,01:25:18,Deepranjan Gupta 29-Jul-22 15:19:37 16:44:55 01:25:18,deepranjan gupta jul,0
+89,Chaitra K Hiremath,29-Jul-22,15:09:36,19:01:08,03:51:31,Chaitra K Hiremath 29-Jul-22 15:09:36 19:01:08 03:51:31,chaitra k hiremath jul,1
+90,Dibyanshu,29-Jul-22,15:08:54,15:11:15,00:02:21,Dibyanshu 29-Jul-22 15:08:54 15:11:15 00:02:21,dibyanshu jul,1
+91,Prerna Singh,29-Jul-22,15:08:22,17:20:49,02:12:27,Prerna Singh 29-Jul-22 15:08:22 17:20:49 02:12:27,prerna singh jul,1
+92,Jaydeep Dixit,29-Jul-22,15:03:12,20:42:05,05:38:53,Jaydeep Dixit 29-Jul-22 15:03:12 20:42:05 05:38:53,jaydeep dixit jul,1
+93,Nandani Gupta,29-Jul-22,15:00:55,15:33:04,00:32:09,Nandani Gupta 29-Jul-22 15:00:55 15:33:04 00:32:09,nandani gupta jul,0
+94,Sanjeev Kumar,29-Jul-22,14:59:58,21:05:44,06:05:46,Sanjeev Kumar 29-Jul-22 14:59:58 21:05:44 06:05:46,sanjeev kumar jul,3
+95,Mahesh Sarade,29-Jul-22,14:58:50,17:40:43,02:41:53,Mahesh Sarade 29-Jul-22 14:58:50 17:40:43 02:41:53,mahesh sarade jul,4
+96,Dibyanshu,29-Jul-22,14:56:50,15:00:00,00:03:10,Dibyanshu 29-Jul-22 14:56:50 15:00:00 00:03:10,dibyanshu jul,1
+97,Zeeshan,29-Jul-22,14:52:37,21:05:28,06:12:50,Zeeshan 29-Jul-22 14:52:37 21:05:28 06:12:50,zeeshan jul,1
+98,Ishawant Kumar,29-Jul-22,14:37:09,14:39:09,00:02:00,Ishawant Kumar 29-Jul-22 14:37:09 14:39:09 00:02:00,ishawant kumar jul,3
+99,Dibyanshu,29-Jul-22,14:15:51,14:38:58,00:23:06,Dibyanshu 29-Jul-22 14:15:51 14:38:58 00:23:06,dibyanshu jul,1
+100,Mukesh,29-Jul-22,14:10:14,20:02:38,05:52:24,Mukesh 29-Jul-22 14:10:14 20:02:38 05:52:24,mukesh jul,1
+101,Shivan K,29-Jul-22,13:57:28,15:05:42,01:08:14,Shivan K 29-Jul-22 13:57:28 15:05:42 01:08:14,shivan k jul,1
+102,Sowmiya Sivakumar,29-Jul-22,13:48:30,15:29:28,01:40:58,Sowmiya Sivakumar 29-Jul-22 13:48:30 15:29:28 01:40:58,sowmiya sivakumar jul,1
+103,Ishawant Kumar,29-Jul-22,13:30:00,13:33:24,00:03:24,Ishawant Kumar 29-Jul-22 13:30:00 13:33:24 00:03:24,ishawant kumar jul,3
+104,Dibyanshu,29-Jul-22,13:27:09,13:56:57,00:29:48,Dibyanshu 29-Jul-22 13:27:09 13:56:57 00:29:48,dibyanshu jul,1
+105,Ayushi Mishra,29-Jul-22,13:05:16,13:14:52,00:09:36,Ayushi Mishra 29-Jul-22 13:05:16 13:14:52 00:09:36,ayushi mishra jul,1
+106,Dibyanshu,29-Jul-22,12:37:01,13:25:58,00:48:57,Dibyanshu 29-Jul-22 12:37:01 13:25:58 00:48:57,dibyanshu jul,1
+107,Deepranjan Gupta,29-Jul-22,12:28:09,13:56:55,01:28:45,Deepranjan Gupta 29-Jul-22 12:28:09 13:56:55 01:28:45,deepranjan gupta jul,0
+108,Prabir Kumar Satapathy,29-Jul-22,12:17:07,15:00:30,02:43:23,Prabir Kumar Satapathy 29-Jul-22 12:17:07 15:00:30 02:43:23,prabir kumar satapathy jul,3
+109,Anurag Tiwari,29-Jul-22,12:11:47,12:16:48,00:05:00,Anurag Tiwari 29-Jul-22 12:11:47 12:16:48 00:05:00,anurag tiwari jul,1
+110,Prerna Singh,29-Jul-22,12:08:23,12:11:35,00:03:11,Prerna Singh 29-Jul-22 12:08:23 12:11:35 00:03:11,prerna singh jul,1
+111,Anurag Tiwari,29-Jul-22,12:02:46,12:11:19,00:08:33,Anurag Tiwari 29-Jul-22 12:02:46 12:11:19 00:08:33,anurag tiwari jul,1
+112,Mukesh,29-Jul-22,11:59:33,13:52:52,01:53:18,Mukesh 29-Jul-22 11:59:33 13:52:52 01:53:18,mukesh jul,1
+113,Anurag Tiwari,29-Jul-22,11:39:58,11:41:09,00:01:10,Anurag Tiwari 29-Jul-22 11:39:58 11:41:09 00:01:10,anurag tiwari jul,1
+114,Suraj S Bilgi,29-Jul-22,11:28:09,17:28:00,05:59:50,Suraj S Bilgi 29-Jul-22 11:28:09 17:28:00 05:59:50,suraj bilgi jul,1
+115,Chaitra K Hiremath,29-Jul-22,11:21:48,14:38:19,03:16:30,Chaitra K Hiremath 29-Jul-22 11:21:48 14:38:19 03:16:30,chaitra k hiremath jul,1
+116,Suraj S Bilgi,29-Jul-22,11:13:19,11:26:10,00:12:50,Suraj S Bilgi 29-Jul-22 11:13:19 11:26:10 00:12:50,suraj bilgi jul,1
+117,Dibyanshu,29-Jul-22,10:58:09,12:20:31,01:22:21,Dibyanshu 29-Jul-22 10:58:09 12:20:31 01:22:21,dibyanshu jul,1
+118,Dibyanshu,29-Jul-22,10:41:27,10:51:49,00:10:22,Dibyanshu 29-Jul-22 10:41:27 10:51:49 00:10:22,dibyanshu jul,1
+119,Shivan K,29-Jul-22,10:13:53,13:23:36,03:09:42,Shivan K 29-Jul-22 10:13:53 13:23:36 03:09:42,shivan k jul,1
+120,Dibyanshu,29-Jul-22,10:00:12,10:02:12,00:02:00,Dibyanshu 29-Jul-22 10:00:12 10:02:12 00:02:00,dibyanshu jul,1
+121,Dibyanshu,29-Jul-22,09:42:44,09:44:44,00:02:00,Dibyanshu 29-Jul-22 09:42:44 09:44:44 00:02:00,dibyanshu jul,1
+122,Shivan K,29-Jul-22,09:37:02,10:11:39,00:34:36,Shivan K 29-Jul-22 09:37:02 10:11:39 00:34:36,shivan k jul,1
+123,Dibyanshu,29-Jul-22,09:26:24,09:28:24,00:02:00,Dibyanshu 29-Jul-22 09:26:24 09:28:24 00:02:00,dibyanshu jul,1
+124,Madhulika G,29-Jul-22,09:22:20,15:08:55,05:46:35,Madhulika G 29-Jul-22 09:22:20 15:08:55 05:46:35,madhulika g jul,1
+125,Mithun S,29-Jul-22,09:16:12,15:10:23,05:54:10,Mithun S 29-Jul-22 09:16:12 15:10:23 05:54:10,mithun jul,1
+126,Dibyanshu,29-Jul-22,09:09:55,09:11:56,00:02:00,Dibyanshu 29-Jul-22 09:09:55 09:11:56 00:02:00,dibyanshu jul,1
+127,Hrisikesh Neogi,29-Jul-22,09:08:52,15:18:01,06:09:08,Hrisikesh Neogi 29-Jul-22 09:08:52 15:18:01 06:09:08,hrisikesh neogi jul,1
+128,Sowmiya Sivakumar,29-Jul-22,09:06:39,13:44:00,04:37:20,Sowmiya Sivakumar 29-Jul-22 09:06:39 13:44:00 04:37:20,sowmiya sivakumar jul,1
+129,Rishav Dash,29-Jul-22,09:03:17,15:42:45,06:39:27,Rishav Dash 29-Jul-22 09:03:17 15:42:45 06:39:27,rishav dash jul,1
+130,Hrisikesh Neogi,29-Jul-22,09:03:04,09:08:44,00:05:40,Hrisikesh Neogi 29-Jul-22 09:03:04 09:08:44 00:05:40,hrisikesh neogi jul,1
+131,Wasim,29-Jul-22,09:00:07,16:19:57,07:19:50,Wasim 29-Jul-22 09:00:07 16:19:57 07:19:50,wasim jul,1
+132,Bharath,29-Jul-22,08:55:47,14:59:16,06:03:29,Bharath 29-Jul-22 08:55:47 14:59:16 06:03:29,bharath jul,1
+133,Prabir Kumar Satapathy,29-Jul-22,08:39:24,12:07:46,03:28:21,Prabir Kumar Satapathy 29-Jul-22 08:39:24 12:07:46 03:28:21,prabir kumar satapathy jul,3
+134,Dibyanshu,29-Jul-22,08:20:15,08:22:15,00:02:00,Dibyanshu 29-Jul-22 08:20:15 08:22:15 00:02:00,dibyanshu jul,1
+135,Dibyanshu,29-Jul-22,07:30:37,07:32:37,00:02:00,Dibyanshu 29-Jul-22 07:30:37 07:32:37 00:02:00,dibyanshu jul,1
+136,Dibyanshu,29-Jul-22,06:59:05,07:01:05,00:02:00,Dibyanshu 29-Jul-22 06:59:05 07:01:05 00:02:00,dibyanshu jul,1
+137,Dibyanshu,29-Jul-22,06:11:12,06:13:12,00:02:00,Dibyanshu 29-Jul-22 06:11:12 06:13:12 00:02:00,dibyanshu jul,1
+138,Dibyanshu,29-Jul-22,05:55:33,05:57:33,00:02:00,Dibyanshu 29-Jul-22 05:55:33 05:57:33 00:02:00,dibyanshu jul,1
+139,Dibyanshu,29-Jul-22,05:39:41,05:41:41,00:02:00,Dibyanshu 29-Jul-22 05:39:41 05:41:41 00:02:00,dibyanshu jul,1
+140,Dibyanshu,29-Jul-22,05:23:05,05:25:05,00:02:00,Dibyanshu 29-Jul-22 05:23:05 05:25:05 00:02:00,dibyanshu jul,1
+141,Dibyanshu,29-Jul-22,04:50:12,04:52:12,00:02:00,Dibyanshu 29-Jul-22 04:50:12 04:52:12 00:02:00,dibyanshu jul,1
+142,Dibyanshu,29-Jul-22,04:07:22,04:09:23,00:02:00,Dibyanshu 29-Jul-22 04:07:22 04:09:23 00:02:00,dibyanshu jul,1
+143,Dibyanshu,29-Jul-22,03:49:33,03:51:33,00:02:00,Dibyanshu 29-Jul-22 03:49:33 03:51:33 00:02:00,dibyanshu jul,1
+144,Dibyanshu,29-Jul-22,03:31:40,03:33:40,00:02:00,Dibyanshu 29-Jul-22 03:31:40 03:33:40 00:02:00,dibyanshu jul,1
+145,Dibyanshu,29-Jul-22,02:58:39,03:00:39,00:02:00,Dibyanshu 29-Jul-22 02:58:39 03:00:39 00:02:00,dibyanshu jul,1
+146,Dibyanshu,29-Jul-22,02:09:03,02:11:03,00:02:00,Dibyanshu 29-Jul-22 02:09:03 02:11:03 00:02:00,dibyanshu jul,1
+147,Dibyanshu,29-Jul-22,01:53:33,01:55:33,00:02:00,Dibyanshu 29-Jul-22 01:53:33 01:55:33 00:02:00,dibyanshu jul,1
+148,Jawala Prakash,29-Jul-22,01:32:12,01:44:48,00:12:35,Jawala Prakash 29-Jul-22 01:32:12 01:44:48 00:12:35,jawala prakash jul,1
+149,Anurag Tiwari,29-Jul-22,01:24:44,01:27:10,00:02:25,Anurag Tiwari 29-Jul-22 01:24:44 01:27:10 00:02:25,anurag tiwari jul,1
+150,Dibyanshu,29-Jul-22,01:22:22,01:24:22,00:02:00,Dibyanshu 29-Jul-22 01:22:22 01:24:22 00:02:00,dibyanshu jul,1
+151,Anurag Tiwari,29-Jul-22,01:11:37,01:13:37,00:02:00,Anurag Tiwari 29-Jul-22 01:11:37 01:13:37 00:02:00,anurag tiwari jul,1
+152,Ayushi Mishra,29-Jul-22,00:59:12,03:11:09,02:11:57,Ayushi Mishra 29-Jul-22 00:59:12 03:11:09 02:11:57,ayushi mishra jul,1
+153,Shubham Sharma,29-Jul-22,00:54:34,01:21:33,00:26:58,Shubham Sharma 29-Jul-22 00:54:34 01:21:33 00:26:58,shubham sharma jul,1
+154,Anurag Tiwari,29-Jul-22,00:53:17,01:05:32,00:12:14,Anurag Tiwari 29-Jul-22 00:53:17 01:05:32 00:12:14,anurag tiwari jul,1
+155,Shivananda Sonwane,29-Jul-22,00:42:46,01:12:04,00:29:17,Shivananda Sonwane 29-Jul-22 00:42:46 01:12:04 00:29:17,shivananda sonwane jul,1
+156,Anurag Tiwari,29-Jul-22,00:41:29,00:43:29,00:02:00,Anurag Tiwari 29-Jul-22 00:41:29 00:43:29 00:02:00,anurag tiwari jul,1
+157,Dibyanshu,29-Jul-22,00:34:27,00:36:28,00:02:00,Dibyanshu 29-Jul-22 00:34:27 00:36:28 00:02:00,dibyanshu jul,1
+158,Anurag Tiwari,29-Jul-22,00:29:49,00:33:11,00:03:22,Anurag Tiwari 29-Jul-22 00:29:49 00:33:11 00:03:22,anurag tiwari jul,1
+159,Ishawant Kumar,29-Jul-22,00:16:00,03:07:50,02:51:49,Ishawant Kumar 29-Jul-22 00:16:00 03:07:50 02:51:49,ishawant kumar jul,3
+160,Anurag Tiwari,29-Jul-22,00:00:20,00:20:34,00:20:14,Anurag Tiwari 29-Jul-22 00:00:20 00:20:34 00:20:14,anurag tiwari jul,1
+161,Dibyanshu,28-Jul-22,23:58:36,00:19:40,00:21:04,Dibyanshu 28-Jul-22 23:58:36 00:19:40 00:21:04,dibyanshu jul,1
+162,Dibyanshu,28-Jul-22,23:54:00,23:56:00,00:02:00,Dibyanshu 28-Jul-22 23:54:00 23:56:00 00:02:00,dibyanshu jul,1
+163,Anurag Tiwari,28-Jul-22,23:20:30,23:22:31,00:02:00,Anurag Tiwari 28-Jul-22 23:20:30 23:22:31 00:02:00,anurag tiwari jul,1
+164,Shivananda Sonwane,28-Jul-22,23:06:17,23:37:07,00:30:50,Shivananda Sonwane 28-Jul-22 23:06:17 23:37:07 00:30:50,shivananda sonwane jul,1
+165,Anurag Tiwari,28-Jul-22,22:29:51,22:31:51,00:02:00,Anurag Tiwari 28-Jul-22 22:29:51 22:31:51 00:02:00,anurag tiwari jul,1
+166,Dibyanshu,28-Jul-22,22:20:13,23:39:26,01:19:13,Dibyanshu 28-Jul-22 22:20:13 23:39:26 01:19:13,dibyanshu jul,1
+167,Anurag Tiwari,28-Jul-22,22:12:37,22:14:37,00:02:00,Anurag Tiwari 28-Jul-22 22:12:37 22:14:37 00:02:00,anurag tiwari jul,1
+168,Anurag Tiwari,28-Jul-22,21:57:21,21:59:21,00:02:00,Anurag Tiwari 28-Jul-22 21:57:21 21:59:21 00:02:00,anurag tiwari jul,1
+169,Anurag Tiwari,28-Jul-22,21:39:53,21:41:53,00:02:00,Anurag Tiwari 28-Jul-22 21:39:53 21:41:53 00:02:00,anurag tiwari jul,1
+170,Dibyanshu,28-Jul-22,21:24:44,21:46:50,00:22:05,Dibyanshu 28-Jul-22 21:24:44 21:46:50 00:22:05,dibyanshu jul,1
+171,Anurag Tiwari,28-Jul-22,21:10:50,21:24:11,00:13:20,Anurag Tiwari 28-Jul-22 21:10:50 21:24:11 00:13:20,anurag tiwari jul,1
+172,Jawala Prakash,28-Jul-22,21:08:08,01:31:39,04:23:30,Jawala Prakash 28-Jul-22 21:08:08 01:31:39 04:23:30,jawala prakash jul,1
+173,Ayushi Mishra,28-Jul-22,21:07:32,00:59:11,03:51:39,Ayushi Mishra 28-Jul-22 21:07:32 00:59:11 03:51:39,ayushi mishra jul,1
+174,Ishawant Kumar,28-Jul-22,20:58:47,00:11:12,03:12:25,Ishawant Kumar 28-Jul-22 20:58:47 00:11:12 03:12:25,ishawant kumar jul,3
+175,Dibyanshu,28-Jul-22,20:57:39,21:08:50,00:11:10,Dibyanshu 28-Jul-22 20:57:39 21:08:50 00:11:10,dibyanshu jul,1
+176,Deepranjan Gupta,28-Jul-22,20:02:04,03:11:43,07:09:38,Deepranjan Gupta 28-Jul-22 20:02:04 03:11:43 07:09:38,deepranjan gupta jul,0
+177,Shiva Srivastava,28-Jul-22,20:00:01,22:08:53,02:08:52,Shiva Srivastava 28-Jul-22 20:00:01 22:08:53 02:08:52,shiva srivastava jul,1
+178,Muskan Garg,28-Jul-22,19:54:45,22:15:55,02:21:10,Muskan Garg 28-Jul-22 19:54:45 22:15:55 02:21:10,muskan garg jul,1
+179,Aditya_iot,28-Jul-22,19:02:05,19:51:52,00:49:46,Aditya_iot 28-Jul-22 19:02:05 19:51:52 00:49:46,adityaiot jul,1
+180,Aditya_iot,28-Jul-22,18:48:08,18:52:29,00:04:20,Aditya_iot 28-Jul-22 18:48:08 18:52:29 00:04:20,adityaiot jul,1
+181,Deepranjan Gupta,28-Jul-22,18:40:53,19:41:57,01:01:03,Deepranjan Gupta 28-Jul-22 18:40:53 19:41:57 01:01:03,deepranjan gupta jul,0
+182,Ishawant Kumar,28-Jul-22,18:30:48,19:09:58,00:39:10,Ishawant Kumar 28-Jul-22 18:30:48 19:09:58 00:39:10,ishawant kumar jul,3
+183,Deepranjan Gupta,28-Jul-22,18:22:05,18:24:45,00:02:40,Deepranjan Gupta 28-Jul-22 18:22:05 18:24:45 00:02:40,deepranjan gupta jul,0
+184,Dibyanshu,28-Jul-22,18:21:22,18:32:58,00:11:36,Dibyanshu 28-Jul-22 18:21:22 18:32:58 00:11:36,dibyanshu jul,1
+185,Prateek _iot,28-Jul-22,17:52:58,20:02:38,02:09:39,Prateek _iot 28-Jul-22 17:52:58 20:02:38 02:09:39,prateek iot jul,1
+186,Harikrishnan Shaji,28-Jul-22,17:43:50,19:32:14,01:48:24,Harikrishnan Shaji 28-Jul-22 17:43:50 19:32:14 01:48:24,harikrishnan shaji jul,1
+187,Anurag Tiwari,28-Jul-22,17:42:10,17:43:18,00:01:08,Anurag Tiwari 28-Jul-22 17:42:10 17:43:18 00:01:08,anurag tiwari jul,1
+188,Harikrishnan Shaji,28-Jul-22,17:39:53,17:43:33,00:03:40,Harikrishnan Shaji 28-Jul-22 17:39:53 17:43:33 00:03:40,harikrishnan shaji jul,1
+189,Deepranjan Gupta,28-Jul-22,16:56:38,18:19:57,01:23:18,Deepranjan Gupta 28-Jul-22 16:56:38 18:19:57 01:23:18,deepranjan gupta jul,0
+190,Ishawant Kumar,28-Jul-22,16:49:44,16:52:35,00:02:50,Ishawant Kumar 28-Jul-22 16:49:44 16:52:35 00:02:50,ishawant kumar jul,3
+191,Nishtha Jain,28-Jul-22,16:38:19,16:40:26,00:02:07,Nishtha Jain 28-Jul-22 16:38:19 16:40:26 00:02:07,nishtha jain jul,1
+192,Shivan K,28-Jul-22,16:27:08,19:44:43,03:17:34,Shivan K 28-Jul-22 16:27:08 19:44:43 03:17:34,shivan k jul,1
+193,Ishawant Kumar,28-Jul-22,16:16:35,16:20:46,00:04:11,Ishawant Kumar 28-Jul-22 16:16:35 16:20:46 00:04:11,ishawant kumar jul,3
+194,Shivan K,28-Jul-22,16:14:24,16:16:24,00:02:00,Shivan K 28-Jul-22 16:14:24 16:16:24 00:02:00,shivan k jul,1
+195,Wasim,28-Jul-22,16:04:52,16:07:12,00:02:20,Wasim 28-Jul-22 16:04:52 16:07:12 00:02:20,wasim jul,1
+196,Ishawant Kumar,28-Jul-22,15:36:50,15:40:40,00:03:50,Ishawant Kumar 28-Jul-22 15:36:50 15:40:40 00:03:50,ishawant kumar jul,3
+197,Ishawant Kumar,28-Jul-22,15:04:39,15:06:39,00:02:00,Ishawant Kumar 28-Jul-22 15:04:39 15:06:39 00:02:00,ishawant kumar jul,3
+198,Chaitra K Hiremath,28-Jul-22,15:04:13,20:05:52,05:01:39,Chaitra K Hiremath 28-Jul-22 15:04:13 20:05:52 05:01:39,chaitra k hiremath jul,1
+199,Deepranjan Gupta,28-Jul-22,15:04:05,16:46:57,01:42:51,Deepranjan Gupta 28-Jul-22 15:04:05 16:46:57 01:42:51,deepranjan gupta jul,0
+200,Shubham Sharma,28-Jul-22,15:03:41,21:08:50,06:05:09,Shubham Sharma 28-Jul-22 15:03:41 21:08:50 06:05:09,shubham sharma jul,1
+201,Jaydeep Dixit,28-Jul-22,15:03:17,21:05:02,06:01:45,Jaydeep Dixit 28-Jul-22 15:03:17 21:05:02 06:01:45,jaydeep dixit jul,1
+202,Ameya Jain,28-Jul-22,15:00:47,21:00:31,05:59:44,Ameya Jain 28-Jul-22 15:00:47 21:00:31 05:59:44,ameya jain jul,1
+203,Saikumarreddy N,28-Jul-22,14:59:08,21:00:39,06:01:31,Saikumarreddy N 28-Jul-22 14:59:08 21:00:39 06:01:31,saikumarreddy n jul,1
+204,Zeeshan,28-Jul-22,14:57:28,21:00:41,06:03:12,Zeeshan 28-Jul-22 14:57:28 21:00:41 06:03:12,zeeshan jul,1
+205,Shivan K,28-Jul-22,14:39:46,15:16:17,00:36:31,Shivan K 28-Jul-22 14:39:46 15:16:17 00:36:31,shivan k jul,1
+206,Anurag Tiwari,28-Jul-22,14:38:51,14:44:25,00:05:33,Anurag Tiwari 28-Jul-22 14:38:51 14:44:25 00:05:33,anurag tiwari jul,1
+207,Anurag Tiwari,28-Jul-22,14:28:29,14:33:59,00:05:29,Anurag Tiwari 28-Jul-22 14:28:29 14:33:59 00:05:29,anurag tiwari jul,1
+208,Shivan K,28-Jul-22,14:07:23,14:29:24,00:22:00,Shivan K 28-Jul-22 14:07:23 14:29:24 00:22:00,shivan k jul,1
+209,Prabir Kumar Satapathy,28-Jul-22,14:06:18,15:07:43,01:01:24,Prabir Kumar Satapathy 28-Jul-22 14:06:18 15:07:43 01:01:24,prabir kumar satapathy jul,3
+210,Aravind,28-Jul-22,13:53:02,13:54:11,00:01:09,Aravind 28-Jul-22 13:53:02 13:54:11 00:01:09,aravind jul,1
+211,Anurag Tiwari,28-Jul-22,13:41:57,13:43:18,00:01:21,Anurag Tiwari 28-Jul-22 13:41:57 13:43:18 00:01:21,anurag tiwari jul,1
+212,Chaitra K Hiremath,28-Jul-22,12:19:19,14:58:14,02:38:55,Chaitra K Hiremath 28-Jul-22 12:19:19 14:58:14 02:38:55,chaitra k hiremath jul,1
+213,Shubham Sharma,28-Jul-22,12:17:47,13:38:05,01:20:17,Shubham Sharma 28-Jul-22 12:17:47 13:38:05 01:20:17,shubham sharma jul,1
+214,Deepranjan Gupta,28-Jul-22,12:17:11,13:48:57,01:31:45,Deepranjan Gupta 28-Jul-22 12:17:11 13:48:57 01:31:45,deepranjan gupta jul,0
+215,Nishtha Jain,28-Jul-22,12:02:14,15:12:30,03:10:15,Nishtha Jain 28-Jul-22 12:02:14 15:12:30 03:10:15,nishtha jain jul,1
+216,Khushboo Priya,28-Jul-22,12:02:11,15:01:55,02:59:43,Khushboo Priya 28-Jul-22 12:02:11 15:01:55 02:59:43,khushboo priya jul,1
+217,Amersh,28-Jul-22,11:49:46,11:52:26,00:02:40,Amersh 28-Jul-22 11:49:46 11:52:26 00:02:40,amersh jul,1
+218,Harikrishnan Shaji,28-Jul-22,11:26:40,15:00:39,03:33:59,Harikrishnan Shaji 28-Jul-22 11:26:40 15:00:39 03:33:59,harikrishnan shaji jul,1
+219,Harikrishnan Shaji,28-Jul-22,11:15:50,11:18:41,00:02:50,Harikrishnan Shaji 28-Jul-22 11:15:50 11:18:41 00:02:50,harikrishnan shaji jul,1
+220,Anurag Tiwari,28-Jul-22,11:08:11,11:09:26,00:01:15,Anurag Tiwari 28-Jul-22 11:08:11 11:09:26 00:01:15,anurag tiwari jul,1
+221,Dibyanshu,28-Jul-22,10:26:09,10:30:08,00:03:59,Dibyanshu 28-Jul-22 10:26:09 10:30:08 00:03:59,dibyanshu jul,1
+222,Dibyanshu,28-Jul-22,10:17:32,10:20:03,00:02:31,Dibyanshu 28-Jul-22 10:17:32 10:20:03 00:02:31,dibyanshu jul,1
+223,Dibyanshu,28-Jul-22,09:42:38,10:14:32,00:31:54,Dibyanshu 28-Jul-22 09:42:38 10:14:32 00:31:54,dibyanshu jul,1
+224,Prabir Kumar Satapathy,28-Jul-22,09:33:48,14:01:33,04:27:45,Prabir Kumar Satapathy 28-Jul-22 09:33:48 14:01:33 04:27:45,prabir kumar satapathy jul,3
+225,Khushboo Priya,28-Jul-22,09:24:22,11:40:26,02:16:03,Khushboo Priya 28-Jul-22 09:24:22 11:40:26 02:16:03,khushboo priya jul,1
+226,Wasim,28-Jul-22,09:23:32,15:35:40,06:12:07,Wasim 28-Jul-22 09:23:32 15:35:40 06:12:07,wasim jul,1
+227,Nishtha Jain,28-Jul-22,09:18:45,11:21:04,02:02:19,Nishtha Jain 28-Jul-22 09:18:45 11:21:04 02:02:19,nishtha jain jul,1
+228,Harikrishnan Shaji,28-Jul-22,09:13:23,10:57:22,01:43:58,Harikrishnan Shaji 28-Jul-22 09:13:23 10:57:22 01:43:58,harikrishnan shaji jul,1
+229,Rishav Dash,28-Jul-22,09:04:29,15:58:15,06:53:46,Rishav Dash 28-Jul-22 09:04:29 15:58:15 06:53:46,rishav dash jul,1
+230,Manjunatha A,28-Jul-22,09:02:52,15:05:35,06:02:43,Manjunatha A 28-Jul-22 09:02:52 15:05:35 06:02:43,manjunatha jul,1
+231,Bharath,28-Jul-22,08:58:41,15:05:02,06:06:20,Bharath 28-Jul-22 08:58:41 15:05:02 06:06:20,bharath jul,1
+232,Dibyanshu,28-Jul-22,08:57:33,08:59:33,00:02:00,Dibyanshu 28-Jul-22 08:57:33 08:59:33 00:02:00,dibyanshu jul,1
+233,Prabir Kumar Satapathy,28-Jul-22,08:15:21,09:32:29,01:17:07,Prabir Kumar Satapathy 28-Jul-22 08:15:21 09:32:29 01:17:07,prabir kumar satapathy jul,3
+234,Dibyanshu,28-Jul-22,08:09:54,08:11:54,00:02:00,Dibyanshu 28-Jul-22 08:09:54 08:11:54 00:02:00,dibyanshu jul,1
+235,Dibyanshu,28-Jul-22,07:34:44,07:36:44,00:02:00,Dibyanshu 28-Jul-22 07:34:44 07:36:44 00:02:00,dibyanshu jul,1
+236,Dibyanshu,28-Jul-22,06:46:04,06:48:04,00:02:00,Dibyanshu 28-Jul-22 06:46:04 06:48:04 00:02:00,dibyanshu jul,1
+237,Dibyanshu,28-Jul-22,05:57:36,05:59:36,00:02:00,Dibyanshu 28-Jul-22 05:57:36 05:59:36 00:02:00,dibyanshu jul,1
+238,Dibyanshu,28-Jul-22,05:38:14,05:40:14,00:02:00,Dibyanshu 28-Jul-22 05:38:14 05:40:14 00:02:00,dibyanshu jul,1
+239,Dibyanshu,28-Jul-22,05:34:10,05:36:11,00:02:00,Dibyanshu 28-Jul-22 05:34:10 05:36:11 00:02:00,dibyanshu jul,1
+240,Dibyanshu,28-Jul-22,05:10:47,05:12:47,00:02:00,Dibyanshu 28-Jul-22 05:10:47 05:12:47 00:02:00,dibyanshu jul,1
+241,Dibyanshu,28-Jul-22,04:55:00,04:57:01,00:02:00,Dibyanshu 28-Jul-22 04:55:00 04:57:01 00:02:00,dibyanshu jul,1
+242,Dibyanshu,28-Jul-22,04:20:21,04:22:22,00:02:00,Dibyanshu 28-Jul-22 04:20:21 04:22:22 00:02:00,dibyanshu jul,1
+243,Dibyanshu,28-Jul-22,03:32:16,03:34:16,00:02:00,Dibyanshu 28-Jul-22 03:32:16 03:34:16 00:02:00,dibyanshu jul,1
+244,Deepranjan Gupta,28-Jul-22,03:21:53,03:24:04,00:02:10,Deepranjan Gupta 28-Jul-22 03:21:53 03:24:04 00:02:10,deepranjan gupta jul,0
+245,Dibyanshu,28-Jul-22,03:15:58,03:17:58,00:02:00,Dibyanshu 28-Jul-22 03:15:58 03:17:58 00:02:00,dibyanshu jul,1
+246,Dibyanshu,28-Jul-22,02:58:01,03:00:01,00:02:00,Dibyanshu 28-Jul-22 02:58:01 03:00:01 00:02:00,dibyanshu jul,1
+247,Dibyanshu,28-Jul-22,02:40:39,02:42:39,00:02:00,Dibyanshu 28-Jul-22 02:40:39 02:42:39 00:02:00,dibyanshu jul,1
+248,Shivan K,28-Jul-22,02:22:50,02:35:50,00:13:00,Shivan K 28-Jul-22 02:22:50 02:35:50 00:13:00,shivan k jul,1
+249,Ishawant Kumar,28-Jul-22,02:05:56,03:01:28,00:55:31,Ishawant Kumar 28-Jul-22 02:05:56 03:01:28 00:55:31,ishawant kumar jul,3
+250,Ishawant Kumar,28-Jul-22,02:02:25,02:04:55,00:02:30,Ishawant Kumar 28-Jul-22 02:02:25 02:04:55 00:02:30,ishawant kumar jul,3
+251,Dibyanshu,28-Jul-22,01:51:18,01:53:18,00:02:00,Dibyanshu 28-Jul-22 01:51:18 01:53:18 00:02:00,dibyanshu jul,1
+252,Ishawant Kumar,28-Jul-22,00:02:01,02:01:56,01:59:54,Ishawant Kumar 28-Jul-22 00:02:01 02:01:56 01:59:54,ishawant kumar jul,3
+253,Mahesh Sarade,27-Jul-22,23:58:04,00:01:33,00:03:29,Mahesh Sarade 27-Jul-22 23:58:04 00:01:33 00:03:29,mahesh sarade jul,4
+254,Shubham Sharma,27-Jul-22,23:54:41,00:20:09,00:25:27,Shubham Sharma 27-Jul-22 23:54:41 00:20:09 00:25:27,shubham sharma jul,1
+255,Mahesh Sarade,27-Jul-22,23:30:49,23:55:14,00:24:25,Mahesh Sarade 27-Jul-22 23:30:49 23:55:14 00:24:25,mahesh sarade jul,4
+256,Deepranjan Gupta,27-Jul-22,23:08:47,03:10:43,04:01:56,Deepranjan Gupta 27-Jul-22 23:08:47 03:10:43 04:01:56,deepranjan gupta jul,0
+257,Deepranjan Gupta,27-Jul-22,23:02:39,23:07:59,00:05:20,Deepranjan Gupta 27-Jul-22 23:02:39 23:07:59 00:05:20,deepranjan gupta jul,0
+258,Deepranjan Gupta,27-Jul-22,22:51:27,22:55:42,00:04:14,Deepranjan Gupta 27-Jul-22 22:51:27 22:55:42 00:04:14,deepranjan gupta jul,0
+259,Dibyanshu,27-Jul-22,22:51:19,23:31:43,00:40:23,Dibyanshu 27-Jul-22 22:51:19 23:31:43 00:40:23,dibyanshu jul,1
+260,Dibyanshu,27-Jul-22,22:45:38,22:50:25,00:04:47,Dibyanshu 27-Jul-22 22:45:38 22:50:25 00:04:47,dibyanshu jul,1
+261,Deepranjan Gupta,27-Jul-22,22:43:49,22:45:49,00:02:00,Deepranjan Gupta 27-Jul-22 22:43:49 22:45:49 00:02:00,deepranjan gupta jul,0
+262,Dibyanshu,27-Jul-22,22:41:11,22:43:11,00:02:00,Dibyanshu 27-Jul-22 22:41:11 22:43:11 00:02:00,dibyanshu jul,1
+263,Deepranjan Gupta,27-Jul-22,22:35:54,22:40:02,00:04:07,Deepranjan Gupta 27-Jul-22 22:35:54 22:40:02 00:04:07,deepranjan gupta jul,0
+264,Boktiar Ahmed Bappy,27-Jul-22,22:22:28,01:56:42,03:34:14,Boktiar Ahmed Bappy 27-Jul-22 22:22:28 01:56:42 03:34:14,boktiar ahmed bappy jul,1
+265,Shubham Sharma,27-Jul-22,22:17:01,23:52:08,01:35:07,Shubham Sharma 27-Jul-22 22:17:01 23:52:08 01:35:07,shubham sharma jul,1
+266,Shiva Srivastava,27-Jul-22,22:12:21,22:43:31,00:31:09,Shiva Srivastava 27-Jul-22 22:12:21 22:43:31 00:31:09,shiva srivastava jul,1
+267,Deepranjan Gupta,27-Jul-22,21:57:42,22:28:05,00:30:22,Deepranjan Gupta 27-Jul-22 21:57:42 22:28:05 00:30:22,deepranjan gupta jul,0
+268,Dibyanshu,27-Jul-22,21:53:06,22:31:02,00:37:55,Dibyanshu 27-Jul-22 21:53:06 22:31:02 00:37:55,dibyanshu jul,1
+269,Chaitra K Hiremath,27-Jul-22,21:51:14,21:54:45,00:03:30,Chaitra K Hiremath 27-Jul-22 21:51:14 21:54:45 00:03:30,chaitra k hiremath jul,1
+270,Deepranjan Gupta,27-Jul-22,21:42:25,21:52:24,00:09:58,Deepranjan Gupta 27-Jul-22 21:42:25 21:52:24 00:09:58,deepranjan gupta jul,0
+271,Dibyanshu,27-Jul-22,21:36:54,21:38:54,00:02:00,Dibyanshu 27-Jul-22 21:36:54 21:38:54 00:02:00,dibyanshu jul,1
+272,Deepranjan Gupta,27-Jul-22,21:32:08,21:39:33,00:07:25,Deepranjan Gupta 27-Jul-22 21:32:08 21:39:33 00:07:25,deepranjan gupta jul,0
+273,Deepranjan Gupta,27-Jul-22,21:25:58,21:29:17,00:03:18,Deepranjan Gupta 27-Jul-22 21:25:58 21:29:17 00:03:18,deepranjan gupta jul,0
+274,Dibyanshu,27-Jul-22,21:21:31,21:23:31,00:02:00,Dibyanshu 27-Jul-22 21:21:31 21:23:31 00:02:00,dibyanshu jul,1
+275,Deepranjan Gupta,27-Jul-22,21:14:03,21:21:03,00:07:00,Deepranjan Gupta 27-Jul-22 21:14:03 21:21:03 00:07:00,deepranjan gupta jul,0
+276,Anurag Tiwari,27-Jul-22,21:13:55,21:14:49,00:00:53,Anurag Tiwari 27-Jul-22 21:13:55 21:14:49 00:00:53,anurag tiwari jul,1
+277,Ishawant Kumar,27-Jul-22,21:00:38,23:59:52,02:59:14,Ishawant Kumar 27-Jul-22 21:00:38 23:59:52 02:59:14,ishawant kumar jul,3
+278,Dibyanshu,27-Jul-22,21:00:31,21:07:19,00:06:48,Dibyanshu 27-Jul-22 21:00:31 21:07:19 00:06:48,dibyanshu jul,1
+279,Boktiar Ahmed Bappy,27-Jul-22,20:59:27,22:21:09,01:21:41,Boktiar Ahmed Bappy 27-Jul-22 20:59:27 22:21:09 01:21:41,boktiar ahmed bappy jul,1
+280,Jawala Prakash,27-Jul-22,20:59:12,03:19:50,06:20:37,Jawala Prakash 27-Jul-22 20:59:12 03:19:50 06:20:37,jawala prakash jul,1
+281,Shivananda Sonwane,27-Jul-22,20:44:27,03:11:04,06:26:36,Shivananda Sonwane 27-Jul-22 20:44:27 03:11:04 06:26:36,shivananda sonwane jul,1
+282,Mahesh Sarade,27-Jul-22,20:35:02,21:06:14,00:31:11,Mahesh Sarade 27-Jul-22 20:35:02 21:06:14 00:31:11,mahesh sarade jul,4
+283,Mahesh Sarade,27-Jul-22,19:58:24,20:33:29,00:35:04,Mahesh Sarade 27-Jul-22 19:58:24 20:33:29 00:35:04,mahesh sarade jul,4
+284,Muskan Garg,27-Jul-22,19:54:47,22:37:35,02:42:47,Muskan Garg 27-Jul-22 19:54:47 22:37:35 02:42:47,muskan garg jul,1
+285,Shiva Srivastava,27-Jul-22,19:51:42,22:11:16,02:19:33,Shiva Srivastava 27-Jul-22 19:51:42 22:11:16 02:19:33,shiva srivastava jul,1
+286,Mahesh Sarade,27-Jul-22,19:33:24,19:35:35,00:02:10,Mahesh Sarade 27-Jul-22 19:33:24 19:35:35 00:02:10,mahesh sarade jul,4
+287,Mahesh Sarade,27-Jul-22,19:08:31,19:10:52,00:02:21,Mahesh Sarade 27-Jul-22 19:08:31 19:10:52 00:02:21,mahesh sarade jul,4
+288,Mahesh Sarade,27-Jul-22,18:56:22,19:04:52,00:08:30,Mahesh Sarade 27-Jul-22 18:56:22 19:04:52 00:08:30,mahesh sarade jul,4
+289,Mahesh Sarade,27-Jul-22,18:50:38,18:53:09,00:02:30,Mahesh Sarade 27-Jul-22 18:50:38 18:53:09 00:02:30,mahesh sarade jul,4
+290,Dibyanshu,27-Jul-22,18:43:39,20:51:49,02:08:10,Dibyanshu 27-Jul-22 18:43:39 20:51:49 02:08:10,dibyanshu jul,1
+291,Mahesh Sarade,27-Jul-22,18:39:34,18:41:34,00:02:00,Mahesh Sarade 27-Jul-22 18:39:34 18:41:34 00:02:00,mahesh sarade jul,4
+292,Sanjeev Kumar,27-Jul-22,18:37:59,21:05:31,02:27:31,Sanjeev Kumar 27-Jul-22 18:37:59 21:05:31 02:27:31,sanjeev kumar jul,3
+293,Dibyanshu,27-Jul-22,18:27:01,18:29:01,00:02:00,Dibyanshu 27-Jul-22 18:27:01 18:29:01 00:02:00,dibyanshu jul,1
+294,Mahesh Sarade,27-Jul-22,18:24:36,18:27:57,00:03:21,Mahesh Sarade 27-Jul-22 18:24:36 18:27:57 00:03:21,mahesh sarade jul,4
+295,Mahesh Sarade,27-Jul-22,18:11:45,18:18:36,00:06:51,Mahesh Sarade 27-Jul-22 18:11:45 18:18:36 00:06:51,mahesh sarade jul,4
+296,Mahesh Sarade,27-Jul-22,18:06:04,18:08:15,00:02:10,Mahesh Sarade 27-Jul-22 18:06:04 18:08:15 00:02:10,mahesh sarade jul,4
+297,Dibyanshu,27-Jul-22,18:05:35,18:13:36,00:08:01,Dibyanshu 27-Jul-22 18:05:35 18:13:36 00:08:01,dibyanshu jul,1
+298,Mahesh Sarade,27-Jul-22,18:01:10,18:03:41,00:02:31,Mahesh Sarade 27-Jul-22 18:01:10 18:03:41 00:02:31,mahesh sarade jul,4
+299,Aditya_iot,27-Jul-22,17:51:51,20:06:35,02:14:43,Aditya_iot 27-Jul-22 17:51:51 20:06:35 02:14:43,adityaiot jul,1
+300,Prateek _iot,27-Jul-22,17:42:55,20:04:56,02:22:00,Prateek _iot 27-Jul-22 17:42:55 20:04:56 02:22:00,prateek iot jul,1
+301,Mahesh Sarade,27-Jul-22,17:34:35,17:54:35,00:20:00,Mahesh Sarade 27-Jul-22 17:34:35 17:54:35 00:20:00,mahesh sarade jul,4
+302,Mahesh Sarade,27-Jul-22,17:29:57,17:33:21,00:03:23,Mahesh Sarade 27-Jul-22 17:29:57 17:33:21 00:03:23,mahesh sarade jul,4
+303,Mahesh Sarade,27-Jul-22,17:17:22,17:26:36,00:09:14,Mahesh Sarade 27-Jul-22 17:17:22 17:26:36 00:09:14,mahesh sarade jul,4
+304,Harikrishnan Shaji,27-Jul-22,17:12:50,18:18:06,01:05:16,Harikrishnan Shaji 27-Jul-22 17:12:50 18:18:06 01:05:16,harikrishnan shaji jul,1
+305,Mahesh Sarade,27-Jul-22,17:10:53,17:16:53,00:06:00,Mahesh Sarade 27-Jul-22 17:10:53 17:16:53 00:06:00,mahesh sarade jul,4
+306,Dibyanshu,27-Jul-22,16:43:14,16:45:14,00:02:00,Dibyanshu 27-Jul-22 16:43:14 16:45:14 00:02:00,dibyanshu jul,1
+307,Mahesh Sarade,27-Jul-22,16:41:35,16:43:45,00:02:10,Mahesh Sarade 27-Jul-22 16:41:35 16:43:45 00:02:10,mahesh sarade jul,4
+308,Dibyanshu,27-Jul-22,16:21:11,16:30:02,00:08:50,Dibyanshu 27-Jul-22 16:21:11 16:30:02 00:08:50,dibyanshu jul,1
+309,Mahesh Sarade,27-Jul-22,16:20:57,16:40:47,00:19:50,Mahesh Sarade 27-Jul-22 16:20:57 16:40:47 00:19:50,mahesh sarade jul,4
+310,Nishtha Jain,27-Jul-22,16:18:42,16:29:05,00:10:23,Nishtha Jain 27-Jul-22 16:18:42 16:29:05 00:10:23,nishtha jain jul,1
+311,Khushboo Priya,27-Jul-22,16:11:27,18:50:03,02:38:36,Khushboo Priya 27-Jul-22 16:11:27 18:50:03 02:38:36,khushboo priya jul,1
+312,Shivananda Sonwane,27-Jul-22,16:08:35,16:30:33,00:21:57,Shivananda Sonwane 27-Jul-22 16:08:35 16:30:33 00:21:57,shivananda sonwane jul,1
+313,Ishawant Kumar,27-Jul-22,16:02:33,16:05:33,00:03:00,Ishawant Kumar 27-Jul-22 16:02:33 16:05:33 00:03:00,ishawant kumar jul,3
+314,Dibyanshu,27-Jul-22,15:54:00,16:20:46,00:26:45,Dibyanshu 27-Jul-22 15:54:00 16:20:46 00:26:45,dibyanshu jul,1
+315,Amersh,27-Jul-22,15:47:43,18:42:36,02:54:52,Amersh 27-Jul-22 15:47:43 18:42:36 02:54:52,amersh jul,1
+316,Dibyanshu,27-Jul-22,15:38:19,15:40:19,00:02:00,Dibyanshu 27-Jul-22 15:38:19 15:40:19 00:02:00,dibyanshu jul,1
+317,Sudhanshu Kumar,27-Jul-22,15:26:06,16:26:39,01:00:33,Sudhanshu Kumar 27-Jul-22 15:26:06 16:26:39 01:00:33,sudhanshu kumar jul,3
+318,Dibyanshu,27-Jul-22,15:20:40,15:22:40,00:02:00,Dibyanshu 27-Jul-22 15:20:40 15:22:40 00:02:00,dibyanshu jul,1
+319,Ameya Jain,27-Jul-22,15:05:25,21:05:38,06:00:12,Ameya Jain 27-Jul-22 15:05:25 21:05:38 06:00:12,ameya jain jul,1
+320,Nandani Gupta,27-Jul-22,15:03:13,21:03:17,06:00:04,Nandani Gupta 27-Jul-22 15:03:13 21:03:17 06:00:04,nandani gupta jul,0
+321,Shubham Sharma,27-Jul-22,15:01:14,21:04:08,06:02:54,Shubham Sharma 27-Jul-22 15:01:14 21:04:08 06:02:54,shubham sharma jul,1
+322,Mahesh Sarade,27-Jul-22,15:00:13,16:13:17,01:13:03,Mahesh Sarade 27-Jul-22 15:00:13 16:13:17 01:13:03,mahesh sarade jul,4
+323,Sanjeev Kumar,27-Jul-22,14:58:55,18:36:50,03:37:54,Sanjeev Kumar 27-Jul-22 14:58:55 18:36:50 03:37:54,sanjeev kumar jul,3
+324,Zeeshan,27-Jul-22,14:57:43,21:00:45,06:03:01,Zeeshan 27-Jul-22 14:57:43 21:00:45 06:03:01,zeeshan jul,1
+325,Dibyanshu,27-Jul-22,14:53:20,15:05:10,00:11:49,Dibyanshu 27-Jul-22 14:53:20 15:05:10 00:11:49,dibyanshu jul,1
+326,Saikumarreddy N,27-Jul-22,14:48:32,21:00:34,06:12:01,Saikumarreddy N 27-Jul-22 14:48:32 21:00:34 06:12:01,saikumarreddy n jul,1
+327,Dibyanshu,27-Jul-22,14:38:15,14:40:15,00:02:00,Dibyanshu 27-Jul-22 14:38:15 14:40:15 00:02:00,dibyanshu jul,1
+328,Hrisikesh Neogi,27-Jul-22,14:35:09,15:23:43,00:48:34,Hrisikesh Neogi 27-Jul-22 14:35:09 15:23:43 00:48:34,hrisikesh neogi jul,1
+329,Dibyanshu,27-Jul-22,14:22:33,14:24:33,00:02:00,Dibyanshu 27-Jul-22 14:22:33 14:24:33 00:02:00,dibyanshu jul,1
+330,Sowmiya Sivakumar,27-Jul-22,13:58:47,15:14:25,01:15:38,Sowmiya Sivakumar 27-Jul-22 13:58:47 15:14:25 01:15:38,sowmiya sivakumar jul,1
+331,Chaitra K Hiremath,27-Jul-22,13:48:33,20:04:48,06:16:14,Chaitra K Hiremath 27-Jul-22 13:48:33 20:04:48 06:16:14,chaitra k hiremath jul,1
+332,Ankitjha,27-Jul-22,13:46:08,15:47:32,02:01:24,Ankitjha 27-Jul-22 13:46:08 15:47:32 02:01:24,ankitjha jul,1
+333,Amersh,27-Jul-22,13:40:24,13:45:54,00:05:29,Amersh 27-Jul-22 13:40:24 13:45:54 00:05:29,amersh jul,1
+334,Ankitjha,27-Jul-22,13:30:45,13:40:15,00:09:30,Ankitjha 27-Jul-22 13:30:45 13:40:15 00:09:30,ankitjha jul,1
+335,Amersh,27-Jul-22,13:29:20,13:30:09,00:00:49,Amersh 27-Jul-22 13:29:20 13:30:09 00:00:49,amersh jul,1
+336,Prerna Singh,27-Jul-22,13:11:06,20:58:35,07:47:29,Prerna Singh 27-Jul-22 13:11:06 20:58:35 07:47:29,prerna singh jul,1
+337,Dibyanshu,27-Jul-22,13:09:36,14:07:37,00:58:01,Dibyanshu 27-Jul-22 13:09:36 14:07:37 00:58:01,dibyanshu jul,1
+338,Shubham Sharma,27-Jul-22,12:55:54,12:58:56,00:03:02,Shubham Sharma 27-Jul-22 12:55:54 12:58:56 00:03:02,shubham sharma jul,1
+339,Deepranjan Gupta,27-Jul-22,12:49:00,19:01:04,06:12:04,Deepranjan Gupta 27-Jul-22 12:49:00 19:01:04 06:12:04,deepranjan gupta jul,0
+340,Ayushi Mishra,27-Jul-22,12:47:58,13:01:39,00:13:40,Ayushi Mishra 27-Jul-22 12:47:58 13:01:39 00:13:40,ayushi mishra jul,1
+341,Hrisikesh Neogi,27-Jul-22,12:30:24,14:22:43,01:52:18,Hrisikesh Neogi 27-Jul-22 12:30:24 14:22:43 01:52:18,hrisikesh neogi jul,1
+342,Anurag Tiwari,27-Jul-22,12:27:41,12:33:59,00:06:17,Anurag Tiwari 27-Jul-22 12:27:41 12:33:59 00:06:17,anurag tiwari jul,1
+343,Ayushi Mishra,27-Jul-22,12:10:22,12:47:33,00:37:10,Ayushi Mishra 27-Jul-22 12:10:22 12:47:33 00:37:10,ayushi mishra jul,1
+344,Sowmiya Sivakumar,27-Jul-22,11:39:30,13:40:58,02:01:28,Sowmiya Sivakumar 27-Jul-22 11:39:30 13:40:58 02:01:28,sowmiya sivakumar jul,1
+345,Khushboo Priya,27-Jul-22,11:39:09,15:31:29,03:52:20,Khushboo Priya 27-Jul-22 11:39:09 15:31:29 03:52:20,khushboo priya jul,1
+346,Nishtha Jain,27-Jul-22,11:38:05,14:59:51,03:21:46,Nishtha Jain 27-Jul-22 11:38:05 14:59:51 03:21:46,nishtha jain jul,1
+347,Sowmiya Sivakumar,27-Jul-22,11:34:22,11:37:13,00:02:51,Sowmiya Sivakumar 27-Jul-22 11:34:22 11:37:13 00:02:51,sowmiya sivakumar jul,1
+348,Hrisikesh Neogi,27-Jul-22,11:10:13,12:22:43,01:12:30,Hrisikesh Neogi 27-Jul-22 11:10:13 12:22:43 01:12:30,hrisikesh neogi jul,1
+349,Hrisikesh Neogi,27-Jul-22,10:37:18,11:06:19,00:29:01,Hrisikesh Neogi 27-Jul-22 10:37:18 11:06:19 00:29:01,hrisikesh neogi jul,1
+350,Dibyanshu,27-Jul-22,10:29:26,10:48:04,00:18:38,Dibyanshu 27-Jul-22 10:29:26 10:48:04 00:18:38,dibyanshu jul,1
+351,Anurag Tiwari,27-Jul-22,10:24:47,10:25:38,00:00:51,Anurag Tiwari 27-Jul-22 10:24:47 10:25:38 00:00:51,anurag tiwari jul,1
+352,Hrisikesh Neogi,27-Jul-22,10:09:39,10:35:52,00:26:12,Hrisikesh Neogi 27-Jul-22 10:09:39 10:35:52 00:26:12,hrisikesh neogi jul,1
+353,Hrisikesh Neogi,27-Jul-22,09:49:07,10:09:28,00:20:20,Hrisikesh Neogi 27-Jul-22 09:49:07 10:09:28 00:20:20,hrisikesh neogi jul,1
+354,Wasim,27-Jul-22,09:28:00,14:52:05,05:24:05,Wasim 27-Jul-22 09:28:00 14:52:05 05:24:05,wasim jul,1
+355,Nishtha Jain,27-Jul-22,09:24:46,11:25:30,02:00:44,Nishtha Jain 27-Jul-22 09:24:46 11:25:30 02:00:44,nishtha jain jul,1
+356,Khushboo Priya,27-Jul-22,09:19:39,11:24:28,02:04:49,Khushboo Priya 27-Jul-22 09:19:39 11:24:28 02:04:49,khushboo priya jul,1
+357,Sowmiya Sivakumar,27-Jul-22,09:14:17,11:32:10,02:17:53,Sowmiya Sivakumar 27-Jul-22 09:14:17 11:32:10 02:17:53,sowmiya sivakumar jul,1
+358,Mithun S,27-Jul-22,09:11:44,15:42:34,06:30:49,Mithun S 27-Jul-22 09:11:44 15:42:34 06:30:49,mithun jul,1
+359,Dibyanshu,27-Jul-22,09:11:21,10:01:04,00:49:42,Dibyanshu 27-Jul-22 09:11:21 10:01:04 00:49:42,dibyanshu jul,1
+360,Harikrishnan Shaji,27-Jul-22,09:08:50,15:09:21,06:00:30,Harikrishnan Shaji 27-Jul-22 09:08:50 15:09:21 06:00:30,harikrishnan shaji jul,1
+361,Madhulika G,27-Jul-22,09:03:14,15:05:36,06:02:22,Madhulika G 27-Jul-22 09:03:14 15:05:36 06:02:22,madhulika g jul,1
+362,Hrisikesh Neogi,27-Jul-22,09:03:12,09:47:58,00:44:46,Hrisikesh Neogi 27-Jul-22 09:03:12 09:47:58 00:44:46,hrisikesh neogi jul,1
+363,Manjunatha A,27-Jul-22,09:02:48,15:08:23,06:05:34,Manjunatha A 27-Jul-22 09:02:48 15:08:23 06:05:34,manjunatha jul,1
+364,Bharath,27-Jul-22,09:00:10,14:52:09,05:51:59,Bharath 27-Jul-22 09:00:10 14:52:09 05:51:59,bharath jul,1
+365,Dibyanshu,27-Jul-22,08:42:30,08:44:30,00:02:00,Dibyanshu 27-Jul-22 08:42:30 08:44:30 00:02:00,dibyanshu jul,1
+366,Dibyanshu,27-Jul-22,07:51:21,07:53:21,00:02:00,Dibyanshu 27-Jul-22 07:51:21 07:53:21 00:02:00,dibyanshu jul,1
+367,Dibyanshu,27-Jul-22,07:35:33,07:37:33,00:02:00,Dibyanshu 27-Jul-22 07:35:33 07:37:33 00:02:00,dibyanshu jul,1
+368,Dibyanshu,27-Jul-22,06:44:19,06:46:19,00:02:00,Dibyanshu 27-Jul-22 06:44:19 06:46:19 00:02:00,dibyanshu jul,1
+369,Dibyanshu,27-Jul-22,05:55:58,05:57:58,00:02:00,Dibyanshu 27-Jul-22 05:55:58 05:57:58 00:02:00,dibyanshu jul,1
+370,Dibyanshu,27-Jul-22,05:08:19,05:10:19,00:02:00,Dibyanshu 27-Jul-22 05:08:19 05:10:19 00:02:00,dibyanshu jul,1
+371,Dibyanshu,27-Jul-22,04:35:18,04:37:18,00:02:00,Dibyanshu 27-Jul-22 04:35:18 04:37:18 00:02:00,dibyanshu jul,1
+372,Dibyanshu,27-Jul-22,04:04:30,04:06:31,00:02:00,Dibyanshu 27-Jul-22 04:04:30 04:06:31 00:02:00,dibyanshu jul,1
+373,Dibyanshu,27-Jul-22,03:48:36,03:50:36,00:02:00,Dibyanshu 27-Jul-22 03:48:36 03:50:36 00:02:00,dibyanshu jul,1
+374,Dibyanshu,27-Jul-22,03:30:43,03:32:43,00:02:00,Dibyanshu 27-Jul-22 03:30:43 03:32:43 00:02:00,dibyanshu jul,1
+375,Dibyanshu,27-Jul-22,03:12:29,03:14:29,00:02:00,Dibyanshu 27-Jul-22 03:12:29 03:14:29 00:02:00,dibyanshu jul,1
+376,Dibyanshu,27-Jul-22,02:38:59,02:40:59,00:02:00,Dibyanshu 27-Jul-22 02:38:59 02:40:59 00:02:00,dibyanshu jul,1
+377,Dibyanshu,27-Jul-22,01:51:24,01:53:24,00:02:00,Dibyanshu 27-Jul-22 01:51:24 01:53:24 00:02:00,dibyanshu jul,1
+378,Ishawant Kumar,27-Jul-22,01:45:10,01:47:50,00:02:40,Ishawant Kumar 27-Jul-22 01:45:10 01:47:50 00:02:40,ishawant kumar jul,3
+379,Dibyanshu,27-Jul-22,01:36:01,01:38:01,00:02:00,Dibyanshu 27-Jul-22 01:36:01 01:38:01 00:02:00,dibyanshu jul,1
+380,Ishawant Kumar,27-Jul-22,00:50:36,00:55:56,00:05:20,Ishawant Kumar 27-Jul-22 00:50:36 00:55:56 00:05:20,ishawant kumar jul,3
+381,Dibyanshu,27-Jul-22,00:28:52,01:21:56,00:53:04,Dibyanshu 27-Jul-22 00:28:52 01:21:56 00:53:04,dibyanshu jul,1
+382,Mahesh Sarade,27-Jul-22,00:02:06,00:16:27,00:14:21,Mahesh Sarade 27-Jul-22 00:02:06 00:16:27 00:14:21,mahesh sarade jul,4
+383,Ishawant Kumar,26-Jul-22,23:37:47,23:41:27,00:03:40,Ishawant Kumar 26-Jul-22 23:37:47 23:41:27 00:03:40,ishawant kumar jul,3
+384,Dibyanshu,26-Jul-22,23:23:17,00:28:32,01:05:15,Dibyanshu 26-Jul-22 23:23:17 00:28:32 01:05:15,dibyanshu jul,1
+385,Dibyanshu,26-Jul-22,23:18:57,23:20:57,00:02:00,Dibyanshu 26-Jul-22 23:18:57 23:20:57 00:02:00,dibyanshu jul,1
+386,Sanjeev Kumar,26-Jul-22,23:13:19,23:15:29,00:02:10,Sanjeev Kumar 26-Jul-22 23:13:19 23:15:29 00:02:10,sanjeev kumar jul,3
+387,Boktiar Ahmed Bappy,26-Jul-22,22:18:17,02:53:27,04:35:09,Boktiar Ahmed Bappy 26-Jul-22 22:18:17 02:53:27 04:35:09,boktiar ahmed bappy jul,1
+388,Prerna Singh,26-Jul-22,22:17:56,22:19:56,00:02:00,Prerna Singh 26-Jul-22 22:17:56 22:19:56 00:02:00,prerna singh jul,1
+389,Sanjeev Kumar,26-Jul-22,22:16:20,22:46:51,00:30:31,Sanjeev Kumar 26-Jul-22 22:16:20 22:46:51 00:30:31,sanjeev kumar jul,3
+390,Ishawant Kumar,26-Jul-22,22:03:27,22:06:17,00:02:50,Ishawant Kumar 26-Jul-22 22:03:27 22:06:17 00:02:50,ishawant kumar jul,3
+391,Prerna Singh,26-Jul-22,21:55:51,22:03:21,00:07:29,Prerna Singh 26-Jul-22 21:55:51 22:03:21 00:07:29,prerna singh jul,1
+392,Sanjeev Kumar,26-Jul-22,21:45:29,22:06:51,00:21:22,Sanjeev Kumar 26-Jul-22 21:45:29 22:06:51 00:21:22,sanjeev kumar jul,3
+393,Prerna Singh,26-Jul-22,21:25:27,21:33:57,00:08:30,Prerna Singh 26-Jul-22 21:25:27 21:33:57 00:08:30,prerna singh jul,1
+394,Anurag Tiwari,26-Jul-22,21:15:34,21:23:51,00:08:17,Anurag Tiwari 26-Jul-22 21:15:34 21:23:51 00:08:17,anurag tiwari jul,1
+395,Ayushi Mishra,26-Jul-22,21:09:56,03:14:45,06:04:49,Ayushi Mishra 26-Jul-22 21:09:56 03:14:45 06:04:49,ayushi mishra jul,1
+396,Ishawant Kumar,26-Jul-22,21:04:19,21:07:09,00:02:50,Ishawant Kumar 26-Jul-22 21:04:19 21:07:09 00:02:50,ishawant kumar jul,3
+397,Dibyanshu,26-Jul-22,21:01:01,23:03:43,02:02:42,Dibyanshu 26-Jul-22 21:01:01 23:03:43 02:02:42,dibyanshu jul,1
+398,Boktiar Ahmed Bappy,26-Jul-22,20:57:16,22:18:06,01:20:50,Boktiar Ahmed Bappy 26-Jul-22 20:57:16 22:18:06 01:20:50,boktiar ahmed bappy jul,1
+399,Shivananda Sonwane,26-Jul-22,20:57:05,03:09:35,06:12:29,Shivananda Sonwane 26-Jul-22 20:57:05 03:09:35 06:12:29,shivananda sonwane jul,1
+400,Dibyanshu,26-Jul-22,20:56:23,20:58:23,00:02:00,Dibyanshu 26-Jul-22 20:56:23 20:58:23 00:02:00,dibyanshu jul,1
+401,Maitry,26-Jul-22,20:45:03,03:02:18,06:17:14,Maitry 26-Jul-22 20:45:03 03:02:18 06:17:14,maitry jul,1
+402,Shubham Sharma,26-Jul-22,20:39:14,20:44:34,00:05:20,Shubham Sharma 26-Jul-22 20:39:14 20:44:34 00:05:20,shubham sharma jul,1
+403,Aditya Shinde,26-Jul-22,20:17:35,20:19:45,00:02:10,Aditya Shinde 26-Jul-22 20:17:35 20:19:45 00:02:10,aditya shinde jul,1
+404,Deepranjan Gupta,26-Jul-22,20:14:20,03:07:41,06:53:20,Deepranjan Gupta 26-Jul-22 20:14:20 03:07:41 06:53:20,deepranjan gupta jul,0
+405,Shiva Srivastava,26-Jul-22,19:55:46,22:05:37,02:09:50,Shiva Srivastava 26-Jul-22 19:55:46 22:05:37 02:09:50,shiva srivastava jul,1
+406,Muskan Garg,26-Jul-22,19:42:09,22:23:07,02:40:57,Muskan Garg 26-Jul-22 19:42:09 22:23:07 02:40:57,muskan garg jul,1
+407,Ankitjha,26-Jul-22,19:40:18,19:42:59,00:02:40,Ankitjha 26-Jul-22 19:40:18 19:42:59 00:02:40,ankitjha jul,1
+408,Ankitjha,26-Jul-22,19:35:04,19:37:32,00:02:27,Ankitjha 26-Jul-22 19:35:04 19:37:32 00:02:27,ankitjha jul,1
+409,Ishawant Kumar,26-Jul-22,19:18:10,19:21:21,00:03:10,Ishawant Kumar 26-Jul-22 19:18:10 19:21:21 00:03:10,ishawant kumar jul,3
+410,Prateek _iot,26-Jul-22,18:03:44,20:02:25,01:58:40,Prateek _iot 26-Jul-22 18:03:44 20:02:25 01:58:40,prateek iot jul,1
+411,Aditya_iot,26-Jul-22,18:02:49,20:00:37,01:57:47,Aditya_iot 26-Jul-22 18:02:49 20:00:37 01:57:47,adityaiot jul,1
+412,Sudhanshu Kumar,26-Jul-22,17:38:58,14:20:11,20:41:12,Sudhanshu Kumar 26-Jul-22 17:38:58 14:20:11 20:41:12,sudhanshu kumar jul,3
+413,Ayushi Mishra,26-Jul-22,17:05:43,17:41:03,00:35:20,Ayushi Mishra 26-Jul-22 17:05:43 17:41:03 00:35:20,ayushi mishra jul,1
+414,Deepranjan Gupta,26-Jul-22,17:04:50,17:52:09,00:47:18,Deepranjan Gupta 26-Jul-22 17:04:50 17:52:09 00:47:18,deepranjan gupta jul,0
+415,Anurag Tiwari,26-Jul-22,16:53:23,16:56:48,00:03:25,Anurag Tiwari 26-Jul-22 16:53:23 16:56:48 00:03:25,anurag tiwari jul,1
+416,Sudhanshu Kumar,26-Jul-22,16:02:30,16:07:20,00:04:50,Sudhanshu Kumar 26-Jul-22 16:02:30 16:07:20 00:04:50,sudhanshu kumar jul,3
+417,Deepranjan Gupta,26-Jul-22,15:45:34,15:46:08,00:00:34,Deepranjan Gupta 26-Jul-22 15:45:34 15:46:08 00:00:34,deepranjan gupta jul,0
+418,Deepranjan Gupta,26-Jul-22,15:45:34,16:53:08,01:07:34,Deepranjan Gupta 26-Jul-22 15:45:34 16:53:08 01:07:34,deepranjan gupta jul,0
+419,Chaitra K Hiremath,26-Jul-22,15:32:41,15:34:29,00:01:48,Chaitra K Hiremath 26-Jul-22 15:32:41 15:34:29 00:01:48,chaitra k hiremath jul,1
+420,Chaitra K Hiremath,26-Jul-22,15:32:41,20:07:57,04:35:16,Chaitra K Hiremath 26-Jul-22 15:32:41 20:07:57 04:35:16,chaitra k hiremath jul,1
+421,Mithun S,26-Jul-22,15:21:10,15:23:20,00:02:10,Mithun S 26-Jul-22 15:21:10 15:23:20 00:02:10,mithun jul,1
+422,Shivan K,26-Jul-22,15:15:04,16:26:35,01:11:30,Shivan K 26-Jul-22 15:15:04 16:26:35 01:11:30,shivan k jul,1
+423,Shivan K,26-Jul-22,15:15:04,15:16:52,00:01:47,Shivan K 26-Jul-22 15:15:04 15:16:52 00:01:47,shivan k jul,1
+424,Saikumarreddy N,26-Jul-22,15:06:42,15:08:32,00:01:49,Saikumarreddy N 26-Jul-22 15:06:42 15:08:32 00:01:49,saikumarreddy n jul,1
+425,Saikumarreddy N,26-Jul-22,15:06:42,21:00:46,05:54:04,Saikumarreddy N 26-Jul-22 15:06:42 21:00:46 05:54:04,saikumarreddy n jul,1
+426,Prerna Singh,26-Jul-22,15:05:30,15:07:27,00:01:56,Prerna Singh 26-Jul-22 15:05:30 15:07:27 00:01:56,prerna singh jul,1
+427,Prerna Singh,26-Jul-22,15:05:30,21:02:08,05:56:38,Prerna Singh 26-Jul-22 15:05:30 21:02:08 05:56:38,prerna singh jul,1
+428,Jaydeep Dixit,26-Jul-22,15:02:35,21:07:12,06:04:36,Jaydeep Dixit 26-Jul-22 15:02:35 21:07:12 06:04:36,jaydeep dixit jul,1
+429,Madhulika G,26-Jul-22,15:02:35,15:25:19,00:22:43,Madhulika G 26-Jul-22 15:02:35 15:25:19 00:22:43,madhulika g jul,1
+430,Madhulika G,26-Jul-22,15:02:35,15:04:29,00:01:54,Madhulika G 26-Jul-22 15:02:35 15:04:29 00:01:54,madhulika g jul,1
+431,Sowmiya Sivakumar,26-Jul-22,15:02:18,15:18:01,00:15:43,Sowmiya Sivakumar 26-Jul-22 15:02:18 15:18:01 00:15:43,sowmiya sivakumar jul,1
+432,Sowmiya Sivakumar,26-Jul-22,15:02:18,15:10:37,00:08:19,Sowmiya Sivakumar 26-Jul-22 15:02:18 15:10:37 00:08:19,sowmiya sivakumar jul,1
+433,Prabir Kumar Satapathy,26-Jul-22,14:59:50,15:01:37,00:01:46,Prabir Kumar Satapathy 26-Jul-22 14:59:50 15:01:37 00:01:46,prabir kumar satapathy jul,3
+434,Prabir Kumar Satapathy,26-Jul-22,14:59:50,15:02:50,00:03:00,Prabir Kumar Satapathy 26-Jul-22 14:59:50 15:02:50 00:03:00,prabir kumar satapathy jul,3
+435,Sanjeev Kumar,26-Jul-22,14:59:45,21:03:14,06:03:28,Sanjeev Kumar 26-Jul-22 14:59:45 21:03:14 06:03:28,sanjeev kumar jul,3
+436,Mahesh Sarade,26-Jul-22,14:59:44,21:05:28,06:05:44,Mahesh Sarade 26-Jul-22 14:59:44 21:05:28 06:05:44,mahesh sarade jul,4
+437,Harikrishnan Shaji,26-Jul-22,14:59:25,20:52:17,05:52:51,Harikrishnan Shaji 26-Jul-22 14:59:25 20:52:17 05:52:51,harikrishnan shaji jul,1
+438,Nandani Gupta,26-Jul-22,14:59:18,21:05:03,06:05:44,Nandani Gupta 26-Jul-22 14:59:18 21:05:03 06:05:44,nandani gupta jul,0
+439,Hrisikesh Neogi,26-Jul-22,14:58:04,16:22:43,01:24:38,Hrisikesh Neogi 26-Jul-22 14:58:04 16:22:43 01:24:38,hrisikesh neogi jul,1
+440,Anurag Tiwari,26-Jul-22,14:57:37,14:59:14,00:01:36,Anurag Tiwari 26-Jul-22 14:57:37 14:59:14 00:01:36,anurag tiwari jul,1
+441,Deepranjan Gupta,26-Jul-22,14:37:29,14:43:26,00:05:56,Deepranjan Gupta 26-Jul-22 14:37:29 14:43:26 00:05:56,deepranjan gupta jul,0
+442,Nandani Gupta,26-Jul-22,12:50:52,14:27:43,01:36:50,Nandani Gupta 26-Jul-22 12:50:52 14:27:43 01:36:50,nandani gupta jul,0
+443,Khushboo Priya,26-Jul-22,12:40:21,12:42:16,00:01:54,Khushboo Priya 26-Jul-22 12:40:21 12:42:16 00:01:54,khushboo priya jul,1
+444,Khushboo Priya,26-Jul-22,12:40:21,15:02:36,02:22:15,Khushboo Priya 26-Jul-22 12:40:21 15:02:36 02:22:15,khushboo priya jul,1
+445,Ishawant Kumar,26-Jul-22,12:36:48,12:40:58,00:04:10,Ishawant Kumar 26-Jul-22 12:36:48 12:40:58 00:04:10,ishawant kumar jul,3
+446,Prabir Kumar Satapathy,26-Jul-22,12:19:02,14:11:01,01:51:58,Prabir Kumar Satapathy 26-Jul-22 12:19:02 14:11:01 01:51:58,prabir kumar satapathy jul,3
+447,Mithun S,26-Jul-22,12:09:20,12:11:14,00:01:54,Mithun S 26-Jul-22 12:09:20 12:11:14 00:01:54,mithun jul,1
+448,Mithun S,26-Jul-22,12:09:20,15:09:28,03:00:08,Mithun S 26-Jul-22 12:09:20 15:09:28 03:00:08,mithun jul,1
+449,Rishav Dash,26-Jul-22,11:46:44,11:48:40,00:01:55,Rishav Dash 26-Jul-22 11:46:44 11:48:40 00:01:55,rishav dash jul,1
+450,Rishav Dash,26-Jul-22,11:46:44,15:36:20,03:49:35,Rishav Dash 26-Jul-22 11:46:44 15:36:20 03:49:35,rishav dash jul,1
+451,Madhulika G,26-Jul-22,11:43:11,11:44:59,00:01:48,Madhulika G 26-Jul-22 11:43:11 11:44:59 00:01:48,madhulika g jul,1
+452,Madhulika G,26-Jul-22,11:43:11,14:19:53,02:36:42,Madhulika G 26-Jul-22 11:43:11 14:19:53 02:36:42,madhulika g jul,1
+453,Prabir Kumar Satapathy,26-Jul-22,11:36:12,11:38:09,00:01:56,Prabir Kumar Satapathy 26-Jul-22 11:36:12 11:38:09 00:01:56,prabir kumar satapathy jul,3
+454,Prabir Kumar Satapathy,26-Jul-22,11:36:12,12:17:03,00:40:50,Prabir Kumar Satapathy 26-Jul-22 11:36:12 12:17:03 00:40:50,prabir kumar satapathy jul,3
+455,Ayushi Mishra,26-Jul-22,11:35:58,11:49:29,00:13:31,Ayushi Mishra 26-Jul-22 11:35:58 11:49:29 00:13:31,ayushi mishra jul,1
+456,Shivan K,26-Jul-22,11:28:38,11:29:16,00:00:38,Shivan K 26-Jul-22 11:28:38 11:29:16 00:00:38,shivan k jul,1
+457,Wasim,26-Jul-22,11:20:54,11:22:44,00:01:50,Wasim 26-Jul-22 11:20:54 11:22:44 00:01:50,wasim jul,1
+458,Wasim,26-Jul-22,11:20:54,15:06:43,03:45:49,Wasim 26-Jul-22 11:20:54 15:06:43 03:45:49,wasim jul,1
+459,Dibyanshu,26-Jul-22,11:19:30,11:21:30,00:02:00,Dibyanshu 26-Jul-22 11:19:30 11:21:30 00:02:00,dibyanshu jul,1
+460,Hrisikesh Neogi,26-Jul-22,11:08:14,11:10:10,00:01:55,Hrisikesh Neogi 26-Jul-22 11:08:14 11:10:10 00:01:55,hrisikesh neogi jul,1
+461,Hrisikesh Neogi,26-Jul-22,11:08:14,14:40:43,03:32:29,Hrisikesh Neogi 26-Jul-22 11:08:14 14:40:43 03:32:29,hrisikesh neogi jul,1
+462,Dibyanshu,26-Jul-22,11:07:40,11:17:06,00:09:25,Dibyanshu 26-Jul-22 11:07:40 11:17:06 00:09:25,dibyanshu jul,1
+463,Shubham Sharma,26-Jul-22,11:07:11,11:45:21,00:38:10,Shubham Sharma 26-Jul-22 11:07:11 11:45:21 00:38:10,shubham sharma jul,1
+464,Sowmiya Sivakumar,26-Jul-22,11:00:22,13:38:35,02:38:13,Sowmiya Sivakumar 26-Jul-22 11:00:22 13:38:35 02:38:13,sowmiya sivakumar jul,1
+465,Sowmiya Sivakumar,26-Jul-22,11:00:22,11:02:09,00:01:47,Sowmiya Sivakumar 26-Jul-22 11:00:22 11:02:09 00:01:47,sowmiya sivakumar jul,1
+466,Ayushi Mishra,26-Jul-22,10:58:59,11:11:11,00:12:11,Ayushi Mishra 26-Jul-22 10:58:59 11:11:11 00:12:11,ayushi mishra jul,1
+467,Ayushi Mishra,26-Jul-22,10:55:50,10:57:50,00:02:00,Ayushi Mishra 26-Jul-22 10:55:50 10:57:50 00:02:00,ayushi mishra jul,1
+468,Anurag Tiwari,26-Jul-22,10:34:23,10:37:46,00:03:22,Anurag Tiwari 26-Jul-22 10:34:23 10:37:46 00:03:22,anurag tiwari jul,1
+469,Sowmiya Sivakumar,26-Jul-22,10:19:25,10:36:55,00:17:30,Sowmiya Sivakumar 26-Jul-22 10:19:25 10:36:55 00:17:30,sowmiya sivakumar jul,1
+470,Hrisikesh Neogi,26-Jul-22,10:04:26,10:37:43,00:33:16,Hrisikesh Neogi 26-Jul-22 10:04:26 10:37:43 00:33:16,hrisikesh neogi jul,1
+471,Anurag Tiwari,26-Jul-22,09:43:10,09:54:30,00:11:20,Anurag Tiwari 26-Jul-22 09:43:10 09:54:30 00:11:20,anurag tiwari jul,1
+472,Sowmiya Sivakumar,26-Jul-22,09:21:16,10:18:05,00:56:48,Sowmiya Sivakumar 26-Jul-22 09:21:16 10:18:05 00:56:48,sowmiya sivakumar jul,1
+473,Shivan K,26-Jul-22,09:18:43,09:37:06,00:18:22,Shivan K 26-Jul-22 09:18:43 09:37:06 00:18:22,shivan k jul,1
+474,Hrisikesh Neogi,26-Jul-22,09:03:33,09:48:41,00:45:07,Hrisikesh Neogi 26-Jul-22 09:03:33 09:48:41 00:45:07,hrisikesh neogi jul,1
+475,Harikrishnan Shaji,26-Jul-22,07:34:45,07:38:05,00:03:20,Harikrishnan Shaji 26-Jul-22 07:34:45 07:38:05 00:03:20,harikrishnan shaji jul,1
+476,Jawala Prakash,26-Jul-22,01:57:28,02:15:02,00:17:34,Jawala Prakash 26-Jul-22 01:57:28 02:15:02 00:17:34,jawala prakash jul,1
+477,Sanjeev Kumar,26-Jul-22,01:47:32,01:53:32,00:06:00,Sanjeev Kumar 26-Jul-22 01:47:32 01:53:32 00:06:00,sanjeev kumar jul,3
+478,Shubham Sharma,26-Jul-22,00:21:07,00:29:07,00:08:00,Shubham Sharma 26-Jul-22 00:21:07 00:29:07 00:08:00,shubham sharma jul,1
+479,Anurag Tiwari,26-Jul-22,00:08:02,00:09:11,00:01:08,Anurag Tiwari 26-Jul-22 00:08:02 00:09:11 00:01:08,anurag tiwari jul,1
+480,Boktiar Ahmed Bappy,26-Jul-22,00:01:56,02:51:19,02:49:23,Boktiar Ahmed Bappy 26-Jul-22 00:01:56 02:51:19 02:49:23,boktiar ahmed bappy jul,1
+481,Boktiar Ahmed Bappy,25-Jul-22,23:00:37,23:59:41,00:59:03,Boktiar Ahmed Bappy 25-Jul-22 23:00:37 23:59:41 00:59:03,boktiar ahmed bappy jul,1
+482,Hyder Abbas,25-Jul-22,22:18:57,22:22:05,00:03:07,Hyder Abbas 25-Jul-22 22:18:57 22:22:05 00:03:07,hyder abbas jul,1
+483,Muskan Garg,25-Jul-22,22:13:45,22:29:46,00:16:00,Muskan Garg 25-Jul-22 22:13:45 22:29:46 00:16:00,muskan garg jul,1
+484,Ayushi Mishra,25-Jul-22,21:04:42,03:02:41,05:57:59,Ayushi Mishra 25-Jul-22 21:04:42 03:02:41 05:57:59,ayushi mishra jul,1
+485,Jawala Prakash,25-Jul-22,21:00:02,01:56:29,04:56:27,Jawala Prakash 25-Jul-22 21:00:02 01:56:29 04:56:27,jawala prakash jul,1
+486,Shivananda Sonwane,25-Jul-22,20:59:33,03:02:55,06:03:21,Shivananda Sonwane 25-Jul-22 20:59:33 03:02:55 06:03:21,shivananda sonwane jul,1
+487,Ishawant Kumar,25-Jul-22,20:59:12,03:04:00,06:04:47,Ishawant Kumar 25-Jul-22 20:59:12 03:04:00 06:04:47,ishawant kumar jul,3
+488,Boktiar Ahmed Bappy,25-Jul-22,20:58:36,22:56:01,01:57:24,Boktiar Ahmed Bappy 25-Jul-22 20:58:36 22:56:01 01:57:24,boktiar ahmed bappy jul,1
+489,Deepranjan Gupta,25-Jul-22,20:53:42,03:03:38,06:09:56,Deepranjan Gupta 25-Jul-22 20:53:42 03:03:38 06:09:56,deepranjan gupta jul,0
+490,Deepranjan Gupta,25-Jul-22,20:43:00,20:48:51,00:05:51,Deepranjan Gupta 25-Jul-22 20:43:00 20:48:51 00:05:51,deepranjan gupta jul,0
+491,Ishawant Kumar,25-Jul-22,20:37:59,20:42:20,00:04:20,Ishawant Kumar 25-Jul-22 20:37:59 20:42:20 00:04:20,ishawant kumar jul,3
+492,Shiva Srivastava,25-Jul-22,19:56:40,22:08:50,02:12:09,Shiva Srivastava 25-Jul-22 19:56:40 22:08:50 02:12:09,shiva srivastava jul,1
+493,Muskan Garg,25-Jul-22,19:53:48,22:13:30,02:19:41,Muskan Garg 25-Jul-22 19:53:48 22:13:30 02:19:41,muskan garg jul,1
+494,Deepranjan Gupta,25-Jul-22,19:28:09,20:28:36,01:00:27,Deepranjan Gupta 25-Jul-22 19:28:09 20:28:36 01:00:27,deepranjan gupta jul,0
+495,Shiva Srivastava,25-Jul-22,19:17:20,19:53:42,00:36:22,Shiva Srivastava 25-Jul-22 19:17:20 19:53:42 00:36:22,shiva srivastava jul,1
+496,Prerna Singh,25-Jul-22,18:28:21,21:03:43,02:35:22,Prerna Singh 25-Jul-22 18:28:21 21:03:43 02:35:22,prerna singh jul,1
+497,Ishawant Kumar,25-Jul-22,18:08:23,18:13:33,00:05:10,Ishawant Kumar 25-Jul-22 18:08:23 18:13:33 00:05:10,ishawant kumar jul,3
+498,Prateek _iot,25-Jul-22,17:58:57,20:09:27,02:10:30,Prateek _iot 25-Jul-22 17:58:57 20:09:27 02:10:30,prateek iot jul,1
+499,Aditya_iot,25-Jul-22,17:58:26,20:17:54,02:19:28,Aditya_iot 25-Jul-22 17:58:26 20:17:54 02:19:28,adityaiot jul,1
+500,Wasim,25-Jul-22,17:49:23,17:51:44,00:02:21,Wasim 25-Jul-22 17:49:23 17:51:44 00:02:21,wasim jul,1
+501,Shiva Srivastava,25-Jul-22,17:42:33,17:50:49,00:08:16,Shiva Srivastava 25-Jul-22 17:42:33 17:50:49 00:08:16,shiva srivastava jul,1
+502,Muskan Garg,25-Jul-22,17:31:31,17:53:52,00:22:20,Muskan Garg 25-Jul-22 17:31:31 17:53:52 00:22:20,muskan garg jul,1
+503,Anurag Tiwari,25-Jul-22,17:23:15,17:30:56,00:07:40,Anurag Tiwari 25-Jul-22 17:23:15 17:30:56 00:07:40,anurag tiwari jul,1
+504,Shiva Srivastava,25-Jul-22,17:01:06,17:05:38,00:04:31,Shiva Srivastava 25-Jul-22 17:01:06 17:05:38 00:04:31,shiva srivastava jul,1
+505,Nishtha Jain,25-Jul-22,16:54:31,16:55:14,00:00:42,Nishtha Jain 25-Jul-22 16:54:31 16:55:14 00:00:42,nishtha jain jul,1
+506,Shiva Srivastava,25-Jul-22,16:27:06,16:51:07,00:24:01,Shiva Srivastava 25-Jul-22 16:27:06 16:51:07 00:24:01,shiva srivastava jul,1
+507,Ishawant Kumar,25-Jul-22,16:25:17,16:29:37,00:04:20,Ishawant Kumar 25-Jul-22 16:25:17 16:29:37 00:04:20,ishawant kumar jul,3
+508,Wasim,25-Jul-22,16:23:31,16:24:14,00:00:43,Wasim 25-Jul-22 16:23:31 16:24:14 00:00:43,wasim jul,1
+509,Muskan Garg,25-Jul-22,16:22:59,17:23:00,01:00:00,Muskan Garg 25-Jul-22 16:22:59 17:23:00 01:00:00,muskan garg jul,1
+510,Wasim,25-Jul-22,15:38:04,15:40:04,00:02:00,Wasim 25-Jul-22 15:38:04 15:40:04 00:02:00,wasim jul,1
+511,Anurag Tiwari,25-Jul-22,15:29:56,15:33:50,00:03:53,Anurag Tiwari 25-Jul-22 15:29:56 15:33:50 00:03:53,anurag tiwari jul,1
+512,Deepranjan Gupta,25-Jul-22,15:04:13,18:52:28,03:48:15,Deepranjan Gupta 25-Jul-22 15:04:13 18:52:28 03:48:15,deepranjan gupta jul,0
+513,Shubham Sharma,25-Jul-22,15:02:35,21:12:39,06:10:03,Shubham Sharma 25-Jul-22 15:02:35 21:12:39 06:10:03,shubham sharma jul,1
+514,Prerna Singh,25-Jul-22,15:01:23,18:23:58,03:22:34,Prerna Singh 25-Jul-22 15:01:23 18:23:58 03:22:34,prerna singh jul,1
+515,Swati,25-Jul-22,15:01:01,21:09:34,06:08:33,Swati 25-Jul-22 15:01:01 21:09:34 06:08:33,swati jul,1
+516,Zeeshan,25-Jul-22,15:00:04,21:20:41,06:20:37,Zeeshan 25-Jul-22 15:00:04 21:20:41 06:20:37,zeeshan jul,1
+517,Ameya Jain,25-Jul-22,14:59:34,20:59:12,05:59:37,Ameya Jain 25-Jul-22 14:59:34 20:59:12 05:59:37,ameya jain jul,1
+518,Harikrishnan Shaji,25-Jul-22,14:57:58,17:55:40,02:57:41,Harikrishnan Shaji 25-Jul-22 14:57:58 17:55:40 02:57:41,harikrishnan shaji jul,1
+519,Sanjeev Kumar,25-Jul-22,14:57:10,21:02:03,06:04:53,Sanjeev Kumar 25-Jul-22 14:57:10 21:02:03 06:04:53,sanjeev kumar jul,3
+520,Shivan K,25-Jul-22,14:33:13,14:54:03,00:20:50,Shivan K 25-Jul-22 14:33:13 14:54:03 00:20:50,shivan k jul,1
+521,Chaitra K Hiremath,25-Jul-22,14:01:47,20:03:37,06:01:49,Chaitra K Hiremath 25-Jul-22 14:01:47 20:03:37 06:01:49,chaitra k hiremath jul,1
+522,Sowmiya Sivakumar,25-Jul-22,13:59:39,15:22:20,01:22:40,Sowmiya Sivakumar 25-Jul-22 13:59:39 15:22:20 01:22:40,sowmiya sivakumar jul,1
+523,Shubham Sharma,25-Jul-22,13:34:58,13:37:28,00:02:30,Shubham Sharma 25-Jul-22 13:34:58 13:37:28 00:02:30,shubham sharma jul,1
+524,Shivan K,25-Jul-22,13:24:29,14:23:52,00:59:22,Shivan K 25-Jul-22 13:24:29 14:23:52 00:59:22,shivan k jul,1
+525,Anurag Tiwari,25-Jul-22,13:23:24,13:24:47,00:01:22,Anurag Tiwari 25-Jul-22 13:23:24 13:24:47 00:01:22,anurag tiwari jul,1
+526,Shivan K,25-Jul-22,12:47:41,13:21:02,00:33:21,Shivan K 25-Jul-22 12:47:41 13:21:02 00:33:21,shivan k jul,1
+527,Nandani Gupta,25-Jul-22,12:34:11,13:21:44,00:47:32,Nandani Gupta 25-Jul-22 12:34:11 13:21:44 00:47:32,nandani gupta jul,0
+528,Aravind,25-Jul-22,12:33:56,12:36:36,00:02:40,Aravind 25-Jul-22 12:33:56 12:36:36 00:02:40,aravind jul,1
+529,Ayushi Mishra,25-Jul-22,12:18:02,12:21:43,00:03:40,Ayushi Mishra 25-Jul-22 12:18:02 12:21:43 00:03:40,ayushi mishra jul,1
+530,Prateek _iot,25-Jul-22,12:11:02,12:13:22,00:02:20,Prateek _iot 25-Jul-22 12:11:02 12:13:22 00:02:20,prateek iot jul,1
+531,Wasim,25-Jul-22,12:08:59,15:05:55,02:56:56,Wasim 25-Jul-22 12:08:59 15:05:55 02:56:56,wasim jul,1
+532,Shivan K,25-Jul-22,11:52:24,12:24:55,00:32:30,Shivan K 25-Jul-22 11:52:24 12:24:55 00:32:30,shivan k jul,1
+533,Deepranjan Gupta,25-Jul-22,11:31:29,14:25:28,02:53:58,Deepranjan Gupta 25-Jul-22 11:31:29 14:25:28 02:53:58,deepranjan gupta jul,0
+534,Prabir Kumar Satapathy,25-Jul-22,11:22:26,11:24:56,00:02:30,Prabir Kumar Satapathy 25-Jul-22 11:22:26 11:24:56 00:02:30,prabir kumar satapathy jul,3
+535,Shivan K,25-Jul-22,10:39:20,11:52:07,01:12:46,Shivan K 25-Jul-22 10:39:20 11:52:07 01:12:46,shivan k jul,1
+536,Harikrishnan Shaji,25-Jul-22,10:02:27,12:01:53,01:59:25,Harikrishnan Shaji 25-Jul-22 10:02:27 12:01:53 01:59:25,harikrishnan shaji jul,1
+537,Rishav Dash,25-Jul-22,09:30:52,14:59:04,05:28:11,Rishav Dash 25-Jul-22 09:30:52 14:59:04 05:28:11,rishav dash jul,1
+538,Sowmiya Sivakumar,25-Jul-22,09:28:21,13:39:03,04:10:41,Sowmiya Sivakumar 25-Jul-22 09:28:21 13:39:03 04:10:41,sowmiya sivakumar jul,1
+539,Mithun S,25-Jul-22,09:24:50,15:39:57,06:15:07,Mithun S 25-Jul-22 09:24:50 15:39:57 06:15:07,mithun jul,1
+540,Shivan K,25-Jul-22,09:21:30,10:14:51,00:53:20,Shivan K 25-Jul-22 09:21:30 10:14:51 00:53:20,shivan k jul,1
+541,Harikrishnan Shaji,25-Jul-22,09:17:19,10:01:04,00:43:45,Harikrishnan Shaji 25-Jul-22 09:17:19 10:01:04 00:43:45,harikrishnan shaji jul,1
+542,Sowmiya Sivakumar,25-Jul-22,09:15:41,09:28:08,00:12:26,Sowmiya Sivakumar 25-Jul-22 09:15:41 09:28:08 00:12:26,sowmiya sivakumar jul,1
+543,Wasim,25-Jul-22,09:14:42,11:59:54,02:45:12,Wasim 25-Jul-22 09:14:42 11:59:54 02:45:12,wasim jul,1
+544,Manjunatha A,25-Jul-22,09:07:51,15:00:21,05:52:29,Manjunatha A 25-Jul-22 09:07:51 15:00:21 05:52:29,manjunatha jul,1
+545,Bharath,25-Jul-22,09:07:01,15:05:34,05:58:33,Bharath 25-Jul-22 09:07:01 15:05:34 05:58:33,bharath jul,1
+546,Nishtha Jain,25-Jul-22,09:04:36,14:58:04,05:53:28,Nishtha Jain 25-Jul-22 09:04:36 14:58:04 05:53:28,nishtha jain jul,1
+547,Jawala Prakash,25-Jul-22,03:27:14,03:29:34,00:02:20,Jawala Prakash 25-Jul-22 03:27:14 03:29:34 00:02:20,jawala prakash jul,1
+548,Mahesh Sarade,25-Jul-22,00:31:49,01:11:30,00:39:40,Mahesh Sarade 25-Jul-22 00:31:49 01:11:30 00:39:40,mahesh sarade jul,4
+549,Shivananda Sonwane,24-Jul-22,23:54:19,02:07:20,02:13:00,Shivananda Sonwane 24-Jul-22 23:54:19 02:07:20 02:13:00,shivananda sonwane jul,1
+550,Ameya Jain,24-Jul-22,23:31:42,00:16:23,00:44:40,Ameya Jain 24-Jul-22 23:31:42 00:16:23 00:44:40,ameya jain jul,1
+551,Shiva Srivastava,24-Jul-22,22:38:53,23:11:13,00:32:20,Shiva Srivastava 24-Jul-22 22:38:53 23:11:13 00:32:20,shiva srivastava jul,1
+552,Shubham Sharma,24-Jul-22,21:41:12,21:48:02,00:06:50,Shubham Sharma 24-Jul-22 21:41:12 21:48:02 00:06:50,shubham sharma jul,1
+553,Ishawant Kumar,24-Jul-22,21:35:57,03:01:36,05:25:38,Ishawant Kumar 24-Jul-22 21:35:57 03:01:36 05:25:38,ishawant kumar jul,3
+554,Ameya Jain,24-Jul-22,21:06:47,21:14:11,00:07:24,Ameya Jain 24-Jul-22 21:06:47 21:14:11 00:07:24,ameya jain jul,1
+555,Ayushi Mishra,24-Jul-22,21:05:42,03:01:17,05:55:35,Ayushi Mishra 24-Jul-22 21:05:42 03:01:17 05:55:35,ayushi mishra jul,1
+556,Saikumarreddy N,24-Jul-22,21:00:58,21:01:09,00:00:10,Saikumarreddy N 24-Jul-22 21:00:58 21:01:09 00:00:10,saikumarreddy n jul,1
+557,Jawala Prakash,24-Jul-22,20:59:24,03:03:54,06:04:29,Jawala Prakash 24-Jul-22 20:59:24 03:03:54 06:04:29,jawala prakash jul,1
+558,Jaydeep Dixit,24-Jul-22,20:52:20,21:02:14,24:09:54,Jaydeep Dixit 24-Jul-22 20:52:20 21:02:14 24:09:54,jaydeep dixit jul,1
+559,Ishawant Kumar,24-Jul-22,20:49:28,21:34:22,00:44:54,Ishawant Kumar 24-Jul-22 20:49:28 21:34:22 00:44:54,ishawant kumar jul,3
+560,Deepranjan Gupta,24-Jul-22,20:48:26,03:06:40,06:18:13,Deepranjan Gupta 24-Jul-22 20:48:26 03:06:40 06:18:13,deepranjan gupta jul,0
+561,Maitry,24-Jul-22,20:47:55,03:02:35,06:14:40,Maitry 24-Jul-22 20:47:55 03:02:35 06:14:40,maitry jul,1
+562,Ishawant Kumar,24-Jul-22,20:42:20,20:44:41,00:02:20,Ishawant Kumar 24-Jul-22 20:42:20 20:44:41 00:02:20,ishawant kumar jul,3
+563,Deepranjan Gupta,24-Jul-22,20:38:58,20:44:03,00:05:04,Deepranjan Gupta 24-Jul-22 20:38:58 20:44:03 00:05:04,deepranjan gupta jul,0
+564,Madhulika G,24-Jul-22,19:26:17,19:46:49,00:20:32,Madhulika G 24-Jul-22 19:26:17 19:46:49 00:20:32,madhulika g jul,1
+565,Shivan K,24-Jul-22,17:34:03,18:04:47,00:30:44,Shivan K 24-Jul-22 17:34:03 18:04:47 00:30:44,shivan k jul,1
+566,Ishawant Kumar,24-Jul-22,17:18:35,17:23:15,00:04:40,Ishawant Kumar 24-Jul-22 17:18:35 17:23:15 00:04:40,ishawant kumar jul,3
+567,Ameya Jain,24-Jul-22,17:00:37,21:01:47,04:01:10,Ameya Jain 24-Jul-22 17:00:37 21:01:47 04:01:10,ameya jain jul,1
+568,Mahesh Sarade,24-Jul-22,17:00:31,21:02:26,04:01:55,Mahesh Sarade 24-Jul-22 17:00:31 21:02:26 04:01:55,mahesh sarade jul,4
+569,Sanjeev Kumar,24-Jul-22,16:58:48,17:05:39,00:06:51,Sanjeev Kumar 24-Jul-22 16:58:48 17:05:39 00:06:51,sanjeev kumar jul,3
+570,Sanjeev Kumar,24-Jul-22,16:43:39,16:48:16,00:04:37,Sanjeev Kumar 24-Jul-22 16:43:39 16:48:16 00:04:37,sanjeev kumar jul,3
+571,Prateek _iot,24-Jul-22,16:40:17,16:43:37,00:03:20,Prateek _iot 24-Jul-22 16:40:17 16:43:37 00:03:20,prateek iot jul,1
+572,Shivananda Sonwane,24-Jul-22,16:15:34,16:23:21,00:07:46,Shivananda Sonwane 24-Jul-22 16:15:34 16:23:21 00:07:46,shivananda sonwane jul,1
+573,Mahesh Sarade,24-Jul-22,16:07:28,17:00:30,00:53:02,Mahesh Sarade 24-Jul-22 16:07:28 17:00:30 00:53:02,mahesh sarade jul,4
+574,Shubham Sharma,24-Jul-22,16:07:19,21:25:23,05:18:03,Shubham Sharma 24-Jul-22 16:07:19 21:25:23 05:18:03,shubham sharma jul,1
+575,Jaydeep Dixit,24-Jul-22,16:07:13,20:44:51,04:37:38,Jaydeep Dixit 24-Jul-22 16:07:13 20:44:51 04:37:38,jaydeep dixit jul,1
+576,Deepranjan Gupta,24-Jul-22,16:07:05,16:22:09,00:15:04,Deepranjan Gupta 24-Jul-22 16:07:05 16:22:09 00:15:04,deepranjan gupta jul,0
+577,Hrisikesh Neogi,24-Jul-22,15:23:28,15:26:48,00:03:20,Hrisikesh Neogi 24-Jul-22 15:23:28 15:26:48 00:03:20,hrisikesh neogi jul,1
+578,Jaydeep Dixit,24-Jul-22,15:07:56,16:06:57,00:59:00,Jaydeep Dixit 24-Jul-22 15:07:56 16:06:57 00:59:00,jaydeep dixit jul,1
+579,Swati,24-Jul-22,15:07:14,21:12:34,06:05:20,Swati 24-Jul-22 15:07:14 21:12:34 06:05:20,swati jul,1
+580,Hrisikesh Neogi,24-Jul-22,15:02:54,15:19:52,00:16:58,Hrisikesh Neogi 24-Jul-22 15:02:54 15:19:52 00:16:58,hrisikesh neogi jul,1
+581,Shubham Sharma,24-Jul-22,15:02:51,16:06:58,01:04:07,Shubham Sharma 24-Jul-22 15:02:51 16:06:58 01:04:07,shubham sharma jul,1
+582,Ameya Jain,24-Jul-22,15:02:36,17:00:35,01:57:59,Ameya Jain 24-Jul-22 15:02:36 17:00:35 01:57:59,ameya jain jul,1
+583,Mahesh Sarade,24-Jul-22,14:59:47,16:06:57,01:07:10,Mahesh Sarade 24-Jul-22 14:59:47 16:06:57 01:07:10,mahesh sarade jul,4
+584,Aravind,24-Jul-22,14:58:42,21:00:11,06:01:28,Aravind 24-Jul-22 14:58:42 21:00:11 06:01:28,aravind jul,1
+585,Zeeshan,24-Jul-22,14:58:35,21:04:03,06:05:27,Zeeshan 24-Jul-22 14:58:35 21:04:03 06:05:27,zeeshan jul,1
+586,Saikumarreddy N,24-Jul-22,14:43:32,21:00:24,06:16:51,Saikumarreddy N 24-Jul-22 14:43:32 21:00:24 06:16:51,saikumarreddy n jul,1
+587,Nishtha Jain,24-Jul-22,14:07:15,15:13:54,01:06:38,Nishtha Jain 24-Jul-22 14:07:15 15:13:54 01:06:38,nishtha jain jul,1
+588,Khushboo Priya,24-Jul-22,14:04:14,15:09:49,01:05:34,Khushboo Priya 24-Jul-22 14:04:14 15:09:49 01:05:34,khushboo priya jul,1
+589,Shivan K,24-Jul-22,14:03:38,15:47:47,01:44:09,Shivan K 24-Jul-22 14:03:38 15:47:47 01:44:09,shivan k jul,1
+590,Ayushi Mishra,24-Jul-22,14:00:46,14:02:56,00:02:10,Ayushi Mishra 24-Jul-22 14:00:46 14:02:56 00:02:10,ayushi mishra jul,1
+591,Deepranjan Gupta,24-Jul-22,13:28:13,16:06:09,02:37:55,Deepranjan Gupta 24-Jul-22 13:28:13 16:06:09 02:37:55,deepranjan gupta jul,0
+592,Hrisikesh Neogi,24-Jul-22,13:05:16,15:01:53,01:56:36,Hrisikesh Neogi 24-Jul-22 13:05:16 15:01:53 01:56:36,hrisikesh neogi jul,1
+593,Shubham Sharma,24-Jul-22,12:38:41,12:43:50,00:05:08,Shubham Sharma 24-Jul-22 12:38:41 12:43:50 00:05:08,shubham sharma jul,1
+594,Nandani Gupta,24-Jul-22,12:37:14,13:10:47,00:33:33,Nandani Gupta 24-Jul-22 12:37:14 13:10:47 00:33:33,nandani gupta jul,0
+595,Shivan K,24-Jul-22,12:12:49,13:54:51,01:42:02,Shivan K 24-Jul-22 12:12:49 13:54:51 01:42:02,shivan k jul,1
+596,Madhulika G,24-Jul-22,12:04:50,15:46:01,03:41:11,Madhulika G 24-Jul-22 12:04:50 15:46:01 03:41:11,madhulika g jul,1
+597,Anurag Tiwari,24-Jul-22,11:57:59,12:00:52,00:02:52,Anurag Tiwari 24-Jul-22 11:57:59 12:00:52 00:02:52,anurag tiwari jul,1
+598,Saikumarreddy N,24-Jul-22,11:53:29,11:56:17,00:02:48,Saikumarreddy N 24-Jul-22 11:53:29 11:56:17 00:02:48,saikumarreddy n jul,1
+599,Shivan K,24-Jul-22,11:14:26,12:07:57,00:53:31,Shivan K 24-Jul-22 11:14:26 12:07:57 00:53:31,shivan k jul,1
+600,Madhulika G,24-Jul-22,10:36:05,11:38:56,01:02:51,Madhulika G 24-Jul-22 10:36:05 11:38:56 01:02:51,madhulika g jul,1
+601,Khushboo Priya,24-Jul-22,09:54:48,13:54:56,04:00:07,Khushboo Priya 24-Jul-22 09:54:48 13:54:56 04:00:07,khushboo priya jul,1
+602,Khushboo Priya,24-Jul-22,09:23:03,09:54:46,00:31:42,Khushboo Priya 24-Jul-22 09:23:03 09:54:46 00:31:42,khushboo priya jul,1
+603,Shivan K,24-Jul-22,09:20:18,11:13:07,01:52:49,Shivan K 24-Jul-22 09:20:18 11:13:07 01:52:49,shivan k jul,1
+604,Nishtha Jain,24-Jul-22,09:06:03,14:00:32,04:54:28,Nishtha Jain 24-Jul-22 09:06:03 14:00:32 04:54:28,nishtha jain jul,1
+605,Rishav Dash,24-Jul-22,09:04:59,14:06:33,05:01:34,Rishav Dash 24-Jul-22 09:04:59 14:06:33 05:01:34,rishav dash jul,1
+606,Manjunatha A,24-Jul-22,09:01:43,15:13:56,06:12:12,Manjunatha A 24-Jul-22 09:01:43 15:13:56 06:12:12,manjunatha jul,1
+607,Hrisikesh Neogi,24-Jul-22,09:00:02,13:04:48,04:04:45,Hrisikesh Neogi 24-Jul-22 09:00:02 13:04:48 04:04:45,hrisikesh neogi jul,1
+608,Madhulika G,24-Jul-22,08:59:54,10:02:30,01:02:35,Madhulika G 24-Jul-22 08:59:54 10:02:30 01:02:35,madhulika g jul,1
+609,Bharath,24-Jul-22,08:51:27,15:08:15,06:16:48,Bharath 24-Jul-22 08:51:27 15:08:15 06:16:48,bharath jul,1
+610,Prabir Kumar Satapathy,24-Jul-22,08:44:32,15:03:27,06:18:55,Prabir Kumar Satapathy 24-Jul-22 08:44:32 15:03:27 06:18:55,prabir kumar satapathy jul,3
+611,Shiva Srivastava,24-Jul-22,06:25:39,06:36:56,00:11:16,Shiva Srivastava 24-Jul-22 06:25:39 06:36:56 00:11:16,shiva srivastava jul,1
+612,Dibyanshu,24-Jul-22,03:05:15,03:29:51,00:24:36,Dibyanshu 24-Jul-22 03:05:15 03:29:51 00:24:36,dibyanshu jul,1
+613,Boktiar Ahmed Bappy,24-Jul-22,02:32:05,02:52:05,00:20:00,Boktiar Ahmed Bappy 24-Jul-22 02:32:05 02:52:05 00:20:00,boktiar ahmed bappy jul,1
+614,Dibyanshu,24-Jul-22,02:22:05,02:39:51,00:17:46,Dibyanshu 24-Jul-22 02:22:05 02:39:51 00:17:46,dibyanshu jul,1
+615,Ishawant Kumar,24-Jul-22,02:14:53,02:17:13,00:02:20,Ishawant Kumar 24-Jul-22 02:14:53 02:17:13 00:02:20,ishawant kumar jul,3
+616,Shubham Sharma,24-Jul-22,01:13:06,01:54:32,00:41:25,Shubham Sharma 24-Jul-22 01:13:06 01:54:32 00:41:25,shubham sharma jul,1
+617,Ishawant Kumar,24-Jul-22,00:33:40,00:44:01,00:10:20,Ishawant Kumar 24-Jul-22 00:33:40 00:44:01 00:10:20,ishawant kumar jul,3
+618,Shubham Sharma,23-Jul-22,23:57:10,00:34:41,00:37:30,Shubham Sharma 23-Jul-22 23:57:10 00:34:41 00:37:30,shubham sharma jul,1
+619,Dibyanshu,23-Jul-22,23:45:06,00:50:55,01:05:48,Dibyanshu 23-Jul-22 23:45:06 00:50:55 01:05:48,dibyanshu jul,1
+620,Ishawant Kumar,23-Jul-22,23:41:24,23:46:54,00:05:30,Ishawant Kumar 23-Jul-22 23:41:24 23:46:54 00:05:30,ishawant kumar jul,3
+621,Shubham Sharma,23-Jul-22,23:37:17,23:49:25,00:12:07,Shubham Sharma 23-Jul-22 23:37:17 23:49:25 00:12:07,shubham sharma jul,1
+622,Ishawant Kumar,23-Jul-22,23:14:05,23:17:05,00:03:00,Ishawant Kumar 23-Jul-22 23:14:05 23:17:05 00:03:00,ishawant kumar jul,3
+623,Wasim,23-Jul-22,23:02:44,23:03:39,00:00:55,Wasim 23-Jul-22 23:02:44 23:03:39 00:00:55,wasim jul,1
+624,Dibyanshu,23-Jul-22,22:53:00,23:44:26,00:51:26,Dibyanshu 23-Jul-22 22:53:00 23:44:26 00:51:26,dibyanshu jul,1
+625,Sanjeev Kumar,23-Jul-22,22:24:40,22:40:32,00:15:52,Sanjeev Kumar 23-Jul-22 22:24:40 22:40:32 00:15:52,sanjeev kumar jul,3
+626,Shiva Srivastava,23-Jul-22,22:06:08,23:11:34,01:05:26,Shiva Srivastava 23-Jul-22 22:06:08 23:11:34 01:05:26,shiva srivastava jul,1
+627,Dibyanshu,23-Jul-22,22:05:12,22:07:12,00:02:00,Dibyanshu 23-Jul-22 22:05:12 22:07:12 00:02:00,dibyanshu jul,1
+628,Mahesh Sarade,23-Jul-22,21:59:30,22:02:30,00:03:00,Mahesh Sarade 23-Jul-22 21:59:30 22:02:30 00:03:00,mahesh sarade jul,4
+629,Ishawant Kumar,23-Jul-22,21:42:57,21:46:37,00:03:40,Ishawant Kumar 23-Jul-22 21:42:57 21:46:37 00:03:40,ishawant kumar jul,3
+630,Ishawant Kumar,23-Jul-22,21:19:24,21:29:02,00:09:38,Ishawant Kumar 23-Jul-22 21:19:24 21:29:02 00:09:38,ishawant kumar jul,3
+631,Deepranjan Gupta,23-Jul-22,21:17:53,03:04:16,05:46:22,Deepranjan Gupta 23-Jul-22 21:17:53 03:04:16 05:46:22,deepranjan gupta jul,0
+632,Swati,23-Jul-22,21:15:27,21:18:27,00:03:00,Swati 23-Jul-22 21:15:27 21:18:27 00:03:00,swati jul,1
+633,Maitry,23-Jul-22,21:07:50,03:09:34,06:01:44,Maitry 23-Jul-22 21:07:50 03:09:34 06:01:44,maitry jul,1
+634,Sanjeev Kumar,23-Jul-22,21:04:40,21:07:50,00:03:10,Sanjeev Kumar 23-Jul-22 21:04:40 21:07:50 00:03:10,sanjeev kumar jul,3
+635,Ayushi Mishra,23-Jul-22,21:04:05,03:02:12,05:58:07,Ayushi Mishra 23-Jul-22 21:04:05 03:02:12 05:58:07,ayushi mishra jul,1
+636,Shivananda Sonwane,23-Jul-22,21:03:09,03:04:14,06:01:04,Shivananda Sonwane 23-Jul-22 21:03:09 03:04:14 06:01:04,shivananda sonwane jul,1
+637,Boktiar Ahmed Bappy,23-Jul-22,20:55:22,02:27:57,05:32:34,Boktiar Ahmed Bappy 23-Jul-22 20:55:22 02:27:57 05:32:34,boktiar ahmed bappy jul,1
+638,Dibyanshu,23-Jul-22,20:32:03,22:01:22,01:29:18,Dibyanshu 23-Jul-22 20:32:03 22:01:22 01:29:18,dibyanshu jul,1
+639,Deepranjan Gupta,23-Jul-22,20:28:13,21:17:17,00:49:04,Deepranjan Gupta 23-Jul-22 20:28:13 21:17:17 00:49:04,deepranjan gupta jul,0
+640,Dibyanshu,23-Jul-22,20:23:15,20:31:20,00:08:04,Dibyanshu 23-Jul-22 20:23:15 20:31:20 00:08:04,dibyanshu jul,1
+641,Anurag Tiwari,23-Jul-22,20:04:05,20:14:15,00:10:09,Anurag Tiwari 23-Jul-22 20:04:05 20:14:15 00:10:09,anurag tiwari jul,1
+642,Dibyanshu,23-Jul-22,19:58:32,20:09:03,00:10:31,Dibyanshu 23-Jul-22 19:58:32 20:09:03 00:10:31,dibyanshu jul,1
+643,Deepranjan Gupta,23-Jul-22,19:36:19,19:40:45,00:04:26,Deepranjan Gupta 23-Jul-22 19:36:19 19:40:45 00:04:26,deepranjan gupta jul,0
+644,Harikrishnan Shaji,23-Jul-22,19:34:20,20:31:50,00:57:30,Harikrishnan Shaji 23-Jul-22 19:34:20 20:31:50 00:57:30,harikrishnan shaji jul,1
+645,Jaydeep Dixit,23-Jul-22,19:33:46,19:43:00,00:09:14,Jaydeep Dixit 23-Jul-22 19:33:46 19:43:00 00:09:14,jaydeep dixit jul,1
+646,Dibyanshu,23-Jul-22,19:27:59,19:43:54,00:15:55,Dibyanshu 23-Jul-22 19:27:59 19:43:54 00:15:55,dibyanshu jul,1
+647,Dibyanshu,23-Jul-22,19:09:23,19:12:04,00:02:40,Dibyanshu 23-Jul-22 19:09:23 19:12:04 00:02:40,dibyanshu jul,1
+648,Dibyanshu,23-Jul-22,17:45:17,18:51:34,01:06:17,Dibyanshu 23-Jul-22 17:45:17 18:51:34 01:06:17,dibyanshu jul,1
+649,Dibyanshu,23-Jul-22,17:29:15,17:31:35,00:02:20,Dibyanshu 23-Jul-22 17:29:15 17:31:35 00:02:20,dibyanshu jul,1
+650,Dibyanshu,23-Jul-22,17:24:42,17:29:06,00:04:24,Dibyanshu 23-Jul-22 17:24:42 17:29:06 00:04:24,dibyanshu jul,1
+651,Zeeshan,23-Jul-22,17:00:10,17:01:12,00:01:02,Zeeshan 23-Jul-22 17:00:10 17:01:12 00:01:02,zeeshan jul,1
+652,Dibyanshu,23-Jul-22,16:46:51,16:58:19,00:11:27,Dibyanshu 23-Jul-22 16:46:51 16:58:19 00:11:27,dibyanshu jul,1
+653,Aravind,23-Jul-22,16:43:29,21:00:16,04:16:46,Aravind 23-Jul-22 16:43:29 21:00:16 04:16:46,aravind jul,1
+654,Dibyanshu,23-Jul-22,16:29:28,16:32:45,00:03:17,Dibyanshu 23-Jul-22 16:29:28 16:32:45 00:03:17,dibyanshu jul,1
+655,Dibyanshu,23-Jul-22,16:23:35,16:25:35,00:02:00,Dibyanshu 23-Jul-22 16:23:35 16:25:35 00:02:00,dibyanshu jul,1
+656,Dibyanshu,23-Jul-22,16:08:16,16:10:16,00:02:00,Dibyanshu 23-Jul-22 16:08:16 16:10:16 00:02:00,dibyanshu jul,1
+657,Dibyanshu,23-Jul-22,15:17:36,15:21:21,00:03:44,Dibyanshu 23-Jul-22 15:17:36 15:21:21 00:03:44,dibyanshu jul,1
+658,Nandani Gupta,23-Jul-22,15:07:00,19:47:20,04:40:19,Nandani Gupta 23-Jul-22 15:07:00 19:47:20 04:40:19,nandani gupta jul,0
+659,Shubham Sharma,23-Jul-22,15:04:08,21:17:12,06:13:04,Shubham Sharma 23-Jul-22 15:04:08 21:17:12 06:13:04,shubham sharma jul,1
+660,Prerna Singh,23-Jul-22,15:03:12,21:09:19,06:06:06,Prerna Singh 23-Jul-22 15:03:12 21:09:19 06:06:06,prerna singh jul,1
+661,Ameya Jain,23-Jul-22,15:00:49,21:01:46,06:00:57,Ameya Jain 23-Jul-22 15:00:49 21:01:46 06:00:57,ameya jain jul,1
+662,Aravind,23-Jul-22,14:58:45,16:05:55,01:07:10,Aravind 23-Jul-22 14:58:45 16:05:55 01:07:10,aravind jul,1
+663,Deepranjan Gupta,23-Jul-22,14:56:50,19:31:16,04:34:26,Deepranjan Gupta 23-Jul-22 14:56:50 19:31:16 04:34:26,deepranjan gupta jul,0
+664,Shubham Sharma,23-Jul-22,14:56:26,15:00:31,00:04:05,Shubham Sharma 23-Jul-22 14:56:26 15:00:31 00:04:05,shubham sharma jul,1
+665,Saikumarreddy N,23-Jul-22,14:55:57,21:00:11,06:04:14,Saikumarreddy N 23-Jul-22 14:55:57 21:00:11 06:04:14,saikumarreddy n jul,1
+666,Sanjeev Kumar,23-Jul-22,14:55:15,21:03:03,06:07:47,Sanjeev Kumar 23-Jul-22 14:55:15 21:03:03 06:07:47,sanjeev kumar jul,3
+667,Mahesh Sarade,23-Jul-22,14:52:39,21:19:24,06:26:45,Mahesh Sarade 23-Jul-22 14:52:39 21:19:24 06:26:45,mahesh sarade jul,4
+668,Swati,23-Jul-22,14:41:18,21:14:13,06:32:54,Swati 23-Jul-22 14:41:18 21:14:13 06:32:54,swati jul,1
+669,Hrisikesh Neogi,23-Jul-22,14:27:16,15:21:16,00:53:59,Hrisikesh Neogi 23-Jul-22 14:27:16 15:21:16 00:53:59,hrisikesh neogi jul,1
+670,Sudhanshu Kumar,23-Jul-22,14:26:02,15:06:32,00:40:30,Sudhanshu Kumar 23-Jul-22 14:26:02 15:06:32 00:40:30,sudhanshu kumar jul,3
+671,Sanjeev Kumar,23-Jul-22,14:24:28,14:43:15,00:18:46,Sanjeev Kumar 23-Jul-22 14:24:28 14:43:15 00:18:46,sanjeev kumar jul,3
+672,Dibyanshu,23-Jul-22,13:43:37,13:45:37,00:02:00,Dibyanshu 23-Jul-22 13:43:37 13:45:37 00:02:00,dibyanshu jul,1
+673,Dibyanshu,23-Jul-22,13:20:38,13:28:34,00:07:56,Dibyanshu 23-Jul-22 13:20:38 13:28:34 00:07:56,dibyanshu jul,1
+674,Hrisikesh Neogi,23-Jul-22,12:51:49,14:24:08,01:32:19,Hrisikesh Neogi 23-Jul-22 12:51:49 14:24:08 01:32:19,hrisikesh neogi jul,1
+675,Sowmiya Sivakumar,23-Jul-22,12:26:01,15:04:01,02:37:59,Sowmiya Sivakumar 23-Jul-22 12:26:01 15:04:01 02:37:59,sowmiya sivakumar jul,1
+676,Sowmiya Sivakumar,23-Jul-22,12:03:21,12:19:02,00:15:41,Sowmiya Sivakumar 23-Jul-22 12:03:21 12:19:02 00:15:41,sowmiya sivakumar jul,1
+677,Madhulika G,23-Jul-22,11:45:34,15:02:17,03:16:42,Madhulika G 23-Jul-22 11:45:34 15:02:17 03:16:42,madhulika g jul,1
+678,Shubham Sharma,23-Jul-22,11:36:49,11:46:35,00:09:46,Shubham Sharma 23-Jul-22 11:36:49 11:46:35 00:09:46,shubham sharma jul,1
+679,Mithun S,23-Jul-22,11:21:36,17:34:22,06:12:46,Mithun S 23-Jul-22 11:21:36 17:34:22 06:12:46,mithun jul,1
+680,Chaitra K Hiremath,23-Jul-22,11:18:23,11:30:43,00:12:20,Chaitra K Hiremath 23-Jul-22 11:18:23 11:30:43 00:12:20,chaitra k hiremath jul,1
+681,Sowmiya Sivakumar,23-Jul-22,11:16:36,12:01:14,00:44:37,Sowmiya Sivakumar 23-Jul-22 11:16:36 12:01:14 00:44:37,sowmiya sivakumar jul,1
+682,Dibyanshu,23-Jul-22,11:12:31,13:01:46,01:49:14,Dibyanshu 23-Jul-22 11:12:31 13:01:46 01:49:14,dibyanshu jul,1
+683,Dibyanshu,23-Jul-22,11:08:16,11:12:08,00:03:52,Dibyanshu 23-Jul-22 11:08:16 11:12:08 00:03:52,dibyanshu jul,1
+684,Prateek _iot,23-Jul-22,10:21:57,10:24:07,00:02:10,Prateek _iot 23-Jul-22 10:21:57 10:24:07 00:02:10,prateek iot jul,1
+685,Nishtha Jain,23-Jul-22,10:08:45,15:02:32,04:53:46,Nishtha Jain 23-Jul-22 10:08:45 15:02:32 04:53:46,nishtha jain jul,1
+686,Dibyanshu,23-Jul-22,09:49:09,09:58:43,00:09:33,Dibyanshu 23-Jul-22 09:49:09 09:58:43 00:09:33,dibyanshu jul,1
+687,Khushboo Priya,23-Jul-22,09:23:41,15:11:07,05:47:26,Khushboo Priya 23-Jul-22 09:23:41 15:11:07 05:47:26,khushboo priya jul,1
+688,Madhulika G,23-Jul-22,09:18:51,11:44:20,02:25:28,Madhulika G 23-Jul-22 09:18:51 11:44:20 02:25:28,madhulika g jul,1
+689,Shivan K,23-Jul-22,09:10:59,15:14:10,06:03:11,Shivan K 23-Jul-22 09:10:59 15:14:10 06:03:11,shivan k jul,1
+690,Harikrishnan Shaji,23-Jul-22,09:07:19,15:22:53,06:15:34,Harikrishnan Shaji 23-Jul-22 09:07:19 15:22:53 06:15:34,harikrishnan shaji jul,1
+691,Sowmiya Sivakumar,23-Jul-22,09:04:53,11:15:34,02:10:41,Sowmiya Sivakumar 23-Jul-22 09:04:53 11:15:34 02:10:41,sowmiya sivakumar jul,1
+692,Madhulika G,23-Jul-22,09:03:51,09:15:52,00:12:00,Madhulika G 23-Jul-22 09:03:51 09:15:52 00:12:00,madhulika g jul,1
+693,Hrisikesh Neogi,23-Jul-22,09:01:18,12:51:21,03:50:02,Hrisikesh Neogi 23-Jul-22 09:01:18 12:51:21 03:50:02,hrisikesh neogi jul,1
+694,Nishtha Jain,23-Jul-22,08:59:19,09:51:51,00:52:32,Nishtha Jain 23-Jul-22 08:59:19 09:51:51 00:52:32,nishtha jain jul,1
+695,Mithun S,23-Jul-22,08:57:57,11:20:21,02:22:23,Mithun S 23-Jul-22 08:57:57 11:20:21 02:22:23,mithun jul,1
+696,Saurabh Shukla,23-Jul-22,08:35:20,09:18:20,00:43:00,Saurabh Shukla 23-Jul-22 08:35:20 09:18:20 00:43:00,saurabh shukla jul,2
+697,Sudhanshu Kumar,23-Jul-22,03:27:56,04:00:07,00:32:10,Sudhanshu Kumar 23-Jul-22 03:27:56 04:00:07 00:32:10,sudhanshu kumar jul,3
+698,Mahesh Sarade,22-Jul-22,23:35:11,23:37:11,00:02:00,Mahesh Sarade 22-Jul-22 23:35:11 23:37:11 00:02:00,mahesh sarade jul,4
+699,Saurabh Shukla,22-Jul-22,23:24:41,23:26:41,00:02:00,Saurabh Shukla 22-Jul-22 23:24:41 23:26:41 00:02:00,saurabh shukla jul,2
+700,Deepranjan Gupta,22-Jul-22,23:23:38,03:06:01,03:42:22,Deepranjan Gupta 22-Jul-22 23:23:38 03:06:01 03:42:22,deepranjan gupta jul,0
+701,Dibyanshu,22-Jul-22,23:02:49,00:13:50,01:11:00,Dibyanshu 22-Jul-22 23:02:49 00:13:50 01:11:00,dibyanshu jul,1
+702,Boktiar Ahmed Bappy,22-Jul-22,22:50:10,02:49:47,03:59:37,Boktiar Ahmed Bappy 22-Jul-22 22:50:10 02:49:47 03:59:37,boktiar ahmed bappy jul,1
+703,Dibyanshu,22-Jul-22,22:38:57,22:41:08,00:02:11,Dibyanshu 22-Jul-22 22:38:57 22:41:08 00:02:11,dibyanshu jul,1
+704,Saurabh Shukla,22-Jul-22,22:33:16,22:35:17,00:02:00,Saurabh Shukla 22-Jul-22 22:33:16 22:35:17 00:02:00,saurabh shukla jul,2
+705,Dibyanshu,22-Jul-22,21:52:06,21:54:06,00:02:00,Dibyanshu 22-Jul-22 21:52:06 21:54:06 00:02:00,dibyanshu jul,1
+706,Ishawant Kumar,22-Jul-22,21:49:30,03:13:07,05:23:37,Ishawant Kumar 22-Jul-22 21:49:30 03:13:07 05:23:37,ishawant kumar jul,3
+707,Saurabh Shukla,22-Jul-22,21:43:03,21:45:03,00:02:00,Saurabh Shukla 22-Jul-22 21:43:03 21:45:03 00:02:00,saurabh shukla jul,2
+708,Muskan Garg,22-Jul-22,21:26:53,23:16:04,01:49:10,Muskan Garg 22-Jul-22 21:26:53 23:16:04 01:49:10,muskan garg jul,1
+709,Deepranjan Gupta,22-Jul-22,21:09:56,21:25:40,00:15:43,Deepranjan Gupta 22-Jul-22 21:09:56 21:25:40 00:15:43,deepranjan gupta jul,0
+710,Saurabh Shukla,22-Jul-22,21:08:56,21:10:56,00:02:00,Saurabh Shukla 22-Jul-22 21:08:56 21:10:56 00:02:00,saurabh shukla jul,2
+711,Deepranjan Gupta,22-Jul-22,21:06:07,21:08:37,00:02:30,Deepranjan Gupta 22-Jul-22 21:06:07 21:08:37 00:02:30,deepranjan gupta jul,0
+712,Aravind,22-Jul-22,21:01:56,21:02:03,00:00:06,Aravind 22-Jul-22 21:01:56 21:02:03 00:00:06,aravind jul,1
+713,Jawala Prakash,22-Jul-22,21:00:18,03:12:48,06:12:30,Jawala Prakash 22-Jul-22 21:00:18 03:12:48 06:12:30,jawala prakash jul,1
+714,Ishawant Kumar,22-Jul-22,20:56:48,21:48:57,00:52:09,Ishawant Kumar 22-Jul-22 20:56:48 21:48:57 00:52:09,ishawant kumar jul,3
+715,Deepranjan Gupta,22-Jul-22,20:56:45,21:00:57,00:04:11,Deepranjan Gupta 22-Jul-22 20:56:45 21:00:57 00:04:11,deepranjan gupta jul,0
+716,Boktiar Ahmed Bappy,22-Jul-22,20:54:38,22:49:29,01:54:50,Boktiar Ahmed Bappy 22-Jul-22 20:54:38 22:49:29 01:54:50,boktiar ahmed bappy jul,1
+717,Dibyanshu,22-Jul-22,20:50:57,20:55:16,00:04:18,Dibyanshu 22-Jul-22 20:50:57 20:55:16 00:04:18,dibyanshu jul,1
+718,Shivananda Sonwane,22-Jul-22,20:40:09,03:05:13,06:25:04,Shivananda Sonwane 22-Jul-22 20:40:09 03:05:13 06:25:04,shivananda sonwane jul,1
+719,Saurabh Shukla,22-Jul-22,20:38:18,20:40:19,00:02:00,Saurabh Shukla 22-Jul-22 20:38:18 20:40:19 00:02:00,saurabh shukla jul,2
+720,Zeeshan,22-Jul-22,20:35:30,21:03:12,00:27:42,Zeeshan 22-Jul-22 20:35:30 21:03:12 00:27:42,zeeshan jul,1
+721,Dibyanshu,22-Jul-22,20:30:07,20:38:46,00:08:38,Dibyanshu 22-Jul-22 20:30:07 20:38:46 00:08:38,dibyanshu jul,1
+722,Muskan Garg,22-Jul-22,20:13:19,20:23:39,00:10:20,Muskan Garg 22-Jul-22 20:13:19 20:23:39 00:10:20,muskan garg jul,1
+723,Saurabh Shukla,22-Jul-22,20:05:57,20:07:57,00:02:00,Saurabh Shukla 22-Jul-22 20:05:57 20:07:57 00:02:00,saurabh shukla jul,2
+724,Saurabh Shukla,22-Jul-22,19:10:59,19:35:37,00:24:37,Saurabh Shukla 22-Jul-22 19:10:59 19:35:37 00:24:37,saurabh shukla jul,2
+725,Dibyanshu,22-Jul-22,19:03:35,19:22:40,00:19:04,Dibyanshu 22-Jul-22 19:03:35 19:22:40 00:19:04,dibyanshu jul,1
+726,Dibyanshu,22-Jul-22,18:50:57,18:53:07,00:02:10,Dibyanshu 22-Jul-22 18:50:57 18:53:07 00:02:10,dibyanshu jul,1
+727,Dibyanshu,22-Jul-22,18:07:49,18:26:05,00:18:15,Dibyanshu 22-Jul-22 18:07:49 18:26:05 00:18:15,dibyanshu jul,1
+728,Prateek _iot,22-Jul-22,18:03:04,20:02:05,01:59:00,Prateek _iot 22-Jul-22 18:03:04 20:02:05 01:59:00,prateek iot jul,1
+729,Aditya_iot,22-Jul-22,18:02:42,20:00:13,01:57:31,Aditya_iot 22-Jul-22 18:02:42 20:00:13 01:57:31,adityaiot jul,1
+730,Dibyanshu,22-Jul-22,17:55:33,17:58:14,00:02:40,Dibyanshu 22-Jul-22 17:55:33 17:58:14 00:02:40,dibyanshu jul,1
+731,Saurabh Shukla,22-Jul-22,17:51:24,18:02:01,00:10:37,Saurabh Shukla 22-Jul-22 17:51:24 18:02:01 00:10:37,saurabh shukla jul,2
+732,Saurabh Shukla,22-Jul-22,17:11:54,17:13:54,00:02:00,Saurabh Shukla 22-Jul-22 17:11:54 17:13:54 00:02:00,saurabh shukla jul,2
+733,Dibyanshu,22-Jul-22,17:05:35,17:17:33,00:11:57,Dibyanshu 22-Jul-22 17:05:35 17:17:33 00:11:57,dibyanshu jul,1
+734,Saurabh Shukla,22-Jul-22,17:02:44,17:11:03,00:08:19,Saurabh Shukla 22-Jul-22 17:02:44 17:11:03 00:08:19,saurabh shukla jul,2
+735,Dibyanshu,22-Jul-22,16:55:12,16:59:47,00:04:35,Dibyanshu 22-Jul-22 16:55:12 16:59:47 00:04:35,dibyanshu jul,1
+736,Mahesh Sarade,22-Jul-22,16:50:13,21:03:16,04:13:03,Mahesh Sarade 22-Jul-22 16:50:13 21:03:16 04:13:03,mahesh sarade jul,4
+737,Prabir Kumar Satapathy,22-Jul-22,16:49:08,16:55:18,00:06:10,Prabir Kumar Satapathy 22-Jul-22 16:49:08 16:55:18 00:06:10,prabir kumar satapathy jul,3
+738,Saurabh Shukla,22-Jul-22,16:40:54,16:54:03,00:13:08,Saurabh Shukla 22-Jul-22 16:40:54 16:54:03 00:13:08,saurabh shukla jul,2
+739,Dibyanshu,22-Jul-22,16:04:26,16:54:57,00:50:31,Dibyanshu 22-Jul-22 16:04:26 16:54:57 00:50:31,dibyanshu jul,1
+740,Saurabh Shukla,22-Jul-22,16:03:07,16:33:21,00:30:14,Saurabh Shukla 22-Jul-22 16:03:07 16:33:21 00:30:14,saurabh shukla jul,2
+741,Dibyanshu,22-Jul-22,15:50:09,15:54:33,00:04:24,Dibyanshu 22-Jul-22 15:50:09 15:54:33 00:04:24,dibyanshu jul,1
+742,Wasim,22-Jul-22,15:38:49,15:40:49,00:02:00,Wasim 22-Jul-22 15:38:49 15:40:49 00:02:00,wasim jul,1
+743,Dibyanshu,22-Jul-22,15:35:36,15:37:37,00:02:00,Dibyanshu 22-Jul-22 15:35:36 15:37:37 00:02:00,dibyanshu jul,1
+744,Dibyanshu,22-Jul-22,15:17:38,15:21:39,00:04:01,Dibyanshu 22-Jul-22 15:17:38 15:21:39 00:04:01,dibyanshu jul,1
+745,Jaydeep Dixit,22-Jul-22,15:05:30,21:02:09,05:56:39,Jaydeep Dixit 22-Jul-22 15:05:30 21:02:09 05:56:39,jaydeep dixit jul,1
+746,Prerna Singh,22-Jul-22,15:03:29,21:07:20,06:03:51,Prerna Singh 22-Jul-22 15:03:29 21:07:20 06:03:51,prerna singh jul,1
+747,Aravind,22-Jul-22,14:59:35,21:01:49,06:02:13,Aravind 22-Jul-22 14:59:35 21:01:49 06:02:13,aravind jul,1
+748,Sanjeev Kumar,22-Jul-22,14:59:06,21:03:49,06:04:42,Sanjeev Kumar 22-Jul-22 14:59:06 21:03:49 06:04:42,sanjeev kumar jul,3
+749,Rishav Dash,22-Jul-22,14:56:07,15:04:26,00:08:19,Rishav Dash 22-Jul-22 14:56:07 15:04:26 00:08:19,rishav dash jul,1
+750,Zeeshan,22-Jul-22,14:55:55,20:35:22,05:39:26,Zeeshan 22-Jul-22 14:55:55 20:35:22 05:39:26,zeeshan jul,1
+751,Nandani Gupta,22-Jul-22,14:55:14,21:03:12,06:07:58,Nandani Gupta 22-Jul-22 14:55:14 21:03:12 06:07:58,nandani gupta jul,0
+752,Mahesh Sarade,22-Jul-22,14:51:15,16:46:10,01:54:54,Mahesh Sarade 22-Jul-22 14:51:15 16:46:10 01:54:54,mahesh sarade jul,4
+753,Shubham Sharma,22-Jul-22,14:15:56,15:26:39,01:10:42,Shubham Sharma 22-Jul-22 14:15:56 15:26:39 01:10:42,shubham sharma jul,1
+754,Dibyanshu,22-Jul-22,14:14:45,15:15:42,01:00:57,Dibyanshu 22-Jul-22 14:14:45 15:15:42 01:00:57,dibyanshu jul,1
+755,Saurabh Shukla,22-Jul-22,14:13:46,14:15:47,00:02:00,Saurabh Shukla 22-Jul-22 14:13:46 14:15:47 00:02:00,saurabh shukla jul,2
+756,Harikrishnan Shaji,22-Jul-22,13:58:17,14:04:47,00:06:30,Harikrishnan Shaji 22-Jul-22 13:58:17 14:04:47 00:06:30,harikrishnan shaji jul,1
+757,Prabir Kumar Satapathy,22-Jul-22,13:48:17,14:52:31,01:04:14,Prabir Kumar Satapathy 22-Jul-22 13:48:17 14:52:31 01:04:14,prabir kumar satapathy jul,3
+758,Deepranjan Gupta,22-Jul-22,13:48:15,19:45:24,05:57:09,Deepranjan Gupta 22-Jul-22 13:48:15 19:45:24 05:57:09,deepranjan gupta jul,0
+759,Prabir Kumar Satapathy,22-Jul-22,13:44:22,13:46:43,00:02:20,Prabir Kumar Satapathy 22-Jul-22 13:44:22 13:46:43 00:02:20,prabir kumar satapathy jul,3
+760,Shubham Sharma,22-Jul-22,13:40:19,13:57:39,00:17:19,Shubham Sharma 22-Jul-22 13:40:19 13:57:39 00:17:19,shubham sharma jul,1
+761,Hyder Abbas,22-Jul-22,13:33:23,13:53:33,00:20:10,Hyder Abbas 22-Jul-22 13:33:23 13:53:33 00:20:10,hyder abbas jul,1
+762,Shubham Sharma,22-Jul-22,13:32:20,13:38:30,00:06:10,Shubham Sharma 22-Jul-22 13:32:20 13:38:30 00:06:10,shubham sharma jul,1
+763,Shivan K,22-Jul-22,13:07:17,15:14:18,02:07:01,Shivan K 22-Jul-22 13:07:17 15:14:18 02:07:01,shivan k jul,1
+764,Dibyanshu,22-Jul-22,13:06:17,13:47:27,00:41:09,Dibyanshu 22-Jul-22 13:06:17 13:47:27 00:41:09,dibyanshu jul,1
+765,Nitin M,22-Jul-22,13:01:55,13:49:51,00:47:56,Nitin M 22-Jul-22 13:01:55 13:49:51 00:47:56,nitin jul,1
+766,Dibyanshu,22-Jul-22,12:57:48,13:03:22,00:05:34,Dibyanshu 22-Jul-22 12:57:48 13:03:22 00:05:34,dibyanshu jul,1
+767,Shivan K,22-Jul-22,12:41:02,13:06:13,00:25:11,Shivan K 22-Jul-22 12:41:02 13:06:13 00:25:11,shivan k jul,1
+768,Dibyanshu,22-Jul-22,12:38:11,12:40:11,00:02:00,Dibyanshu 22-Jul-22 12:38:11 12:40:11 00:02:00,dibyanshu jul,1
+769,Muskan Garg,22-Jul-22,12:37:49,13:54:06,01:16:16,Muskan Garg 22-Jul-22 12:37:49 13:54:06 01:16:16,muskan garg jul,1
+770,Ayushi Mishra,22-Jul-22,12:32:26,12:34:46,00:02:20,Ayushi Mishra 22-Jul-22 12:32:26 12:34:46 00:02:20,ayushi mishra jul,1
+771,Hrisikesh Neogi,22-Jul-22,12:14:22,12:17:43,00:03:20,Hrisikesh Neogi 22-Jul-22 12:14:22 12:17:43 00:03:20,hrisikesh neogi jul,1
+772,Prabir Kumar Satapathy,22-Jul-22,12:11:48,12:44:57,00:33:08,Prabir Kumar Satapathy 22-Jul-22 12:11:48 12:44:57 00:33:08,prabir kumar satapathy jul,3
+773,Shiva Srivastava,22-Jul-22,12:11:23,12:14:33,00:03:10,Shiva Srivastava 22-Jul-22 12:11:23 12:14:33 00:03:10,shiva srivastava jul,1
+774,Shiva Srivastava,22-Jul-22,12:05:56,12:08:07,00:02:10,Shiva Srivastava 22-Jul-22 12:05:56 12:08:07 00:02:10,shiva srivastava jul,1
+775,Muskan Garg,22-Jul-22,12:02:32,12:05:54,00:03:21,Muskan Garg 22-Jul-22 12:02:32 12:05:54 00:03:21,muskan garg jul,1
+776,Sudhanshu Kumar,22-Jul-22,11:57:27,13:43:15,01:45:47,Sudhanshu Kumar 22-Jul-22 11:57:27 13:43:15 01:45:47,sudhanshu kumar jul,3
+777,Chaitra K Hiremath,22-Jul-22,11:56:34,13:58:20,02:01:45,Chaitra K Hiremath 22-Jul-22 11:56:34 13:58:20 02:01:45,chaitra k hiremath jul,1
+778,Dibyanshu,22-Jul-22,11:47:36,12:24:26,00:36:49,Dibyanshu 22-Jul-22 11:47:36 12:24:26 00:36:49,dibyanshu jul,1
+779,Dibyanshu,22-Jul-22,11:42:54,11:47:23,00:04:28,Dibyanshu 22-Jul-22 11:42:54 11:47:23 00:04:28,dibyanshu jul,1
+780,Dibyanshu,22-Jul-22,11:36:36,11:38:36,00:02:00,Dibyanshu 22-Jul-22 11:36:36 11:38:36 00:02:00,dibyanshu jul,1
+781,Dibyanshu,22-Jul-22,11:21:28,11:23:28,00:02:00,Dibyanshu 22-Jul-22 11:21:28 11:23:28 00:02:00,dibyanshu jul,1
+782,Sowmiya Sivakumar,22-Jul-22,11:16:39,11:18:33,00:01:54,Sowmiya Sivakumar 22-Jul-22 11:16:39 11:18:33 00:01:54,sowmiya sivakumar jul,1
+783,Sowmiya Sivakumar,22-Jul-22,11:16:39,15:31:57,04:15:18,Sowmiya Sivakumar 22-Jul-22 11:16:39 15:31:57 04:15:18,sowmiya sivakumar jul,1
+784,Shivan K,22-Jul-22,11:13:53,11:36:54,00:23:00,Shivan K 22-Jul-22 11:13:53 11:36:54 00:23:00,shivan k jul,1
+785,Dibyanshu,22-Jul-22,11:04:37,11:06:37,00:02:00,Dibyanshu 22-Jul-22 11:04:37 11:06:37 00:02:00,dibyanshu jul,1
+786,Shivan K,22-Jul-22,10:55:29,11:13:39,00:18:10,Shivan K 22-Jul-22 10:55:29 11:13:39 00:18:10,shivan k jul,1
+787,Harikrishnan Shaji,22-Jul-22,10:53:13,10:55:23,00:02:10,Harikrishnan Shaji 22-Jul-22 10:53:13 10:55:23 00:02:10,harikrishnan shaji jul,1
+788,Khushboo Priya,22-Jul-22,10:45:06,10:46:58,00:01:51,Khushboo Priya 22-Jul-22 10:45:06 10:46:58 00:01:51,khushboo priya jul,1
+789,Khushboo Priya,22-Jul-22,10:45:06,15:03:20,04:18:13,Khushboo Priya 22-Jul-22 10:45:06 15:03:20 04:18:13,khushboo priya jul,1
+790,Deepranjan Gupta,22-Jul-22,10:34:03,13:00:54,02:26:51,Deepranjan Gupta 22-Jul-22 10:34:03 13:00:54 02:26:51,deepranjan gupta jul,0
+791,Dibyanshu,22-Jul-22,10:31:12,10:33:12,00:02:00,Dibyanshu 22-Jul-22 10:31:12 10:33:12 00:02:00,dibyanshu jul,1
+792,Prabir Kumar Satapathy,22-Jul-22,10:29:09,12:06:30,01:37:21,Prabir Kumar Satapathy 22-Jul-22 10:29:09 12:06:30 01:37:21,prabir kumar satapathy jul,3
+793,Nishtha Jain,22-Jul-22,10:22:25,10:24:13,00:01:48,Nishtha Jain 22-Jul-22 10:22:25 10:24:13 00:01:48,nishtha jain jul,1
+794,Nishtha Jain,22-Jul-22,10:22:25,14:50:35,04:28:10,Nishtha Jain 22-Jul-22 10:22:25 14:50:35 04:28:10,nishtha jain jul,1
+795,Dibyanshu,22-Jul-22,10:13:30,10:15:30,00:02:00,Dibyanshu 22-Jul-22 10:13:30 10:15:30 00:02:00,dibyanshu jul,1
+796,Dibyanshu,22-Jul-22,09:57:05,09:59:05,00:02:00,Dibyanshu 22-Jul-22 09:57:05 09:59:05 00:02:00,dibyanshu jul,1
+797,Rishav Dash,22-Jul-22,09:52:24,12:01:07,02:08:42,Rishav Dash 22-Jul-22 09:52:24 12:01:07 02:08:42,rishav dash jul,1
+798,Rishav Dash,22-Jul-22,09:52:24,14:16:02,04:23:38,Rishav Dash 22-Jul-22 09:52:24 14:16:02 04:23:38,rishav dash jul,1
+799,Prabir Kumar Satapathy,22-Jul-22,09:34:58,10:28:02,00:53:04,Prabir Kumar Satapathy 22-Jul-22 09:34:58 10:28:02 00:53:04,prabir kumar satapathy jul,3
+800,Prabir Kumar Satapathy,22-Jul-22,09:34:58,09:36:48,00:01:50,Prabir Kumar Satapathy 22-Jul-22 09:34:58 09:36:48 00:01:50,prabir kumar satapathy jul,3
+801,Shivan K,22-Jul-22,09:34:52,10:16:06,00:41:13,Shivan K 22-Jul-22 09:34:52 10:16:06 00:41:13,shivan k jul,1
+802,Shivan K,22-Jul-22,09:34:52,09:36:41,00:01:49,Shivan K 22-Jul-22 09:34:52 09:36:41 00:01:49,shivan k jul,1
+803,Mithun S,22-Jul-22,09:29:32,09:31:27,00:01:55,Mithun S 22-Jul-22 09:29:32 09:31:27 00:01:55,mithun jul,1
+804,Mithun S,22-Jul-22,09:29:32,15:12:45,05:43:13,Mithun S 22-Jul-22 09:29:32 15:12:45 05:43:13,mithun jul,1
+805,Rishav Dash,22-Jul-22,09:27:47,09:52:16,00:24:29,Rishav Dash 22-Jul-22 09:27:47 09:52:16 00:24:29,rishav dash jul,1
+806,Madhulika G,22-Jul-22,09:25:01,17:14:07,07:49:05,Madhulika G 22-Jul-22 09:25:01 17:14:07 07:49:05,madhulika g jul,1
+807,Prateek _iot,22-Jul-22,09:23:24,09:51:15,00:27:51,Prateek _iot 22-Jul-22 09:23:24 09:51:15 00:27:51,prateek iot jul,1
+808,Wasim,22-Jul-22,09:23:21,14:55:51,05:32:30,Wasim 22-Jul-22 09:23:21 14:55:51 05:32:30,wasim jul,1
+809,Bharath,22-Jul-22,09:23:14,09:25:10,00:01:55,Bharath 22-Jul-22 09:23:14 09:25:10 00:01:55,bharath jul,1
+810,Bharath,22-Jul-22,09:23:14,14:57:18,05:34:03,Bharath 22-Jul-22 09:23:14 14:57:18 05:34:03,bharath jul,1
+811,Rishav Dash,22-Jul-22,09:21:37,09:27:06,00:05:28,Rishav Dash 22-Jul-22 09:21:37 09:27:06 00:05:28,rishav dash jul,1
+812,Dibyanshu,22-Jul-22,09:08:13,09:10:34,00:02:21,Dibyanshu 22-Jul-22 09:08:13 09:10:34 00:02:21,dibyanshu jul,1
+813,Prabir Kumar Satapathy,22-Jul-22,08:33:23,08:39:54,00:06:30,Prabir Kumar Satapathy 22-Jul-22 08:33:23 08:39:54 00:06:30,prabir kumar satapathy jul,3
+814,Saurabh Shukla,22-Jul-22,07:32:05,07:34:05,00:02:00,Saurabh Shukla 22-Jul-22 07:32:05 07:34:05 00:02:00,saurabh shukla jul,2
+815,Saurabh Shukla,22-Jul-22,06:52:20,06:54:20,00:02:00,Saurabh Shukla 22-Jul-22 06:52:20 06:54:20 00:02:00,saurabh shukla jul,2
+816,Dibyanshu,22-Jul-22,06:48:01,06:50:01,00:02:00,Dibyanshu 22-Jul-22 06:48:01 06:50:01 00:02:00,dibyanshu jul,1
+817,Dibyanshu,22-Jul-22,06:12:45,06:14:45,00:02:00,Dibyanshu 22-Jul-22 06:12:45 06:14:45 00:02:00,dibyanshu jul,1
+818,Saurabh Shukla,22-Jul-22,06:04:00,06:06:00,00:02:00,Saurabh Shukla 22-Jul-22 06:04:00 06:06:00 00:02:00,saurabh shukla jul,2
+819,Dibyanshu,22-Jul-22,05:22:10,05:24:10,00:02:00,Dibyanshu 22-Jul-22 05:22:10 05:24:10 00:02:00,dibyanshu jul,1
+820,Saurabh Shukla,22-Jul-22,05:14:59,05:16:59,00:02:00,Saurabh Shukla 22-Jul-22 05:14:59 05:16:59 00:02:00,saurabh shukla jul,2
+821,Dibyanshu,22-Jul-22,04:48:43,04:50:43,00:02:00,Dibyanshu 22-Jul-22 04:48:43 04:50:43 00:02:00,dibyanshu jul,1
+822,Saurabh Shukla,22-Jul-22,04:25:06,04:27:06,00:02:00,Saurabh Shukla 22-Jul-22 04:25:06 04:27:06 00:02:00,saurabh shukla jul,2
+823,Dibyanshu,22-Jul-22,03:59:49,04:01:49,00:02:00,Dibyanshu 22-Jul-22 03:59:49 04:01:49 00:02:00,dibyanshu jul,1
+824,Saurabh Shukla,22-Jul-22,03:35:13,03:37:13,00:02:00,Saurabh Shukla 22-Jul-22 03:35:13 03:37:13 00:02:00,saurabh shukla jul,2
+825,Dibyanshu,22-Jul-22,03:26:57,03:28:57,00:02:00,Dibyanshu 22-Jul-22 03:26:57 03:28:57 00:02:00,dibyanshu jul,1
+826,Saurabh Shukla,22-Jul-22,02:43:13,02:45:13,00:02:00,Saurabh Shukla 22-Jul-22 02:43:13 02:45:13 00:02:00,saurabh shukla jul,2
+827,Dibyanshu,22-Jul-22,02:39:25,02:41:25,00:02:00,Dibyanshu 22-Jul-22 02:39:25 02:41:25 00:02:00,dibyanshu jul,1
+828,Dibyanshu,22-Jul-22,02:22:31,02:24:31,00:02:00,Dibyanshu 22-Jul-22 02:22:31 02:24:31 00:02:00,dibyanshu jul,1
+829,Sudhanshu Kumar,22-Jul-22,02:21:10,03:59:15,01:38:05,Sudhanshu Kumar 22-Jul-22 02:21:10 03:59:15 01:38:05,sudhanshu kumar jul,3
+830,Dibyanshu,22-Jul-22,02:06:34,02:08:34,00:02:00,Dibyanshu 22-Jul-22 02:06:34 02:08:34 00:02:00,dibyanshu jul,1
+831,Saurabh Shukla,22-Jul-22,01:54:28,01:56:28,00:02:00,Saurabh Shukla 22-Jul-22 01:54:28 01:56:28 00:02:00,saurabh shukla jul,2
+832,Dibyanshu,22-Jul-22,01:35:21,01:37:21,00:02:00,Dibyanshu 22-Jul-22 01:35:21 01:37:21 00:02:00,dibyanshu jul,1
+833,Saurabh Shukla,22-Jul-22,01:01:49,01:03:49,00:02:00,Saurabh Shukla 22-Jul-22 01:01:49 01:03:49 00:02:00,saurabh shukla jul,2
+834,Dibyanshu,22-Jul-22,00:33:31,00:35:31,00:02:00,Dibyanshu 22-Jul-22 00:33:31 00:35:31 00:02:00,dibyanshu jul,1
+835,Saurabh Shukla,22-Jul-22,00:12:59,00:14:59,00:02:00,Saurabh Shukla 22-Jul-22 00:12:59 00:14:59 00:02:00,saurabh shukla jul,2
+836,Saurabh Shukla,21-Jul-22,23:57:08,23:59:49,00:02:41,Saurabh Shukla 21-Jul-22 23:57:08 23:59:49 00:02:41,saurabh shukla jul,2
+837,Shubham Sharma,21-Jul-22,23:18:59,23:21:19,00:02:20,Shubham Sharma 21-Jul-22 23:18:59 23:21:19 00:02:20,shubham sharma jul,1
+838,Shubham Sharma,21-Jul-22,23:09:00,23:17:00,00:08:00,Shubham Sharma 21-Jul-22 23:09:00 23:17:00 00:08:00,shubham sharma jul,1
+839,Deepranjan Gupta,21-Jul-22,22:53:05,01:54:28,03:01:23,Deepranjan Gupta 21-Jul-22 22:53:05 01:54:28 03:01:23,deepranjan gupta jul,0
+840,Saurabh Shukla,21-Jul-22,21:59:37,22:53:13,00:53:36,Saurabh Shukla 21-Jul-22 21:59:37 22:53:13 00:53:36,saurabh shukla jul,2
+841,Deepranjan Gupta,21-Jul-22,21:27:27,22:33:28,01:06:00,Deepranjan Gupta 21-Jul-22 21:27:27 22:33:28 01:06:00,deepranjan gupta jul,0
+842,Dibyanshu,21-Jul-22,21:09:32,00:01:22,02:51:49,Dibyanshu 21-Jul-22 21:09:32 00:01:22 02:51:49,dibyanshu jul,1
+843,Ayushi Mishra,21-Jul-22,21:06:11,02:55:25,05:49:13,Ayushi Mishra 21-Jul-22 21:06:11 02:55:25 05:49:13,ayushi mishra jul,1
+844,Saurabh Shukla,21-Jul-22,21:03:50,21:22:12,00:18:22,Saurabh Shukla 21-Jul-22 21:03:50 21:22:12 00:18:22,saurabh shukla jul,2
+845,Dibyanshu,21-Jul-22,21:02:55,21:04:55,00:02:00,Dibyanshu 21-Jul-22 21:02:55 21:04:55 00:02:00,dibyanshu jul,1
+846,Jawala Prakash,21-Jul-22,21:00:42,03:01:18,06:00:35,Jawala Prakash 21-Jul-22 21:00:42 03:01:18 06:00:35,jawala prakash jul,1
+847,Saurabh Shukla,21-Jul-22,20:53:06,20:55:06,00:02:00,Saurabh Shukla 21-Jul-22 20:53:06 20:55:06 00:02:00,saurabh shukla jul,2
+848,Maitry,21-Jul-22,20:50:57,03:04:04,06:13:07,Maitry 21-Jul-22 20:50:57 03:04:04 06:13:07,maitry jul,1
+849,Ishawant Kumar,21-Jul-22,20:49:41,03:02:42,06:13:00,Ishawant Kumar 21-Jul-22 20:49:41 03:02:42 06:13:00,ishawant kumar jul,3
+850,Dibyanshu,21-Jul-22,20:28:41,20:30:41,00:02:00,Dibyanshu 21-Jul-22 20:28:41 20:30:41 00:02:00,dibyanshu jul,1
+851,Dibyanshu,21-Jul-22,19:38:01,19:40:02,00:02:00,Dibyanshu 21-Jul-22 19:38:01 19:40:02 00:02:00,dibyanshu jul,1
+852,Aravind,21-Jul-22,19:29:15,19:52:15,00:23:00,Aravind 21-Jul-22 19:29:15 19:52:15 00:23:00,aravind jul,1
+853,Dibyanshu,21-Jul-22,19:19:14,19:22:23,00:03:08,Dibyanshu 21-Jul-22 19:19:14 19:22:23 00:03:08,dibyanshu jul,1
+854,Dibyanshu,21-Jul-22,19:00:23,19:18:00,00:17:37,Dibyanshu 21-Jul-22 19:00:23 19:18:00 00:17:37,dibyanshu jul,1
+855,Saurabh Shukla,21-Jul-22,18:52:25,20:51:23,01:58:58,Saurabh Shukla 21-Jul-22 18:52:25 20:51:23 01:58:58,saurabh shukla jul,2
+856,Dibyanshu,21-Jul-22,18:15:38,18:34:57,00:19:18,Dibyanshu 21-Jul-22 18:15:38 18:34:57 00:19:18,dibyanshu jul,1
+857,Aditya_iot,21-Jul-22,18:00:45,20:07:31,02:06:46,Aditya_iot 21-Jul-22 18:00:45 20:07:31 02:06:46,adityaiot jul,1
+858,Sudhanshu Kumar,21-Jul-22,17:58:07,21:00:16,03:02:08,Sudhanshu Kumar 21-Jul-22 17:58:07 21:00:16 03:02:08,sudhanshu kumar jul,3
+859,Prateek _iot,21-Jul-22,17:45:45,20:05:05,02:19:20,Prateek _iot 21-Jul-22 17:45:45 20:05:05 02:19:20,prateek iot jul,1
+860,Anurag Tiwari,21-Jul-22,17:31:35,17:33:47,00:02:11,Anurag Tiwari 21-Jul-22 17:31:35 17:33:47 00:02:11,anurag tiwari jul,1
+861,Dibyanshu,21-Jul-22,17:27:29,18:15:35,00:48:05,Dibyanshu 21-Jul-22 17:27:29 18:15:35 00:48:05,dibyanshu jul,1
+862,Sudhanshu Kumar,21-Jul-22,16:43:39,17:53:16,01:09:37,Sudhanshu Kumar 21-Jul-22 16:43:39 17:53:16 01:09:37,sudhanshu kumar jul,3
+863,Ishawant Kumar,21-Jul-22,16:38:01,16:41:41,00:03:40,Ishawant Kumar 21-Jul-22 16:38:01 16:41:41 00:03:40,ishawant kumar jul,3
+864,Prabir Kumar Satapathy,21-Jul-22,16:25:05,16:31:44,00:06:38,Prabir Kumar Satapathy 21-Jul-22 16:25:05 16:31:44 00:06:38,prabir kumar satapathy jul,3
+865,Ameya Jain,21-Jul-22,16:23:55,21:01:01,04:37:05,Ameya Jain 21-Jul-22 16:23:55 21:01:01 04:37:05,ameya jain jul,1
+866,Saurabh Shukla,21-Jul-22,16:14:53,16:16:53,00:02:00,Saurabh Shukla 21-Jul-22 16:14:53 16:16:53 00:02:00,saurabh shukla jul,2
+867,Wasim,21-Jul-22,16:09:30,16:15:00,00:05:30,Wasim 21-Jul-22 16:09:30 16:15:00 00:05:30,wasim jul,1
+868,Harikrishnan Shaji,21-Jul-22,15:52:15,17:37:30,01:45:15,Harikrishnan Shaji 21-Jul-22 15:52:15 17:37:30 01:45:15,harikrishnan shaji jul,1
+869,Shubham Sharma,21-Jul-22,15:04:20,21:13:11,06:08:51,Shubham Sharma 21-Jul-22 15:04:20 21:13:11 06:08:51,shubham sharma jul,1
+870,Jaydeep Dixit,21-Jul-22,15:04:19,21:06:47,06:02:27,Jaydeep Dixit 21-Jul-22 15:04:19 21:06:47 06:02:27,jaydeep dixit jul,1
+871,Hrisikesh Neogi,21-Jul-22,15:03:00,15:05:54,00:02:53,Hrisikesh Neogi 21-Jul-22 15:03:00 15:05:54 00:02:53,hrisikesh neogi jul,1
+872,Zeeshan,21-Jul-22,14:55:25,21:04:17,06:08:51,Zeeshan 21-Jul-22 14:55:25 21:04:17 06:08:51,zeeshan jul,1
+873,Saurabh Shukla,21-Jul-22,14:55:17,14:57:17,00:02:00,Saurabh Shukla 21-Jul-22 14:55:17 14:57:17 00:02:00,saurabh shukla jul,2
+874,Saikumarreddy N,21-Jul-22,14:31:35,21:02:03,06:30:27,Saikumarreddy N 21-Jul-22 14:31:35 21:02:03 06:30:27,saikumarreddy n jul,1
+875,Prabir Kumar Satapathy,21-Jul-22,14:04:07,15:52:40,01:48:32,Prabir Kumar Satapathy 21-Jul-22 14:04:07 15:52:40 01:48:32,prabir kumar satapathy jul,3
+876,Prerna Singh,21-Jul-22,14:01:37,14:05:15,00:03:38,Prerna Singh 21-Jul-22 14:01:37 14:05:15 00:03:38,prerna singh jul,1
+877,Deepranjan Gupta,21-Jul-22,13:55:43,21:12:22,07:16:39,Deepranjan Gupta 21-Jul-22 13:55:43 21:12:22 07:16:39,deepranjan gupta jul,0
+878,Prerna Singh,21-Jul-22,13:01:46,13:17:03,00:15:17,Prerna Singh 21-Jul-22 13:01:46 13:17:03 00:15:17,prerna singh jul,1
+879,Deepranjan Gupta,21-Jul-22,12:27:12,12:48:13,00:21:01,Deepranjan Gupta 21-Jul-22 12:27:12 12:48:13 00:21:01,deepranjan gupta jul,0
+880,Shubham Sharma,21-Jul-22,12:12:05,13:07:48,00:55:42,Shubham Sharma 21-Jul-22 12:12:05 13:07:48 00:55:42,shubham sharma jul,1
+881,Prabir Kumar Satapathy,21-Jul-22,12:09:39,13:37:09,01:27:30,Prabir Kumar Satapathy 21-Jul-22 12:09:39 13:37:09 01:27:30,prabir kumar satapathy jul,3
+882,Deepranjan Gupta,21-Jul-22,11:00:45,11:32:46,00:32:00,Deepranjan Gupta 21-Jul-22 11:00:45 11:32:46 00:32:00,deepranjan gupta jul,0
+883,Saurabh Shukla,21-Jul-22,11:00:42,11:02:42,00:02:00,Saurabh Shukla 21-Jul-22 11:00:42 11:02:42 00:02:00,saurabh shukla jul,2
+884,Prateek _iot,21-Jul-22,10:55:46,10:58:16,00:02:30,Prateek _iot 21-Jul-22 10:55:46 10:58:16 00:02:30,prateek iot jul,1
+885,Prabir Kumar Satapathy,21-Jul-22,10:38:08,12:06:46,01:28:37,Prabir Kumar Satapathy 21-Jul-22 10:38:08 12:06:46 01:28:37,prabir kumar satapathy jul,3
+886,Prateek _iot,21-Jul-22,09:56:52,09:59:12,00:02:20,Prateek _iot 21-Jul-22 09:56:52 09:59:12 00:02:20,prateek iot jul,1
+887,Wasim,21-Jul-22,09:17:30,15:20:31,06:03:00,Wasim 21-Jul-22 09:17:30 15:20:31 06:03:00,wasim jul,1
+888,Hrisikesh Neogi,21-Jul-22,09:07:37,14:53:13,05:45:35,Hrisikesh Neogi 21-Jul-22 09:07:37 14:53:13 05:45:35,hrisikesh neogi jul,1
+889,Harikrishnan Shaji,21-Jul-22,09:02:04,15:06:57,06:04:53,Harikrishnan Shaji 21-Jul-22 09:02:04 15:06:57 06:04:53,harikrishnan shaji jul,1
+890,Manjunatha A,21-Jul-22,08:59:21,15:09:37,06:10:15,Manjunatha A 21-Jul-22 08:59:21 15:09:37 06:10:15,manjunatha jul,1
+891,Bharath,21-Jul-22,08:58:41,15:09:28,06:10:46,Bharath 21-Jul-22 08:58:41 15:09:28 06:10:46,bharath jul,1
+892,Rishav Dash,21-Jul-22,08:55:56,15:37:25,06:41:28,Rishav Dash 21-Jul-22 08:55:56 15:37:25 06:41:28,rishav dash jul,1
+893,Prabir Kumar Satapathy,21-Jul-22,08:41:16,10:37:55,01:56:39,Prabir Kumar Satapathy 21-Jul-22 08:41:16 10:37:55 01:56:39,prabir kumar satapathy jul,3
+894,Saurabh Shukla,21-Jul-22,08:21:31,10:46:42,02:25:10,Saurabh Shukla 21-Jul-22 08:21:31 10:46:42 02:25:10,saurabh shukla jul,2
+895,Saurabh Shukla,21-Jul-22,07:17:25,07:19:25,00:02:00,Saurabh Shukla 21-Jul-22 07:17:25 07:19:25 00:02:00,saurabh shukla jul,2
+896,Saurabh Shukla,21-Jul-22,06:54:21,06:56:21,00:02:00,Saurabh Shukla 21-Jul-22 06:54:21 06:56:21 00:02:00,saurabh shukla jul,2
+897,Saurabh Shukla,21-Jul-22,05:15:43,05:17:43,00:02:00,Saurabh Shukla 21-Jul-22 05:15:43 05:17:43 00:02:00,saurabh shukla jul,2
+898,Jawala Prakash,21-Jul-22,03:40:43,03:45:27,00:04:43,Jawala Prakash 21-Jul-22 03:40:43 03:45:27 00:04:43,jawala prakash jul,1
+899,Saurabh Shukla,21-Jul-22,03:13:27,03:15:27,00:02:00,Saurabh Shukla 21-Jul-22 03:13:27 03:15:27 00:02:00,saurabh shukla jul,2
+900,Deepranjan Gupta,21-Jul-22,02:16:34,03:03:48,00:47:14,Deepranjan Gupta 21-Jul-22 02:16:34 03:03:48 00:47:14,deepranjan gupta jul,0
+901,Dibyanshu,21-Jul-22,02:05:18,02:48:43,00:43:25,Dibyanshu 21-Jul-22 02:05:18 02:48:43 00:43:25,dibyanshu jul,1
+902,Dibyanshu,21-Jul-22,01:38:25,01:53:55,00:15:30,Dibyanshu 21-Jul-22 01:38:25 01:53:55 00:15:30,dibyanshu jul,1
+903,Dibyanshu,21-Jul-22,01:18:23,01:25:15,00:06:51,Dibyanshu 21-Jul-22 01:18:23 01:25:15 00:06:51,dibyanshu jul,1
+904,Sanjeev Kumar,21-Jul-22,01:08:03,01:15:53,00:07:50,Sanjeev Kumar 21-Jul-22 01:08:03 01:15:53 00:07:50,sanjeev kumar jul,3
+905,Deepranjan Gupta,21-Jul-22,00:59:10,02:06:37,01:07:27,Deepranjan Gupta 21-Jul-22 00:59:10 02:06:37 01:07:27,deepranjan gupta jul,0
+906,Dibyanshu,21-Jul-22,00:54:07,01:18:04,00:23:57,Dibyanshu 21-Jul-22 00:54:07 01:18:04 00:23:57,dibyanshu jul,1
+907,Dibyanshu,21-Jul-22,00:31:32,00:54:06,00:22:33,Dibyanshu 21-Jul-22 00:31:32 00:54:06 00:22:33,dibyanshu jul,1
+908,Dibyanshu,21-Jul-22,00:06:02,00:08:02,00:02:00,Dibyanshu 21-Jul-22 00:06:02 00:08:02 00:02:00,dibyanshu jul,1
+909,Dibyanshu,20-Jul-22,23:48:33,23:51:54,00:03:20,Dibyanshu 20-Jul-22 23:48:33 23:51:54 00:03:20,dibyanshu jul,1
+910,Dibyanshu,20-Jul-22,23:44:15,23:46:15,00:02:00,Dibyanshu 20-Jul-22 23:44:15 23:46:15 00:02:00,dibyanshu jul,1
+911,Sanjeev Kumar,20-Jul-22,23:44:04,23:46:34,00:02:30,Sanjeev Kumar 20-Jul-22 23:44:04 23:46:34 00:02:30,sanjeev kumar jul,3
+912,Hrisikesh Neogi,20-Jul-22,23:44:04,01:23:55,01:39:51,Hrisikesh Neogi 20-Jul-22 23:44:04 01:23:55 01:39:51,hrisikesh neogi jul,1
+913,Wasim,20-Jul-22,23:20:10,23:20:38,00:00:27,Wasim 20-Jul-22 23:20:10 23:20:38 00:00:27,wasim jul,1
+914,Dibyanshu,20-Jul-22,22:57:48,22:59:49,00:02:00,Dibyanshu 20-Jul-22 22:57:48 22:59:49 00:02:00,dibyanshu jul,1
+915,Shubham Sharma,20-Jul-22,22:54:16,00:02:48,01:08:31,Shubham Sharma 20-Jul-22 22:54:16 00:02:48 01:08:31,shubham sharma jul,1
+916,Deepranjan Gupta,20-Jul-22,22:47:26,00:07:09,01:19:43,Deepranjan Gupta 20-Jul-22 22:47:26 00:07:09 01:19:43,deepranjan gupta jul,0
+917,Deepranjan Gupta,20-Jul-22,22:34:27,22:36:35,00:02:08,Deepranjan Gupta 20-Jul-22 22:34:27 22:36:35 00:02:08,deepranjan gupta jul,0
+918,Deepranjan Gupta,20-Jul-22,22:27:53,22:32:54,00:05:01,Deepranjan Gupta 20-Jul-22 22:27:53 22:32:54 00:05:01,deepranjan gupta jul,0
+919,Dibyanshu,20-Jul-22,22:13:23,22:43:09,00:29:45,Dibyanshu 20-Jul-22 22:13:23 22:43:09 00:29:45,dibyanshu jul,1
+920,Deepranjan Gupta,20-Jul-22,22:12:21,22:24:49,00:12:27,Deepranjan Gupta 20-Jul-22 22:12:21 22:24:49 00:12:27,deepranjan gupta jul,0
+921,Jawala Prakash,20-Jul-22,22:02:02,03:13:42,05:11:40,Jawala Prakash 20-Jul-22 22:02:02 03:13:42 05:11:40,jawala prakash jul,1
+922,Dibyanshu,20-Jul-22,22:01:21,22:09:52,00:08:30,Dibyanshu 20-Jul-22 22:01:21 22:09:52 00:08:30,dibyanshu jul,1
+923,Deepranjan Gupta,20-Jul-22,21:52:07,22:01:31,00:09:24,Deepranjan Gupta 20-Jul-22 21:52:07 22:01:31 00:09:24,deepranjan gupta jul,0
+924,Mahesh Sarade,20-Jul-22,21:48:55,21:56:46,00:07:51,Mahesh Sarade 20-Jul-22 21:48:55 21:56:46 00:07:51,mahesh sarade jul,4
+925,Dibyanshu,20-Jul-22,21:34:45,21:58:08,00:23:22,Dibyanshu 20-Jul-22 21:34:45 21:58:08 00:23:22,dibyanshu jul,1
+926,Sanjeev Kumar,20-Jul-22,21:23:50,21:29:22,00:05:31,Sanjeev Kumar 20-Jul-22 21:23:50 21:29:22 00:05:31,sanjeev kumar jul,3
+927,Dibyanshu,20-Jul-22,21:18:05,21:20:05,00:02:00,Dibyanshu 20-Jul-22 21:18:05 21:20:05 00:02:00,dibyanshu jul,1
+928,Jawala Prakash,20-Jul-22,21:14:10,22:00:38,00:46:27,Jawala Prakash 20-Jul-22 21:14:10 22:00:38 00:46:27,jawala prakash jul,1
+929,Shubham Sharma,20-Jul-22,21:08:03,21:17:05,00:09:01,Shubham Sharma 20-Jul-22 21:08:03 21:17:05 00:09:01,shubham sharma jul,1
+930,Ishawant Kumar,20-Jul-22,21:01:19,03:03:39,06:02:19,Ishawant Kumar 20-Jul-22 21:01:19 03:03:39 06:02:19,ishawant kumar jul,3
+931,Dibyanshu,20-Jul-22,21:01:11,21:03:11,00:02:00,Dibyanshu 20-Jul-22 21:01:11 21:03:11 00:02:00,dibyanshu jul,1
+932,Shubham Sharma,20-Jul-22,20:59:12,21:01:12,00:02:00,Shubham Sharma 20-Jul-22 20:59:12 21:01:12 00:02:00,shubham sharma jul,1
+933,Shivananda Sonwane,20-Jul-22,20:58:56,03:02:06,06:03:09,Shivananda Sonwane 20-Jul-22 20:58:56 03:02:06 06:03:09,shivananda sonwane jul,1
+934,Boktiar Ahmed Bappy,20-Jul-22,20:58:09,02:56:09,05:58:00,Boktiar Ahmed Bappy 20-Jul-22 20:58:09 02:56:09 05:58:00,boktiar ahmed bappy jul,1
+935,Hrisikesh Neogi,20-Jul-22,20:53:13,21:44:14,00:51:01,Hrisikesh Neogi 20-Jul-22 20:53:13 21:44:14 00:51:01,hrisikesh neogi jul,1
+936,Maitry,20-Jul-22,20:52:12,03:02:10,06:09:57,Maitry 20-Jul-22 20:52:12 03:02:10 06:09:57,maitry jul,1
+937,Ishawant Kumar,20-Jul-22,20:51:42,20:57:23,00:05:40,Ishawant Kumar 20-Jul-22 20:51:42 20:57:23 00:05:40,ishawant kumar jul,3
+938,Shubham Sharma,20-Jul-22,20:51:26,20:55:29,00:04:02,Shubham Sharma 20-Jul-22 20:51:26 20:55:29 00:04:02,shubham sharma jul,1
+939,Ishawant Kumar,20-Jul-22,20:38:24,20:41:15,00:02:50,Ishawant Kumar 20-Jul-22 20:38:24 20:41:15 00:02:50,ishawant kumar jul,3
+940,Dibyanshu,20-Jul-22,20:29:10,20:31:10,00:02:00,Dibyanshu 20-Jul-22 20:29:10 20:31:10 00:02:00,dibyanshu jul,1
+941,Dibyanshu,20-Jul-22,19:55:33,19:57:33,00:02:00,Dibyanshu 20-Jul-22 19:55:33 19:57:33 00:02:00,dibyanshu jul,1
+942,Aravind,20-Jul-22,19:50:44,20:02:14,00:11:30,Aravind 20-Jul-22 19:50:44 20:02:14 00:11:30,aravind jul,1
+943,Wasim,20-Jul-22,19:42:52,20:48:13,01:05:20,Wasim 20-Jul-22 19:42:52 20:48:13 01:05:20,wasim jul,1
+944,Dibyanshu,20-Jul-22,19:23:51,19:31:23,00:07:32,Dibyanshu 20-Jul-22 19:23:51 19:31:23 00:07:32,dibyanshu jul,1
+945,Dibyanshu,20-Jul-22,19:18:14,19:22:26,00:04:11,Dibyanshu 20-Jul-22 19:18:14 19:22:26 00:04:11,dibyanshu jul,1
+946,Anurag Tiwari,20-Jul-22,19:05:31,19:06:12,00:00:40,Anurag Tiwari 20-Jul-22 19:05:31 19:06:12 00:00:40,anurag tiwari jul,1
+947,Dibyanshu,20-Jul-22,19:03:41,19:07:45,00:04:04,Dibyanshu 20-Jul-22 19:03:41 19:07:45 00:04:04,dibyanshu jul,1
+948,Dibyanshu,20-Jul-22,18:54:48,18:58:49,00:04:01,Dibyanshu 20-Jul-22 18:54:48 18:58:49 00:04:01,dibyanshu jul,1
+949,Dibyanshu,20-Jul-22,18:41:37,18:53:29,00:11:51,Dibyanshu 20-Jul-22 18:41:37 18:53:29 00:11:51,dibyanshu jul,1
+950,Dibyanshu,20-Jul-22,18:10:46,18:32:28,00:21:42,Dibyanshu 20-Jul-22 18:10:46 18:32:28 00:21:42,dibyanshu jul,1
+951,Aditya_iot,20-Jul-22,17:58:52,20:00:19,02:01:26,Aditya_iot 20-Jul-22 17:58:52 20:00:19 02:01:26,adityaiot jul,1
+952,Sudhanshu Kumar,20-Jul-22,17:54:02,02:36:13,08:42:10,Sudhanshu Kumar 20-Jul-22 17:54:02 02:36:13 08:42:10,sudhanshu kumar jul,3
+953,Harikrishnan Shaji,20-Jul-22,17:45:39,17:52:59,00:07:20,Harikrishnan Shaji 20-Jul-22 17:45:39 17:52:59 00:07:20,harikrishnan shaji jul,1
+954,Prateek _iot,20-Jul-22,17:45:01,20:02:21,02:17:20,Prateek _iot 20-Jul-22 17:45:01 20:02:21 02:17:20,prateek iot jul,1
+955,Saurabh Shukla,20-Jul-22,17:43:21,01:38:26,07:55:05,Saurabh Shukla 20-Jul-22 17:43:21 01:38:26 07:55:05,saurabh shukla jul,2
+956,Dibyanshu,20-Jul-22,17:30:54,18:10:09,00:39:15,Dibyanshu 20-Jul-22 17:30:54 18:10:09 00:39:15,dibyanshu jul,1
+957,Dibyanshu,20-Jul-22,17:28:18,17:30:24,00:02:05,Dibyanshu 20-Jul-22 17:28:18 17:30:24 00:02:05,dibyanshu jul,1
+958,Dibyanshu,20-Jul-22,17:23:23,17:27:59,00:04:35,Dibyanshu 20-Jul-22 17:23:23 17:27:59 00:04:35,dibyanshu jul,1
+959,Dibyanshu,20-Jul-22,17:09:32,17:11:32,00:02:00,Dibyanshu 20-Jul-22 17:09:32 17:11:32 00:02:00,dibyanshu jul,1
+960,Dibyanshu,20-Jul-22,16:54:20,16:56:20,00:02:00,Dibyanshu 20-Jul-22 16:54:20 16:56:20 00:02:00,dibyanshu jul,1
+961,Ishawant Kumar,20-Jul-22,16:24:51,16:28:41,00:03:50,Ishawant Kumar 20-Jul-22 16:24:51 16:28:41 00:03:50,ishawant kumar jul,3
+962,Wasim,20-Jul-22,16:13:14,16:54:34,00:41:20,Wasim 20-Jul-22 16:13:14 16:54:34 00:41:20,wasim jul,1
+963,Saurabh Shukla,20-Jul-22,16:05:23,16:07:23,00:02:00,Saurabh Shukla 20-Jul-22 16:05:23 16:07:23 00:02:00,saurabh shukla jul,2
+964,Ishawant Kumar,20-Jul-22,15:31:49,15:36:00,00:04:10,Ishawant Kumar 20-Jul-22 15:31:49 15:36:00 00:04:10,ishawant kumar jul,3
+965,Mithun S,20-Jul-22,15:23:40,15:38:31,00:14:50,Mithun S 20-Jul-22 15:23:40 15:38:31 00:14:50,mithun jul,1
+966,Dibyanshu,20-Jul-22,15:23:24,16:38:45,01:15:20,Dibyanshu 20-Jul-22 15:23:24 16:38:45 01:15:20,dibyanshu jul,1
+967,Madhulika G,20-Jul-22,15:18:37,15:21:45,00:03:08,Madhulika G 20-Jul-22 15:18:37 15:21:45 00:03:08,madhulika g jul,1
+968,Shubham Sharma,20-Jul-22,15:04:22,20:50:17,05:45:54,Shubham Sharma 20-Jul-22 15:04:22 20:50:17 05:45:54,shubham sharma jul,1
+969,Hrisikesh Neogi,20-Jul-22,15:03:18,20:53:07,05:49:49,Hrisikesh Neogi 20-Jul-22 15:03:18 20:53:07 05:49:49,hrisikesh neogi jul,1
+970,Swati,20-Jul-22,14:58:51,21:09:08,06:10:17,Swati 20-Jul-22 14:58:51 21:09:08 06:10:17,swati jul,1
+971,Prerna Singh,20-Jul-22,14:58:25,20:57:36,05:59:11,Prerna Singh 20-Jul-22 14:58:25 20:57:36 05:59:11,prerna singh jul,1
+972,Zeeshan,20-Jul-22,14:58:19,21:01:31,06:03:11,Zeeshan 20-Jul-22 14:58:19 21:01:31 06:03:11,zeeshan jul,1
+973,Saurabh Shukla,20-Jul-22,14:58:01,15:00:01,00:02:00,Saurabh Shukla 20-Jul-22 14:58:01 15:00:01 00:02:00,saurabh shukla jul,2
+974,Sanjeev Kumar,20-Jul-22,14:57:35,21:01:38,06:04:03,Sanjeev Kumar 20-Jul-22 14:57:35 21:01:38 06:04:03,sanjeev kumar jul,3
+975,Ameya Jain,20-Jul-22,14:57:32,21:33:16,06:35:44,Ameya Jain 20-Jul-22 14:57:32 21:33:16 06:35:44,ameya jain jul,1
+976,Mahesh Sarade,20-Jul-22,14:57:24,21:36:43,06:39:19,Mahesh Sarade 20-Jul-22 14:57:24 21:36:43 06:39:19,mahesh sarade jul,4
+977,Nandani Gupta,20-Jul-22,14:56:46,20:54:58,05:58:12,Nandani Gupta 20-Jul-22 14:56:46 20:54:58 05:58:12,nandani gupta jul,0
+978,Saikumarreddy N,20-Jul-22,14:55:48,21:00:09,06:04:20,Saikumarreddy N 20-Jul-22 14:55:48 21:00:09 06:04:20,saikumarreddy n jul,1
+979,Dibyanshu,20-Jul-22,14:51:13,15:09:10,00:17:56,Dibyanshu 20-Jul-22 14:51:13 15:09:10 00:17:56,dibyanshu jul,1
+980,Nishtha Jain,20-Jul-22,14:42:54,15:15:51,00:32:57,Nishtha Jain 20-Jul-22 14:42:54 15:15:51 00:32:57,nishtha jain jul,1
+981,Khushboo Priya,20-Jul-22,14:30:25,15:00:55,00:30:30,Khushboo Priya 20-Jul-22 14:30:25 15:00:55 00:30:30,khushboo priya jul,1
+982,Dibyanshu,20-Jul-22,14:23:31,14:36:30,00:12:59,Dibyanshu 20-Jul-22 14:23:31 14:36:30 00:12:59,dibyanshu jul,1
+983,Harikrishnan Shaji,20-Jul-22,13:27:47,15:40:36,02:12:48,Harikrishnan Shaji 20-Jul-22 13:27:47 15:40:36 02:12:48,harikrishnan shaji jul,1
+984,Prateek _iot,20-Jul-22,13:23:56,13:26:16,00:02:20,Prateek _iot 20-Jul-22 13:23:56 13:26:16 00:02:20,prateek iot jul,1
+985,Prerna Singh,20-Jul-22,13:06:26,13:09:26,00:03:00,Prerna Singh 20-Jul-22 13:06:26 13:09:26 00:03:00,prerna singh jul,1
+986,Hrisikesh Neogi,20-Jul-22,13:04:16,13:07:18,00:03:01,Hrisikesh Neogi 20-Jul-22 13:04:16 13:07:18 00:03:01,hrisikesh neogi jul,1
+987,Ineuron Intelligence,20-Jul-22,12:50:54,14:17:50,01:26:55,Ineuron Intelligence 20-Jul-22 12:50:54 14:17:50 01:26:55,ineuron intelligence jul,1
+988,Dibyanshu,20-Jul-22,12:47:07,14:13:54,01:26:47,Dibyanshu 20-Jul-22 12:47:07 14:13:54 01:26:47,dibyanshu jul,1
+989,Mithun S,20-Jul-22,12:17:21,15:05:02,02:47:40,Mithun S 20-Jul-22 12:17:21 15:05:02 02:47:40,mithun jul,1
+990,Sudhanshu Kumar,20-Jul-22,09:32:22,16:29:12,06:56:50,Sudhanshu Kumar 20-Jul-22 09:32:22 16:29:12 06:56:50,sudhanshu kumar jul,3
+991,Wasim,20-Jul-22,09:17:25,15:23:56,06:06:30,Wasim 20-Jul-22 09:17:25 15:23:56 06:06:30,wasim jul,1
+992,Madhulika G,20-Jul-22,09:10:13,15:07:44,05:57:31,Madhulika G 20-Jul-22 09:10:13 15:07:44 05:57:31,madhulika g jul,1
+993,Harikrishnan Shaji,20-Jul-22,09:05:41,13:00:00,03:54:18,Harikrishnan Shaji 20-Jul-22 09:05:41 13:00:00 03:54:18,harikrishnan shaji jul,1
+994,Sowmiya Sivakumar,20-Jul-22,09:04:06,16:01:53,06:57:47,Sowmiya Sivakumar 20-Jul-22 09:04:06 16:01:53 06:57:47,sowmiya sivakumar jul,1
+995,Aravind,20-Jul-22,09:03:51,15:15:46,06:11:55,Aravind 20-Jul-22 09:03:51 15:15:46 06:11:55,aravind jul,1
+996,Manjunatha A,20-Jul-22,09:03:51,15:02:28,05:58:37,Manjunatha A 20-Jul-22 09:03:51 15:02:28 05:58:37,manjunatha jul,1
+997,Bharath,20-Jul-22,09:00:49,15:01:32,06:00:43,Bharath 20-Jul-22 09:00:49 15:01:32 06:00:43,bharath jul,1
+998,Khushboo Priya,20-Jul-22,08:59:20,14:26:55,05:27:34,Khushboo Priya 20-Jul-22 08:59:20 14:26:55 05:27:34,khushboo priya jul,1
+999,Nishtha Jain,20-Jul-22,08:43:55,14:00:33,05:16:38,Nishtha Jain 20-Jul-22 08:43:55 14:00:33 05:16:38,nishtha jain jul,1
+1000,Tarun,01-Jul-22,01:52:47,12:01:07,514:08:20,Tarun 01-Jul-22 01:52:47 12:01:07 514:08:20,tarun jul,1
