@@ -1,0 +1,296 @@
+# ==========================================
+# 3D Mesh Helicopter Dataset
+# K-Means Clustering + NLP Processing
+# ==========================================
+
+# Import libraries
+
+import pandas as pd
+import numpy as np
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# NLP libraries
+import nltk
+from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Machine Learning
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+
+
+# Download NLP resources
+nltk.download('stopwords')
+
+
+# ==========================================
+# 1. Load Dataset
+# ==========================================
+
+df = pd.read_csv("3d-mesh-helicopter.csv")
+
+print(df.head())
+
+print("\nDataset Shape:")
+print(df.shape)
+
+print("\nColumns:")
+print(df.columns)
+
+
+
+# ==========================================
+# 2. Data Information
+# ==========================================
+
+print(df.info())
+
+print("\nMissing Values:")
+print(df.isnull().sum())
+
+
+
+# ==========================================
+# 3. Separate Text and Numeric Features
+# ==========================================
+
+text_columns = df.select_dtypes(include=['object']).columns
+
+numeric_columns = df.select_dtypes(
+    include=['int64','float64']
+).columns
+
+
+print("Text Columns:")
+print(text_columns)
+
+print("\nNumeric Columns:")
+print(numeric_columns)
+
+
+
+# ==========================================
+# 4. NLP Processing
+# ==========================================
+
+if len(text_columns) > 0:
+
+    text_data = df[text_columns].astype(str).apply(
+        lambda x: " ".join(x),
+        axis=1
+    )
+
+    stop_words = stopwords.words('english')
+
+    vectorizer = TfidfVectorizer(
+        stop_words=stop_words,
+        max_features=500
+    )
+
+    text_features = vectorizer.fit_transform(
+        text_data
+    ).toarray()
+
+    print("NLP Features Shape:")
+    print(text_features.shape)
+
+else:
+
+    text_features = np.empty(
+        (len(df),0)
+    )
+
+    print("No text columns found")
+
+
+
+# ==========================================
+# 5. Combine Numeric + NLP Features
+# ==========================================
+
+numeric_data = df[numeric_columns]
+
+
+X = np.hstack(
+    [
+        numeric_data.fillna(0),
+        text_features
+    ]
+)
+
+
+print("Combined Feature Shape:")
+print(X.shape)
+
+
+
+# ==========================================
+# 6. Feature Scaling
+# ==========================================
+
+scaler = StandardScaler()
+
+X_scaled = scaler.fit_transform(X)
+
+
+
+# ==========================================
+# 7. Find Optimal K using Elbow Method
+# ==========================================
+
+inertia = []
+
+K_range = range(2,11)
+
+
+for k in K_range:
+
+    kmeans = KMeans(
+        n_clusters=k,
+        random_state=42,
+        n_init=10
+    )
+
+    kmeans.fit(X_scaled)
+
+    inertia.append(
+        kmeans.inertia_
+    )
+
+
+plt.figure(figsize=(8,5))
+
+plt.plot(
+    K_range,
+    inertia,
+    marker="o"
+)
+
+plt.xlabel("Number of Clusters")
+plt.ylabel("Inertia")
+plt.title(
+    "Elbow Method for Helicopter Mesh Data"
+)
+
+plt.show()
+
+
+
+# ==========================================
+# 8. Apply K-Means
+# ==========================================
+
+kmeans = KMeans(
+    n_clusters=3,
+    random_state=42,
+    n_init=10
+)
+
+
+clusters = kmeans.fit_predict(
+    X_scaled
+)
+
+
+df["Cluster"] = clusters
+
+
+print(df.head())
+
+
+
+# ==========================================
+# 9. PCA Reduction for 3D Visualization
+# ==========================================
+
+pca = PCA(
+    n_components=3
+)
+
+
+X_pca = pca.fit_transform(
+    X_scaled
+)
+
+
+print(
+    "Explained Variance:"
+)
+
+print(
+    pca.explained_variance_ratio_
+)
+
+
+
+# ==========================================
+# 10. 3D Cluster Plot
+# ==========================================
+
+fig = plt.figure(
+    figsize=(10,7)
+)
+
+ax = fig.add_subplot(
+    111,
+    projection='3d'
+)
+
+
+scatter = ax.scatter(
+    X_pca[:,0],
+    X_pca[:,1],
+    X_pca[:,2],
+    c=df["Cluster"],
+    s=50
+)
+
+
+ax.set_xlabel(
+    "PCA Component 1"
+)
+
+ax.set_ylabel(
+    "PCA Component 2"
+)
+
+ax.set_zlabel(
+    "PCA Component 3"
+)
+
+ax.set_title(
+    "K-Means Clustering of 3D Helicopter Mesh Data"
+)
+
+
+plt.show()
+
+
+
+# ==========================================
+# 11. Cluster Summary
+# ==========================================
+
+print(
+    df.groupby("Cluster").mean(
+        numeric_only=True
+    )
+)
+
+
+
+# ==========================================
+# 12. Save Results
+# ==========================================
+
+df.to_csv(
+    "3d_mesh_helicopter_kmeans_results.csv",
+    index=False
+)
+
+print(
+    "Saved: 3d_mesh_helicopter_kmeans_results.csv"
+)
