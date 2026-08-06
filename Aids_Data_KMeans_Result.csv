@@ -1,0 +1,2317 @@
+Indicator,Unit,Subgroup,Time Period,Data Value
+Deaths averted due to ART,Number,estimate,2010,762485.0
+Deaths averted due to ART,Number,estimate,2011,840903.0
+Deaths averted due to ART,Number,estimate,2012,973645.0
+Deaths averted due to ART,Number,estimate,2013,1090040.0
+Deaths averted due to ART,Number,estimate,2014,1162780.0
+Deaths averted due to ART,Number,estimate,2015,1205580.0
+Deaths averted due to ART,Number,lower estimate,2010,661112.0
+Deaths averted due to ART,Number,lower estimate,2011,725670.0
+Deaths averted due to ART,Number,lower estimate,2012,843263.0
+Deaths averted due to ART,Number,lower estimate,2013,932579.0
+Deaths averted due to ART,Number,lower estimate,2014,988112.0
+Deaths averted due to ART,Number,lower estimate,2015,1018888.0
+Deaths averted due to ART,Number,upper estimate,2010,869930.0
+Deaths averted due to ART,Number,upper estimate,2011,964206.0
+Deaths averted due to ART,Number,upper estimate,2012,1123827.0
+Deaths averted due to ART,Number,upper estimate,2013,1269304.0
+Deaths averted due to ART,Number,upper estimate,2014,1366189.0
+Deaths averted due to ART,Number,upper estimate,2015,1431053.0
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2010,22.653
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2011,27.0113
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2012,31.7265
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2013,36.7298
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2014,41.6042
+Coverage of people receiving ART,Percent,All sexes Adults (15+) estimate,2015,46.2536
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2010,20.959
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2011,24.9815
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2012,29.3567
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2013,33.9897
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2014,38.533
+Coverage of people receiving ART,Percent,All sexes Adults (15+) lower estimate,2015,42.8847
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2010,24.5906
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2011,29.2789
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2012,34.4
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2013,39.8242
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2014,45.0949
+Coverage of people receiving ART,Percent,All sexes Adults (15+) upper estimate,2015,50.1402
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2010,20.6375
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2011,26.0813
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2012,31.1842
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2013,37.4184
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2014,43.0738
+Coverage of people receiving ART,Percent,Children (0-14) estimate,2015,48.6633
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2010,18.1214
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2011,22.7657
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2012,27.0956
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2013,32.3471
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2014,37.0617
+Coverage of people receiving ART,Percent,Children (0-14) lower estimate,2015,41.504
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2010,23.0027
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2011,29.2058
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2012,35.0047
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2013,41.972
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2014,48.5997
+Coverage of people receiving ART,Percent,Children (0-14) upper estimate,2015,54.9578
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2010,23.5664
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2011,28.8246
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2012,34.9673
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2013,41.0544
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2014,47.0707
+Coverage of people receiving ART,Percent,Females Adults (15+) estimate,2015,52.0199
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2010,21.6597
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2011,26.4865
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2012,32.1847
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2013,37.8299
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2014,43.4191
+Coverage of people receiving ART,Percent,Females Adults (15+) lower estimate,2015,48.0273
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2010,25.8028
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2011,31.4995
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2012,38.1667
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2013,44.849
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2014,51.4526
+Coverage of people receiving ART,Percent,Females Adults (15+) upper estimate,2015,56.8467
+Coverage of people receiving ART,Percent,Total estimate,2010,22.5205
+Coverage of people receiving ART,Percent,Total estimate,2011,26.9527
+Coverage of people receiving ART,Percent,Total estimate,2012,31.6941
+Coverage of people receiving ART,Percent,Total estimate,2013,36.7686
+Coverage of people receiving ART,Percent,Total estimate,2014,41.6814
+Coverage of people receiving ART,Percent,Total estimate,2015,46.3713
+Coverage of people receiving ART,Percent,Total lower estimate,2010,20.8501
+Coverage of people receiving ART,Percent,Total lower estimate,2011,24.962
+Coverage of people receiving ART,Percent,Total lower estimate,2012,29.3342
+Coverage of people receiving ART,Percent,Total lower estimate,2013,34.0692
+Coverage of people receiving ART,Percent,Total lower estimate,2014,38.6241
+Coverage of people receiving ART,Percent,Total lower estimate,2015,42.9414
+Coverage of people receiving ART,Percent,Total upper estimate,2010,24.396
+Coverage of people receiving ART,Percent,Total upper estimate,2011,29.1676
+Coverage of people receiving ART,Percent,Total upper estimate,2012,34.3179
+Coverage of people receiving ART,Percent,Total upper estimate,2013,39.7905
+Coverage of people receiving ART,Percent,Total upper estimate,2014,45.1325
+Coverage of people receiving ART,Percent,Total upper estimate,2015,50.2332
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2010,21.7305
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2011,25.1741
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2012,28.4297
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2013,32.3052
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2014,35.9791
+Coverage of people receiving ART,Percent,Males Adults (15+) estimate,2015,40.2913
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2010,20.1054
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2011,23.2824
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2012,26.3061
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2013,29.8952
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2014,33.3232
+Coverage of people receiving ART,Percent,Males Adults (15+) lower estimate,2015,37.3566
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2010,23.5892
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2011,27.2875
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2012,30.8253
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2013,35.0268
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2014,38.9979
+Coverage of people receiving ART,Percent,Males Adults (15+) upper estimate,2015,43.6768
+AIDS-related deaths,Number,Adults (15+) estimate,1990,244378.0
+New HIV Infections,Number,Females 10-19 estimate,1990,155428.0
+New HIV Infections,Number,Females 10-19 estimate,1991,186954.0
+New HIV Infections,Number,Females 10-19 estimate,1992,219038.0
+New HIV Infections,Number,Females 10-19 estimate,1993,248357.0
+New HIV Infections,Number,Females 10-19 estimate,1994,277832.0
+New HIV Infections,Number,Females 10-19 estimate,1995,299730.0
+New HIV Infections,Number,Females 10-19 estimate,1996,315046.0
+New HIV Infections,Number,Females 10-19 estimate,1997,320156.0
+New HIV Infections,Number,Females 10-19 estimate,1998,313724.0
+New HIV Infections,Number,Females 10-19 estimate,1999,302644.0
+New HIV Infections,Number,Females 10-19 estimate,2000,284323.0
+New HIV Infections,Number,Females 10-19 estimate,2001,265575.0
+New HIV Infections,Number,Females 10-19 estimate,2002,246566.0
+New HIV Infections,Number,Females 10-19 estimate,2003,229549.0
+New HIV Infections,Number,Females 10-19 estimate,2004,214739.0
+New HIV Infections,Number,Females 10-19 estimate,2005,202920.0
+New HIV Infections,Number,Females 10-19 estimate,2006,192852.0
+New HIV Infections,Number,Females 10-19 estimate,2007,188059.0
+New HIV Infections,Number,Females 10-19 estimate,2008,182012.0
+New HIV Infections,Number,Females 10-19 estimate,2009,177902.0
+New HIV Infections,Number,Females 10-19 estimate,2010,175515.0
+New HIV Infections,Number,Females 10-19 estimate,2011,174249.0
+New HIV Infections,Number,Females 10-19 estimate,2012,172367.0
+New HIV Infections,Number,Females 10-19 estimate,2013,170357.0
+New HIV Infections,Number,Females 10-19 estimate,2014,168254.0
+New HIV Infections,Number,Females 10-19 estimate,2015,164482.0
+New HIV Infections,Number,Females 10-19 lower estimate,1990,109053.0
+New HIV Infections,Number,Females 10-19 lower estimate,1991,132135.0
+New HIV Infections,Number,Females 10-19 lower estimate,1992,156084.0
+New HIV Infections,Number,Females 10-19 lower estimate,1993,176635.0
+New HIV Infections,Number,Females 10-19 lower estimate,1994,199222.0
+New HIV Infections,Number,Females 10-19 lower estimate,1995,215444.0
+New HIV Infections,Number,Females 10-19 lower estimate,1996,226620.0
+New HIV Infections,Number,Females 10-19 lower estimate,1997,229493.0
+New HIV Infections,Number,Females 10-19 lower estimate,1998,225339.0
+New HIV Infections,Number,Females 10-19 lower estimate,1999,217285.0
+New HIV Infections,Number,Females 10-19 lower estimate,2000,204541.0
+New HIV Infections,Number,Females 10-19 lower estimate,2001,191811.0
+New HIV Infections,Number,Females 10-19 lower estimate,2002,177512.0
+New HIV Infections,Number,Females 10-19 lower estimate,2003,165409.0
+New HIV Infections,Number,Females 10-19 lower estimate,2004,155210.0
+New HIV Infections,Number,Females 10-19 lower estimate,2005,147150.0
+New HIV Infections,Number,Females 10-19 lower estimate,2006,138771.0
+New HIV Infections,Number,Females 10-19 lower estimate,2007,135091.0
+New HIV Infections,Number,Females 10-19 lower estimate,2008,131098.0
+New HIV Infections,Number,Females 10-19 lower estimate,2009,127193.0
+New HIV Infections,Number,Females 10-19 lower estimate,2010,126112.0
+New HIV Infections,Number,Females 10-19 lower estimate,2011,125107.0
+New HIV Infections,Number,Females 10-19 lower estimate,2012,123128.0
+New HIV Infections,Number,Females 10-19 lower estimate,2013,122035.0
+New HIV Infections,Number,Females 10-19 lower estimate,2014,121436.0
+New HIV Infections,Number,Females 10-19 lower estimate,2015,117797.0
+New HIV Infections,Number,Females 10-19 upper estimate,1990,209832.0
+New HIV Infections,Number,Females 10-19 upper estimate,1991,251591.0
+New HIV Infections,Number,Females 10-19 upper estimate,1992,294014.0
+New HIV Infections,Number,Females 10-19 upper estimate,1993,333600.0
+New HIV Infections,Number,Females 10-19 upper estimate,1994,369939.0
+New HIV Infections,Number,Females 10-19 upper estimate,1995,396818.0
+New HIV Infections,Number,Females 10-19 upper estimate,1996,417761.0
+New HIV Infections,Number,Females 10-19 upper estimate,1997,420628.0
+New HIV Infections,Number,Females 10-19 upper estimate,1998,408096.0
+New HIV Infections,Number,Females 10-19 upper estimate,1999,395071.0
+New HIV Infections,Number,Females 10-19 upper estimate,2000,372013.0
+New HIV Infections,Number,Females 10-19 upper estimate,2001,346813.0
+New HIV Infections,Number,Females 10-19 upper estimate,2002,323758.0
+New HIV Infections,Number,Females 10-19 upper estimate,2003,301554.0
+New HIV Infections,Number,Females 10-19 upper estimate,2004,282371.0
+New HIV Infections,Number,Females 10-19 upper estimate,2005,265561.0
+New HIV Infections,Number,Females 10-19 upper estimate,2006,253184.0
+New HIV Infections,Number,Females 10-19 upper estimate,2007,246652.0
+New HIV Infections,Number,Females 10-19 upper estimate,2008,239965.0
+New HIV Infections,Number,Females 10-19 upper estimate,2009,236059.0
+New HIV Infections,Number,Females 10-19 upper estimate,2010,234739.0
+New HIV Infections,Number,Females 10-19 upper estimate,2011,234033.0
+New HIV Infections,Number,Females 10-19 upper estimate,2012,231378.0
+New HIV Infections,Number,Females 10-19 upper estimate,2013,229931.0
+New HIV Infections,Number,Females 10-19 upper estimate,2014,227437.0
+New HIV Infections,Number,Females 10-19 upper estimate,2015,224146.0
+New HIV Infections,Number,Males 10-19 estimate,1990,109570.0
+New HIV Infections,Number,Males 10-19 estimate,1991,128163.0
+New HIV Infections,Number,Males 10-19 estimate,1992,140549.0
+New HIV Infections,Number,Males 10-19 estimate,1993,145424.0
+New HIV Infections,Number,Males 10-19 estimate,1994,152776.0
+New HIV Infections,Number,Males 10-19 estimate,1995,156929.0
+New HIV Infections,Number,Males 10-19 estimate,1996,159719.0
+New HIV Infections,Number,Males 10-19 estimate,1997,159344.0
+New HIV Infections,Number,Males 10-19 estimate,1998,154422.0
+New HIV Infections,Number,Males 10-19 estimate,1999,148352.0
+New HIV Infections,Number,Males 10-19 estimate,2000,140311.0
+New HIV Infections,Number,Males 10-19 estimate,2001,132371.0
+New HIV Infections,Number,Males 10-19 estimate,2002,125508.0
+New HIV Infections,Number,Males 10-19 estimate,2003,118938.0
+New HIV Infections,Number,Males 10-19 estimate,2004,112531.0
+New HIV Infections,Number,Males 10-19 estimate,2005,107645.0
+New HIV Infections,Number,Males 10-19 estimate,2006,103656.0
+New HIV Infections,Number,Males 10-19 estimate,2007,100891.0
+New HIV Infections,Number,Males 10-19 estimate,2008,97374.0
+New HIV Infections,Number,Males 10-19 estimate,2009,95185.0
+New HIV Infections,Number,Males 10-19 estimate,2010,93432.0
+New HIV Infections,Number,Males 10-19 estimate,2011,92157.0
+New HIV Infections,Number,Males 10-19 estimate,2012,90871.0
+New HIV Infections,Number,Males 10-19 estimate,2013,89714.0
+New HIV Infections,Number,Males 10-19 estimate,2014,88606.0
+New HIV Infections,Number,Males 10-19 estimate,2015,86843.0
+New HIV Infections,Number,Males 10-19 lower estimate,1990,76878.0
+New HIV Infections,Number,Males 10-19 lower estimate,1991,90582.0
+New HIV Infections,Number,Males 10-19 lower estimate,1992,100153.0
+New HIV Infections,Number,Males 10-19 lower estimate,1993,103428.0
+New HIV Infections,Number,Males 10-19 lower estimate,1994,109550.0
+New HIV Infections,Number,Males 10-19 lower estimate,1995,112800.0
+New HIV Infections,Number,Males 10-19 lower estimate,1996,114890.0
+New HIV Infections,Number,Males 10-19 lower estimate,1997,114220.0
+New HIV Infections,Number,Males 10-19 lower estimate,1998,110917.0
+New HIV Infections,Number,Males 10-19 lower estimate,1999,106510.0
+New HIV Infections,Number,Males 10-19 lower estimate,2000,100940.0
+New HIV Infections,Number,Males 10-19 lower estimate,2001,95604.0
+New HIV Infections,Number,Males 10-19 lower estimate,2002,90358.0
+New HIV Infections,Number,Males 10-19 lower estimate,2003,85705.0
+New HIV Infections,Number,Males 10-19 lower estimate,2004,81335.0
+New HIV Infections,Number,Males 10-19 lower estimate,2005,78060.0
+New HIV Infections,Number,Males 10-19 lower estimate,2006,74588.0
+New HIV Infections,Number,Males 10-19 lower estimate,2007,72475.0
+New HIV Infections,Number,Males 10-19 lower estimate,2008,70135.0
+New HIV Infections,Number,Males 10-19 lower estimate,2009,68054.0
+New HIV Infections,Number,Males 10-19 lower estimate,2010,67133.0
+New HIV Infections,Number,Males 10-19 lower estimate,2011,66167.0
+New HIV Infections,Number,Males 10-19 lower estimate,2012,64913.0
+New HIV Infections,Number,Males 10-19 lower estimate,2013,64266.0
+New HIV Infections,Number,Males 10-19 lower estimate,2014,63951.0
+New HIV Infections,Number,Males 10-19 lower estimate,2015,62194.0
+New HIV Infections,Number,Males 10-19 upper estimate,1990,147923.0
+New HIV Infections,Number,Males 10-19 upper estimate,1991,172473.0
+New HIV Infections,Number,Males 10-19 upper estimate,1992,188658.0
+New HIV Infections,Number,Males 10-19 upper estimate,1993,195337.0
+New HIV Infections,Number,Males 10-19 upper estimate,1994,203424.0
+New HIV Infections,Number,Males 10-19 upper estimate,1995,207761.0
+New HIV Infections,Number,Males 10-19 upper estimate,1996,211792.0
+New HIV Infections,Number,Males 10-19 upper estimate,1997,209350.0
+New HIV Infections,Number,Males 10-19 upper estimate,1998,200874.0
+New HIV Infections,Number,Males 10-19 upper estimate,1999,193659.0
+New HIV Infections,Number,Males 10-19 upper estimate,2000,183585.0
+New HIV Infections,Number,Males 10-19 upper estimate,2001,172863.0
+New HIV Infections,Number,Males 10-19 upper estimate,2002,164801.0
+New HIV Infections,Number,Males 10-19 upper estimate,2003,156246.0
+New HIV Infections,Number,Males 10-19 upper estimate,2004,147972.0
+New HIV Infections,Number,Males 10-19 upper estimate,2005,140875.0
+New HIV Infections,Number,Males 10-19 upper estimate,2006,136084.0
+New HIV Infections,Number,Males 10-19 upper estimate,2007,132326.0
+New HIV Infections,Number,Males 10-19 upper estimate,2008,128377.0
+New HIV Infections,Number,Males 10-19 upper estimate,2009,126302.0
+New HIV Infections,Number,Males 10-19 upper estimate,2010,124959.0
+New HIV Infections,Number,Males 10-19 upper estimate,2011,123776.0
+New HIV Infections,Number,Males 10-19 upper estimate,2012,121981.0
+New HIV Infections,Number,Males 10-19 upper estimate,2013,121087.0
+New HIV Infections,Number,Males 10-19 upper estimate,2014,119772.0
+New HIV Infections,Number,Males 10-19 upper estimate,2015,118344.0
+New HIV Infections,Number,All sexes 10-19 estimate,1990,264998.0
+New HIV Infections,Number,All sexes 10-19 estimate,1991,315117.0
+New HIV Infections,Number,All sexes 10-19 estimate,1992,359587.0
+New HIV Infections,Number,All sexes 10-19 estimate,1993,393781.0
+New HIV Infections,Number,All sexes 10-19 estimate,1994,430608.0
+New HIV Infections,Number,All sexes 10-19 estimate,1995,456659.0
+New HIV Infections,Number,All sexes 10-19 estimate,1996,474765.0
+New HIV Infections,Number,All sexes 10-19 estimate,1997,479500.0
+New HIV Infections,Number,All sexes 10-19 estimate,1998,468146.0
+New HIV Infections,Number,All sexes 10-19 estimate,1999,450996.0
+New HIV Infections,Number,All sexes 10-19 estimate,2000,424634.0
+New HIV Infections,Number,All sexes 10-19 estimate,2001,397946.0
+New HIV Infections,Number,All sexes 10-19 estimate,2002,372074.0
+New HIV Infections,Number,All sexes 10-19 estimate,2003,348487.0
+New HIV Infections,Number,All sexes 10-19 estimate,2004,327270.0
+New HIV Infections,Number,All sexes 10-19 estimate,2005,310565.0
+New HIV Infections,Number,All sexes 10-19 estimate,2006,296508.0
+New HIV Infections,Number,All sexes 10-19 estimate,2007,288950.0
+New HIV Infections,Number,All sexes 10-19 estimate,2008,279386.0
+New HIV Infections,Number,All sexes 10-19 estimate,2009,273087.0
+New HIV Infections,Number,All sexes 10-19 estimate,2010,268947.0
+New HIV Infections,Number,All sexes 10-19 estimate,2011,266406.0
+New HIV Infections,Number,All sexes 10-19 estimate,2012,263238.0
+New HIV Infections,Number,All sexes 10-19 estimate,2013,260071.0
+New HIV Infections,Number,All sexes 10-19 estimate,2014,256860.0
+New HIV Infections,Number,All sexes 10-19 estimate,2015,251325.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1990,185931.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1991,222717.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1992,256237.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1993,280063.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1994,308772.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1995,328244.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1996,341510.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1997,343713.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1998,336256.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,1999,323795.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2000,305481.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2001,287415.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2002,267870.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2003,251114.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2004,236545.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2005,225210.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2006,213359.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2007,207566.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2008,201233.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2009,195247.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2010,193245.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2011,191274.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2012,188041.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2013,186301.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2014,185387.0
+New HIV Infections,Number,All sexes 10-19 lower estimate,2015,179991.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1990,357755.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1991,424064.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1992,482672.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1993,528937.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1994,573363.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1995,604579.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1996,629553.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1997,629978.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1998,608970.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,1999,588730.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2000,555598.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2001,519676.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2002,488559.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2003,457800.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2004,430343.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2005,406436.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2006,389268.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2007,378978.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2008,368342.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2009,362361.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2010,359698.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2011,357809.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2012,353359.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2013,351018.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2014,347209.0
+New HIV Infections,Number,All sexes 10-19 upper estimate,2015,342490.0
+AIDS-related deaths,Number,Females 10-19 estimate,1990,1796.0
+AIDS-related deaths,Number,Females 10-19 estimate,1991,2274.0
+AIDS-related deaths,Number,Females 10-19 estimate,1992,2882.0
+AIDS-related deaths,Number,Females 10-19 estimate,1993,3607.0
+AIDS-related deaths,Number,Females 10-19 estimate,1994,4427.0
+AIDS-related deaths,Number,Females 10-19 estimate,1995,5344.0
+AIDS-related deaths,Number,Females 10-19 estimate,1996,6310.0
+AIDS-related deaths,Number,Females 10-19 estimate,1997,7330.0
+AIDS-related deaths,Number,Females 10-19 estimate,1998,8383.0
+AIDS-related deaths,Number,Females 10-19 estimate,1999,9432.0
+AIDS-related deaths,Number,Females 10-19 estimate,2000,10559.0
+AIDS-related deaths,Number,Females 10-19 estimate,2001,11734.0
+AIDS-related deaths,Number,Females 10-19 estimate,2002,12941.0
+AIDS-related deaths,Number,Females 10-19 estimate,2003,14234.0
+AIDS-related deaths,Number,Females 10-19 estimate,2004,15632.0
+AIDS-related deaths,Number,Females 10-19 estimate,2005,16932.0
+AIDS-related deaths,Number,Females 10-19 estimate,2006,18207.0
+AIDS-related deaths,Number,Females 10-19 estimate,2007,19389.0
+AIDS-related deaths,Number,Females 10-19 estimate,2008,20106.0
+AIDS-related deaths,Number,Females 10-19 estimate,2009,20823.0
+AIDS-related deaths,Number,Females 10-19 estimate,2010,21275.0
+AIDS-related deaths,Number,Females 10-19 estimate,2011,21561.0
+AIDS-related deaths,Number,Females 10-19 estimate,2012,21508.0
+AIDS-related deaths,Number,Females 10-19 estimate,2013,21078.0
+AIDS-related deaths,Number,Females 10-19 estimate,2014,20423.0
+AIDS-related deaths,Number,Females 10-19 estimate,2015,20038.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1990,895.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1991,1168.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1992,1554.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1993,2025.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1994,2629.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1995,3318.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1996,4083.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1997,4937.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1998,5860.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,1999,6785.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2000,7830.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2001,8888.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2002,9949.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2003,11103.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2004,12338.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2005,13459.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2006,14616.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2007,15602.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2008,16204.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2009,16884.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2010,17168.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2011,17426.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2012,17325.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2013,16918.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2014,16395.0
+AIDS-related deaths,Number,Females 10-19 lower estimate,2015,16169.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1990,4305.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1991,5227.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1992,6331.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1993,7587.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1994,8848.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1995,10187.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1996,11461.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1997,12656.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1998,13844.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,1999,14770.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2000,15748.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2001,16811.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2002,17875.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2003,19079.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2004,20539.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2005,21740.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2006,23046.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2007,24251.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2008,25196.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2009,25892.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2010,26604.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2011,27109.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2012,27130.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2013,26715.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2014,25732.0
+AIDS-related deaths,Number,Females 10-19 upper estimate,2015,25131.0
+AIDS-related deaths,Number,Males 10-19 estimate,2012,21856.0
+AIDS-related deaths,Number,Males 10-19 estimate,2013,22077.0
+AIDS-related deaths,Number,Males 10-19 estimate,2014,21875.0
+AIDS-related deaths,Number,Males 10-19 estimate,2015,21423.0
+AIDS-related deaths,Number,Males 10-19 estimate,1990,1219.0
+AIDS-related deaths,Number,Males 10-19 estimate,1991,1553.0
+AIDS-related deaths,Number,Males 10-19 estimate,1992,2001.0
+AIDS-related deaths,Number,Males 10-19 estimate,1993,2518.0
+AIDS-related deaths,Number,Males 10-19 estimate,1994,3010.0
+AIDS-related deaths,Number,Males 10-19 estimate,1995,3530.0
+AIDS-related deaths,Number,Males 10-19 estimate,1996,4085.0
+AIDS-related deaths,Number,Males 10-19 estimate,1997,4762.0
+AIDS-related deaths,Number,Males 10-19 estimate,1998,5579.0
+AIDS-related deaths,Number,Males 10-19 estimate,1999,6505.0
+AIDS-related deaths,Number,Males 10-19 estimate,2000,7605.0
+AIDS-related deaths,Number,Males 10-19 estimate,2001,8864.0
+AIDS-related deaths,Number,Males 10-19 estimate,2002,10230.0
+AIDS-related deaths,Number,Males 10-19 estimate,2003,11780.0
+AIDS-related deaths,Number,Males 10-19 estimate,2004,13433.0
+AIDS-related deaths,Number,Males 10-19 estimate,2005,15015.0
+AIDS-related deaths,Number,Males 10-19 estimate,2006,16561.0
+AIDS-related deaths,Number,Males 10-19 estimate,2007,17981.0
+AIDS-related deaths,Number,Males 10-19 estimate,2008,18909.0
+AIDS-related deaths,Number,Males 10-19 estimate,2009,19832.0
+AIDS-related deaths,Number,Males 10-19 estimate,2010,20542.0
+AIDS-related deaths,Number,Males 10-19 estimate,2011,21284.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1990,608.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1991,798.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1992,1079.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1993,1413.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1994,1787.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1995,2191.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1996,2644.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1997,3207.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1998,3900.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,1999,4680.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2000,5640.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2001,6713.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2002,7865.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2003,9189.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2004,10603.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2005,11935.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2006,13295.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2007,14470.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2008,15240.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2009,16080.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2010,16576.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2011,17203.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2012,17606.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2013,17719.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2014,17561.0
+AIDS-related deaths,Number,Males 10-19 lower estimate,2015,17287.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1990,2923.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1991,3570.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1992,4395.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1993,5296.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1994,6017.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1995,6729.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1996,7420.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1997,8222.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1998,9213.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,1999,10187.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2000,11342.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2001,12698.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2002,14131.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2003,15790.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2004,17650.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2005,19278.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2006,20962.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2007,22491.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2008,23697.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2009,24660.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2010,25687.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2011,26761.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2012,27569.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2013,27981.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2014,27561.0
+AIDS-related deaths,Number,Males 10-19 upper estimate,2015,26868.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1990,3015.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1991,3827.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1992,4882.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1993,6124.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1994,7437.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1995,8874.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1996,10395.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1997,12092.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1998,13962.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,1999,15937.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2000,18163.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2001,20598.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2002,23171.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2003,26013.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2004,29065.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2005,31947.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2006,34767.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2007,37370.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2008,39015.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2009,40655.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2010,41817.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2011,42845.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2012,43363.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2013,43155.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2014,42299.0
+AIDS-related deaths,Number,All sexes 10-19 estimate,2015,41461.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1990,1503.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1991,1965.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1992,2633.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1993,3438.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1994,4416.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1995,5509.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1996,6727.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1997,8144.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1998,9760.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,1999,11464.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2000,13470.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2001,15601.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2002,17814.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2003,20292.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2004,22941.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2005,25395.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2006,27911.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2007,30072.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2008,31444.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2009,32964.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2010,33744.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2011,34629.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2012,34931.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2013,34637.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2014,33956.0
+AIDS-related deaths,Number,All sexes 10-19 lower estimate,2015,33456.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1990,7228.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1991,8797.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1992,10726.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1993,12883.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1994,14865.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1995,16916.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1996,18881.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1997,20879.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1998,23057.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,1999,24957.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2000,27090.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2001,29509.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2002,32006.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2003,34869.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2004,38190.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2005,41019.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2006,44008.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2007,46742.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2008,48893.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2009,50552.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2010,52291.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2011,53870.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2012,54699.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2013,54697.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2014,53293.0
+AIDS-related deaths,Number,All sexes 10-19 upper estimate,2015,51998.0
+New HIV Infections,Number,Females 50+ estimate,1990,46325.0
+New HIV Infections,Number,Females 50+ estimate,1991,52839.0
+New HIV Infections,Number,Females 50+ estimate,1992,59537.0
+New HIV Infections,Number,Females 50+ estimate,1993,66243.0
+New HIV Infections,Number,Females 50+ estimate,1994,73208.0
+New HIV Infections,Number,Females 50+ estimate,1995,78195.0
+New HIV Infections,Number,Females 50+ estimate,1996,81970.0
+New HIV Infections,Number,Females 50+ estimate,1997,83513.0
+New HIV Infections,Number,Females 50+ estimate,1998,82247.0
+New HIV Infections,Number,Females 50+ estimate,1999,79530.0
+New HIV Infections,Number,Females 50+ estimate,2000,75216.0
+New HIV Infections,Number,Females 50+ estimate,2001,70805.0
+New HIV Infections,Number,Females 50+ estimate,2002,66049.0
+New HIV Infections,Number,Females 50+ estimate,2003,61595.0
+New HIV Infections,Number,Females 50+ estimate,2004,57788.0
+New HIV Infections,Number,Females 50+ estimate,2005,54777.0
+New HIV Infections,Number,Females 50+ estimate,2006,52466.0
+New HIV Infections,Number,Females 50+ estimate,2007,51320.0
+New HIV Infections,Number,Females 50+ estimate,2008,50319.0
+New HIV Infections,Number,Females 50+ estimate,2009,50078.0
+New HIV Infections,Number,Females 50+ estimate,2010,50110.0
+New HIV Infections,Number,Females 50+ estimate,2011,50320.0
+New HIV Infections,Number,Females 50+ estimate,2012,50549.0
+New HIV Infections,Number,Females 50+ estimate,2013,50721.0
+New HIV Infections,Number,Females 50+ estimate,2014,50731.0
+New HIV Infections,Number,Females 50+ estimate,2015,50312.0
+New HIV Infections,Number,Females 50+ lower estimate,1990,40831.0
+New HIV Infections,Number,Females 50+ lower estimate,1991,47046.0
+New HIV Infections,Number,Females 50+ lower estimate,1992,53128.0
+New HIV Infections,Number,Females 50+ lower estimate,1993,59102.0
+New HIV Infections,Number,Females 50+ lower estimate,1994,65385.0
+New HIV Infections,Number,Females 50+ lower estimate,1995,70104.0
+New HIV Infections,Number,Females 50+ lower estimate,1996,74218.0
+New HIV Infections,Number,Females 50+ lower estimate,1997,75960.0
+New HIV Infections,Number,Females 50+ lower estimate,1998,74758.0
+New HIV Infections,Number,Females 50+ lower estimate,1999,72140.0
+New HIV Infections,Number,Females 50+ lower estimate,2000,68332.0
+New HIV Infections,Number,Females 50+ lower estimate,2001,64306.0
+New HIV Infections,Number,Females 50+ lower estimate,2002,59948.0
+New HIV Infections,Number,Females 50+ lower estimate,2003,55921.0
+New HIV Infections,Number,Females 50+ lower estimate,2004,52447.0
+New HIV Infections,Number,Females 50+ lower estimate,2005,49715.0
+New HIV Infections,Number,Females 50+ lower estimate,2006,47745.0
+New HIV Infections,Number,Females 50+ lower estimate,2007,46510.0
+New HIV Infections,Number,Females 50+ lower estimate,2008,45474.0
+New HIV Infections,Number,Females 50+ lower estimate,2009,45136.0
+New HIV Infections,Number,Females 50+ lower estimate,2010,44843.0
+New HIV Infections,Number,Females 50+ lower estimate,2011,44964.0
+New HIV Infections,Number,Females 50+ lower estimate,2012,45048.0
+New HIV Infections,Number,Females 50+ lower estimate,2013,45109.0
+New HIV Infections,Number,Females 50+ lower estimate,2014,44933.0
+New HIV Infections,Number,Females 50+ lower estimate,2015,44296.0
+New HIV Infections,Number,Females 50+ upper estimate,1990,52917.0
+New HIV Infections,Number,Females 50+ upper estimate,1991,59546.0
+New HIV Infections,Number,Females 50+ upper estimate,1992,66818.0
+New HIV Infections,Number,Females 50+ upper estimate,1993,74702.0
+New HIV Infections,Number,Females 50+ upper estimate,1994,82856.0
+New HIV Infections,Number,Females 50+ upper estimate,1995,87996.0
+New HIV Infections,Number,Females 50+ upper estimate,1996,91285.0
+New HIV Infections,Number,Females 50+ upper estimate,1997,92533.0
+New HIV Infections,Number,Females 50+ upper estimate,1998,90659.0
+New HIV Infections,Number,Females 50+ upper estimate,1999,87244.0
+New HIV Infections,Number,Females 50+ upper estimate,2000,82729.0
+New HIV Infections,Number,Females 50+ upper estimate,2001,77907.0
+New HIV Infections,Number,Females 50+ upper estimate,2002,73014.0
+New HIV Infections,Number,Females 50+ upper estimate,2003,68294.0
+New HIV Infections,Number,Females 50+ upper estimate,2004,64119.0
+New HIV Infections,Number,Females 50+ upper estimate,2005,60835.0
+New HIV Infections,Number,Females 50+ upper estimate,2006,58246.0
+New HIV Infections,Number,Females 50+ upper estimate,2007,56987.0
+New HIV Infections,Number,Females 50+ upper estimate,2008,55891.0
+New HIV Infections,Number,Females 50+ upper estimate,2009,55653.0
+New HIV Infections,Number,Females 50+ upper estimate,2010,56159.0
+New HIV Infections,Number,Females 50+ upper estimate,2011,56714.0
+New HIV Infections,Number,Females 50+ upper estimate,2012,57190.0
+New HIV Infections,Number,Females 50+ upper estimate,2013,57651.0
+New HIV Infections,Number,Females 50+ upper estimate,2014,57787.0
+New HIV Infections,Number,Females 50+ upper estimate,2015,57876.0
+New HIV Infections,Number,Males 50+ estimate,1990,54228.0
+New HIV Infections,Number,Males 50+ estimate,1991,61744.0
+New HIV Infections,Number,Males 50+ estimate,1992,68462.0
+New HIV Infections,Number,Males 50+ estimate,1993,74536.0
+New HIV Infections,Number,Males 50+ estimate,1994,84084.0
+New HIV Infections,Number,Males 50+ estimate,1995,88570.0
+New HIV Infections,Number,Males 50+ estimate,1996,91482.0
+New HIV Infections,Number,Males 50+ estimate,1997,92493.0
+New HIV Infections,Number,Males 50+ estimate,1998,90949.0
+New HIV Infections,Number,Males 50+ estimate,1999,88269.0
+New HIV Infections,Number,Males 50+ estimate,2000,84261.0
+New HIV Infections,Number,Males 50+ estimate,2001,80209.0
+New HIV Infections,Number,Males 50+ estimate,2002,75909.0
+New HIV Infections,Number,Males 50+ estimate,2003,71886.0
+New HIV Infections,Number,Males 50+ estimate,2004,68548.0
+New HIV Infections,Number,Males 50+ estimate,2005,65924.0
+New HIV Infections,Number,Males 50+ estimate,2006,63966.0
+New HIV Infections,Number,Males 50+ estimate,2007,63385.0
+New HIV Infections,Number,Males 50+ estimate,2008,62854.0
+New HIV Infections,Number,Males 50+ estimate,2009,63329.0
+New HIV Infections,Number,Males 50+ estimate,2010,64320.0
+New HIV Infections,Number,Males 50+ estimate,2011,65634.0
+New HIV Infections,Number,Males 50+ estimate,2012,66994.0
+New HIV Infections,Number,Males 50+ estimate,2013,68296.0
+New HIV Infections,Number,Males 50+ estimate,2014,69697.0
+New HIV Infections,Number,Males 50+ estimate,2015,70674.0
+New HIV Infections,Number,Males 50+ lower estimate,1990,47796.0
+New HIV Infections,Number,Males 50+ lower estimate,1991,54975.0
+New HIV Infections,Number,Males 50+ lower estimate,1992,61092.0
+New HIV Infections,Number,Males 50+ lower estimate,1993,66501.0
+New HIV Infections,Number,Males 50+ lower estimate,1994,75099.0
+New HIV Infections,Number,Males 50+ lower estimate,1995,79406.0
+New HIV Infections,Number,Males 50+ lower estimate,1996,82830.0
+New HIV Infections,Number,Males 50+ lower estimate,1997,84127.0
+New HIV Infections,Number,Males 50+ lower estimate,1998,82668.0
+New HIV Infections,Number,Males 50+ lower estimate,1999,80067.0
+New HIV Infections,Number,Males 50+ lower estimate,2000,76549.0
+New HIV Infections,Number,Males 50+ lower estimate,2001,72847.0
+New HIV Infections,Number,Males 50+ lower estimate,2002,68898.0
+New HIV Infections,Number,Males 50+ lower estimate,2003,65264.0
+New HIV Infections,Number,Males 50+ lower estimate,2004,62213.0
+New HIV Infections,Number,Males 50+ lower estimate,2005,59832.0
+New HIV Infections,Number,Males 50+ lower estimate,2006,58210.0
+New HIV Infections,Number,Males 50+ lower estimate,2007,57444.0
+New HIV Infections,Number,Males 50+ lower estimate,2008,56802.0
+New HIV Infections,Number,Males 50+ lower estimate,2009,57079.0
+New HIV Infections,Number,Males 50+ lower estimate,2010,57559.0
+New HIV Infections,Number,Males 50+ lower estimate,2011,58648.0
+New HIV Infections,Number,Males 50+ lower estimate,2012,59704.0
+New HIV Infections,Number,Males 50+ lower estimate,2013,60740.0
+New HIV Infections,Number,Males 50+ lower estimate,2014,61731.0
+New HIV Infections,Number,Males 50+ lower estimate,2015,62222.0
+New HIV Infections,Number,Males 50+ upper estimate,1990,61943.0
+New HIV Infections,Number,Males 50+ upper estimate,1991,69581.0
+New HIV Infections,Number,Males 50+ upper estimate,1992,76835.0
+New HIV Infections,Number,Males 50+ upper estimate,1993,84053.0
+New HIV Infections,Number,Males 50+ upper estimate,1994,95166.0
+New HIV Infections,Number,Males 50+ upper estimate,1995,99671.0
+New HIV Infections,Number,Males 50+ upper estimate,1996,101878.0
+New HIV Infections,Number,Males 50+ upper estimate,1997,102483.0
+New HIV Infections,Number,Males 50+ upper estimate,1998,100252.0
+New HIV Infections,Number,Males 50+ upper estimate,1999,96831.0
+New HIV Infections,Number,Males 50+ upper estimate,2000,92677.0
+New HIV Infections,Number,Males 50+ upper estimate,2001,88254.0
+New HIV Infections,Number,Males 50+ upper estimate,2002,83913.0
+New HIV Infections,Number,Males 50+ upper estimate,2003,79705.0
+New HIV Infections,Number,Males 50+ upper estimate,2004,76058.0
+New HIV Infections,Number,Males 50+ upper estimate,2005,73215.0
+New HIV Infections,Number,Males 50+ upper estimate,2006,71013.0
+New HIV Infections,Number,Males 50+ upper estimate,2007,70384.0
+New HIV Infections,Number,Males 50+ upper estimate,2008,69814.0
+New HIV Infections,Number,Males 50+ upper estimate,2009,70379.0
+New HIV Infections,Number,Males 50+ upper estimate,2010,72085.0
+New HIV Infections,Number,Males 50+ upper estimate,2011,73974.0
+New HIV Infections,Number,Males 50+ upper estimate,2012,75795.0
+New HIV Infections,Number,Males 50+ upper estimate,2013,77628.0
+New HIV Infections,Number,Males 50+ upper estimate,2014,79391.0
+New HIV Infections,Number,Males 50+ upper estimate,2015,81298.0
+New HIV Infections,Number,All sexes 50+ estimate,1990,100544.0
+New HIV Infections,Number,All sexes 50+ estimate,1991,114574.0
+New HIV Infections,Number,All sexes 50+ estimate,1992,127998.0
+New HIV Infections,Number,All sexes 50+ estimate,1993,140766.0
+New HIV Infections,Number,All sexes 50+ estimate,1994,157273.0
+New HIV Infections,Number,All sexes 50+ estimate,1995,166787.0
+New HIV Infections,Number,All sexes 50+ estimate,1996,173472.0
+New HIV Infections,Number,All sexes 50+ estimate,1997,176025.0
+New HIV Infections,Number,All sexes 50+ estimate,1998,173185.0
+New HIV Infections,Number,All sexes 50+ estimate,1999,167793.0
+New HIV Infections,Number,All sexes 50+ estimate,2000,159500.0
+New HIV Infections,Number,All sexes 50+ estimate,2001,151000.0
+New HIV Infections,Number,All sexes 50+ estimate,2002,141976.0
+New HIV Infections,Number,All sexes 50+ estimate,2003,133522.0
+New HIV Infections,Number,All sexes 50+ estimate,2004,126340.0
+New HIV Infections,Number,All sexes 50+ estimate,2005,120698.0
+New HIV Infections,Number,All sexes 50+ estimate,2006,116451.0
+New HIV Infections,Number,All sexes 50+ estimate,2007,114694.0
+New HIV Infections,Number,All sexes 50+ estimate,2008,113169.0
+New HIV Infections,Number,All sexes 50+ estimate,2009,113384.0
+New HIV Infections,Number,All sexes 50+ estimate,2010,114455.0
+New HIV Infections,Number,All sexes 50+ estimate,2011,115932.0
+New HIV Infections,Number,All sexes 50+ estimate,2012,117519.0
+New HIV Infections,Number,All sexes 50+ estimate,2013,119025.0
+New HIV Infections,Number,All sexes 50+ estimate,2014,120437.0
+New HIV Infections,Number,All sexes 50+ estimate,2015,120978.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1990,88619.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1991,102014.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1992,114219.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1993,125590.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1994,140467.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1995,149530.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1996,157066.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1997,160104.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1998,157416.0
+New HIV Infections,Number,All sexes 50+ lower estimate,1999,152202.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2000,144903.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2001,137140.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2002,128863.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2003,121223.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2004,114664.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2005,109545.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2006,105973.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2007,103945.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2008,102272.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2009,102194.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2010,102424.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2011,103593.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2012,104731.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2013,105856.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2014,106672.0
+New HIV Infections,Number,All sexes 50+ lower estimate,2015,106511.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1990,114850.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1991,129117.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1992,143652.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1993,158740.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1994,178001.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1995,187692.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1996,193186.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1997,195038.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1998,190899.0
+New HIV Infections,Number,All sexes 50+ upper estimate,1999,184068.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2000,175431.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2001,166146.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2002,156947.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2003,148045.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2004,140181.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2005,134046.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2006,129280.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2007,127359.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2008,125701.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2009,126006.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2010,128272.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2011,130663.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2012,132958.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2013,135289.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2014,137189.0
+New HIV Infections,Number,All sexes 50+ upper estimate,2015,139165.0
+AIDS-related deaths,Number,Females 50+ estimate,1990,14600.0
+AIDS-related deaths,Number,Females 50+ estimate,1991,19169.0
+AIDS-related deaths,Number,Females 50+ estimate,1992,24655.0
+AIDS-related deaths,Number,Females 50+ estimate,1993,31110.0
+AIDS-related deaths,Number,Females 50+ estimate,1994,38559.0
+AIDS-related deaths,Number,Females 50+ estimate,1995,47109.0
+AIDS-related deaths,Number,Females 50+ estimate,1996,55501.0
+AIDS-related deaths,Number,Females 50+ estimate,1997,65444.0
+AIDS-related deaths,Number,Females 50+ estimate,1998,76653.0
+AIDS-related deaths,Number,Females 50+ estimate,1999,88319.0
+AIDS-related deaths,Number,Females 50+ estimate,2000,100601.0
+AIDS-related deaths,Number,Females 50+ estimate,2001,113098.0
+AIDS-related deaths,Number,Females 50+ estimate,2002,124883.0
+AIDS-related deaths,Number,Females 50+ estimate,2003,135396.0
+AIDS-related deaths,Number,Females 50+ estimate,2004,142541.0
+AIDS-related deaths,Number,Females 50+ estimate,2005,143754.0
+AIDS-related deaths,Number,Females 50+ estimate,2006,140277.0
+AIDS-related deaths,Number,Females 50+ estimate,2007,132512.0
+AIDS-related deaths,Number,Females 50+ estimate,2008,119866.0
+AIDS-related deaths,Number,Females 50+ estimate,2009,108415.0
+AIDS-related deaths,Number,Females 50+ estimate,2010,100885.0
+AIDS-related deaths,Number,Females 50+ estimate,2011,97162.0
+AIDS-related deaths,Number,Females 50+ estimate,2012,92365.0
+AIDS-related deaths,Number,Females 50+ estimate,2013,83474.0
+AIDS-related deaths,Number,Females 50+ estimate,2014,77155.0
+AIDS-related deaths,Number,Females 50+ estimate,2015,75330.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1990,372965.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1991,436560.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1992,501253.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1993,561413.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1994,624290.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1995,669304.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1996,697535.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1997,702488.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1998,684833.0
+New HIV Infections,Number,Females Young people (15-24) estimate,1999,657847.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2000,618424.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2001,580097.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2002,542160.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2003,508906.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2004,480864.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2005,459168.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2006,441798.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2007,434506.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2008,424752.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2009,419114.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2010,415056.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2011,413173.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2012,409643.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2013,404983.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2014,398919.0
+New HIV Infections,Number,Females Young people (15-24) estimate,2015,388758.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1990,321719.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1991,382271.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1992,438349.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1993,496171.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1994,557539.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1995,596734.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1996,623957.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1997,625475.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1998,613093.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,1999,586520.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2000,555619.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2001,516187.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2002,484218.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2003,455364.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2004,430260.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2005,410541.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2006,392165.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2007,385286.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2008,376252.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2009,371201.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2010,363414.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2011,361864.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2012,357037.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2013,350421.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2014,344271.0
+New HIV Infections,Number,Females Young people (15-24) lower estimate,2015,334452.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1990,435202.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1991,507203.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1992,576343.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1993,645893.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1994,711369.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1995,763098.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1996,787468.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1997,797641.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1998,769372.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,1999,741492.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2000,699980.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2001,654743.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2002,614951.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2003,579530.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2004,548772.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2005,522643.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2006,500625.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2007,493385.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2008,484648.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2009,478145.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2010,475968.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2011,477669.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2012,474482.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2013,467670.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2014,468261.0
+New HIV Infections,Number,Females Young people (15-24) upper estimate,2015,458156.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1990,326377.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1991,378313.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1992,410491.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1993,420163.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1994,444341.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1995,457614.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1996,466554.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1997,467407.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1998,455950.0
+New HIV Infections,Number,Males Young people (15-24) estimate,1999,441250.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2000,420753.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2001,400253.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2002,382032.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2003,364238.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2004,346141.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2005,332232.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2006,321007.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2007,314219.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2008,305368.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2009,300936.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2010,297686.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2011,294990.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2012,291778.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2013,288315.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2014,284350.0
+New HIV Infections,Number,Males Young people (15-24) estimate,2015,278134.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1990,268738.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1991,311575.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1992,338104.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1993,342717.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1994,361993.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1995,372026.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1996,381309.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1997,385933.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1998,379134.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,1999,367868.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2000,350568.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2001,334146.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2002,320016.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2003,303496.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2004,288304.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2005,276682.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2006,269030.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2007,261462.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2008,253380.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2009,250478.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2010,246684.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2011,246064.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2012,242032.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2013,236860.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2014,232336.0
+New HIV Infections,Number,Males Young people (15-24) lower estimate,2015,228352.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1990,390094.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1991,451672.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1992,486754.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1993,502967.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1994,530747.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1995,543891.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1996,551415.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1997,545108.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1998,537378.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,1999,514124.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2000,492170.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2001,465892.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2002,444667.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2003,425982.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2004,403967.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2005,385231.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2006,375654.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2007,366919.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2008,357822.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2009,352563.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2010,352906.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2011,349301.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2012,349777.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2013,344464.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2014,340240.0
+New HIV Infections,Number,Males Young people (15-24) upper estimate,2015,337226.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1990,699352.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1991,814861.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1992,911733.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1993,981563.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1994,1068630.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1995,1126910.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1996,1164090.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1997,1169900.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1998,1140770.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,1999,1099110.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2000,1039180.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2001,980353.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2002,924185.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2003,873149.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2004,827015.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2005,791412.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2006,762787.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2007,748711.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2008,730126.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2009,720052.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2010,712724.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2011,708178.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2012,701421.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2013,693302.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2014,683280.0
+New HIV Infections,Number,All sexes Young people (15-24) estimate,2015,666886.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1990,590465.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1991,693836.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1992,776444.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1993,838877.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1994,919531.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1995,968753.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1996,1005267.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1997,1011412.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1998,992216.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,1999,954399.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2000,906190.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2001,850336.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2002,804228.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2003,758864.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2004,718573.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2005,687233.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2006,661179.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2007,646736.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2008,629637.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2009,621681.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2010,610083.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2011,607941.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2012,599069.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2013,587284.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2014,576616.0
+New HIV Infections,Number,All sexes Young people (15-24) lower estimate,2015,562799.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1990,825308.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1991,958861.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1992,1063084.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1993,1148845.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1994,1242115.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1995,1306980.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1996,1338884.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1997,1342755.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1998,1306735.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,1999,1255631.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2000,1192153.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2001,1120638.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2002,1059610.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2003,1005518.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2004,952751.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2005,907888.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2006,876258.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2007,860288.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2008,842477.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2009,830710.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2010,828853.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2011,826988.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2012,824259.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2013,812139.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2014,808514.0
+New HIV Infections,Number,All sexes Young people (15-24) upper estimate,2015,795375.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1990,11044.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1991,14684.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1992,19217.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1993,24585.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1994,30842.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1995,38072.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1996,44938.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1997,53165.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1998,62784.0
+AIDS-related deaths,Number,Females 50+ lower estimate,1999,72960.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2000,83860.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2001,94884.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2002,105861.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2003,115436.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2004,122535.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2005,124116.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2006,121522.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2007,115354.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2008,104349.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2009,94230.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2010,87284.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2011,83604.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2012,79413.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2013,71376.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2014,65544.0
+AIDS-related deaths,Number,Females 50+ lower estimate,2015,63525.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1990,19222.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1991,24749.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1992,31421.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1993,39095.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1994,47986.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1995,57901.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1996,67846.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1997,79429.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1998,92226.0
+AIDS-related deaths,Number,Females 50+ upper estimate,1999,105494.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2000,119198.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2001,132863.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2002,145332.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2003,156287.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2004,163751.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2005,164427.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2006,160329.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2007,150871.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2008,136862.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2009,124075.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2010,115789.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2011,111775.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2012,106552.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2013,96924.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2014,90346.0
+AIDS-related deaths,Number,Females 50+ upper estimate,2015,88835.0
+AIDS-related deaths,Number,Males 50+ estimate,1990,25846.0
+AIDS-related deaths,Number,Males 50+ estimate,1991,32147.0
+AIDS-related deaths,Number,Males 50+ estimate,1992,39280.0
+AIDS-related deaths,Number,Males 50+ estimate,1993,47273.0
+AIDS-related deaths,Number,Males 50+ estimate,1994,56172.0
+AIDS-related deaths,Number,Males 50+ estimate,1995,66008.0
+AIDS-related deaths,Number,Males 50+ estimate,1996,70096.0
+AIDS-related deaths,Number,Males 50+ estimate,1997,78598.0
+AIDS-related deaths,Number,Males 50+ estimate,1998,90317.0
+AIDS-related deaths,Number,Males 50+ estimate,1999,101673.0
+AIDS-related deaths,Number,Males 50+ estimate,2000,114279.0
+AIDS-related deaths,Number,Males 50+ estimate,2001,127936.0
+AIDS-related deaths,Number,Males 50+ estimate,2002,140669.0
+AIDS-related deaths,Number,Males 50+ estimate,2003,151582.0
+AIDS-related deaths,Number,Males 50+ estimate,2004,159708.0
+AIDS-related deaths,Number,Males 50+ estimate,2005,162803.0
+AIDS-related deaths,Number,Males 50+ estimate,2006,161490.0
+AIDS-related deaths,Number,Males 50+ estimate,2007,155396.0
+AIDS-related deaths,Number,Males 50+ estimate,2008,146619.0
+AIDS-related deaths,Number,Males 50+ estimate,2009,137978.0
+AIDS-related deaths,Number,Males 50+ estimate,2010,133664.0
+AIDS-related deaths,Number,Males 50+ estimate,2011,135348.0
+AIDS-related deaths,Number,Males 50+ estimate,2012,136060.0
+AIDS-related deaths,Number,Males 50+ estimate,2013,133522.0
+AIDS-related deaths,Number,Males 50+ estimate,2014,130302.0
+AIDS-related deaths,Number,Males 50+ estimate,2015,129810.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1990,19550.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1991,24625.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1992,30616.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1993,37357.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1994,44931.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1995,53345.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1996,56755.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1997,63851.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1998,73975.0
+AIDS-related deaths,Number,Males 50+ lower estimate,1999,83992.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2000,95261.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2001,107333.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2002,119242.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2003,129236.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2004,137293.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2005,140563.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2006,139899.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2007,135275.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2008,127639.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2009,119925.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2010,115645.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2011,116461.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2012,116980.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2013,114170.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2014,110693.0
+AIDS-related deaths,Number,Males 50+ lower estimate,2015,109467.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1990,34027.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1991,41505.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1992,50060.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1993,59405.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1994,69906.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1995,81129.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1996,85688.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1997,95394.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1998,108666.0
+AIDS-related deaths,Number,Males 50+ upper estimate,1999,121445.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2000,135404.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2001,150295.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2002,163703.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2003,174971.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2004,183473.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2005,186216.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2006,184574.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2007,176925.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2008,167408.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2009,157908.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2010,153412.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2011,155704.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2012,156957.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2013,155037.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2014,152579.0
+AIDS-related deaths,Number,Males 50+ upper estimate,2015,153082.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1990,40439.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1991,51339.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1992,63931.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1993,78385.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1994,94732.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1995,113106.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1996,125613.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1997,144059.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1998,166975.0
+AIDS-related deaths,Number,All sexes 50+ estimate,1999,190025.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2000,214880.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2001,241034.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2002,265549.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2003,286973.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2004,302259.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2005,306558.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2006,301776.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2007,287899.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2008,266487.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2009,246397.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2010,234558.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2011,232479.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2012,228413.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2013,217007.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2014,207478.0
+AIDS-related deaths,Number,All sexes 50+ estimate,2015,205127.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1990,30588.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1991,39326.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1992,49830.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1993,61944.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1994,75773.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1995,91408.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1996,101707.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1997,117029.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1998,136763.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,1999,156980.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2000,179121.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2001,202217.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2002,225100.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2003,244668.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2004,259836.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2005,264681.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2006,261429.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2007,250621.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2008,231990.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2009,214159.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2010,202937.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2011,200037.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2012,196382.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2013,185554.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2014,176255.0
+AIDS-related deaths,Number,All sexes 50+ lower estimate,2015,172980.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1990,53238.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1991,66284.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1992,81476.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1993,98503.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1994,117893.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1995,139017.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1996,153554.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1997,174844.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1998,200898.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,1999,226978.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2000,254602.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2001,283158.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2002,309032.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2003,331253.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2004,347235.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2005,350644.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2006,344913.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2007,327786.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2008,304272.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2009,281988.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2010,269211.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2011,267443.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2012,263494.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2013,251973.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2014,242950.0
+AIDS-related deaths,Number,All sexes 50+ upper estimate,2015,241900.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2010,1442130.0
+AIDS-related deaths,Number,Adults (15+) estimate,1991,309657.0
+AIDS-related deaths,Number,Adults (15+) estimate,1992,385955.0
+AIDS-related deaths,Number,Adults (15+) estimate,1993,474203.0
+AIDS-related deaths,Number,Adults (15+) estimate,1994,574755.0
+AIDS-related deaths,Number,Adults (15+) estimate,1995,688149.0
+AIDS-related deaths,Number,Adults (15+) estimate,1996,774027.0
+AIDS-related deaths,Number,Adults (15+) estimate,1997,890075.0
+AIDS-related deaths,Number,Adults (15+) estimate,1998,1027760.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1990,9765.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1991,11981.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1992,14577.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1993,17636.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1994,21172.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1995,25285.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1996,29340.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1997,33359.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1998,37093.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,1999,40241.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2000,42717.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2001,44411.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2002,45266.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2003,45327.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2004,44614.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2005,42978.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2006,40969.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2007,38864.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2008,36676.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2009,34922.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2010,33636.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2011,32544.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2012,31606.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2013,30481.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2014,29405.0
+AIDS-related deaths,Number,Females Young people (15-24) estimate,2015,28867.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1990,5267.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1991,6559.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1992,8109.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1993,9922.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1994,11952.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1995,14288.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1996,16712.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1997,19121.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1998,21123.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,1999,23179.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2000,24507.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2001,25583.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2002,26297.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2003,26620.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2004,26579.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2005,25986.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2006,25077.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2007,24041.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2008,23067.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2009,22294.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2010,21789.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2011,21335.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2012,20992.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2013,20598.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2014,20135.0
+AIDS-related deaths,Number,Females Young people (15-24) lower estimate,2015,20198.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1990,18060.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1991,21679.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1992,26016.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1993,31269.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1994,37131.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1995,43841.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1996,51036.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1997,57399.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1998,63196.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,1999,68362.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2000,72252.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2001,74804.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2002,75371.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2003,74875.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2004,72981.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2005,69660.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2006,66108.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2007,62141.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2008,58254.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2009,54523.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2010,52542.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2011,50001.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2012,48190.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2013,45780.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2014,43776.0
+AIDS-related deaths,Number,Females Young people (15-24) upper estimate,2015,42317.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1990,8320.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1991,9921.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1992,11943.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1993,14354.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1994,16919.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1995,19512.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1996,21437.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1997,23037.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1998,24312.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,1999,25133.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2000,25656.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2001,26023.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2002,26191.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2003,26200.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2004,26042.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2005,25600.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2006,25018.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2007,24478.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2008,23899.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2009,23543.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2010,23619.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2011,24088.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2012,24799.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2013,25459.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2014,25691.0
+AIDS-related deaths,Number,Males Young people (15-24) estimate,2015,25685.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1990,4488.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1991,5431.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1992,6644.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1993,8076.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1994,9551.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1995,11025.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1996,12210.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1997,13204.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1998,13845.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,1999,14477.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2000,14719.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2001,14990.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2002,15216.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2003,15387.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2004,15515.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2005,15479.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2006,15314.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2007,15142.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2008,15031.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2009,15030.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2010,15300.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2011,15791.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2012,16470.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2013,17204.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2014,17592.0
+AIDS-related deaths,Number,Males Young people (15-24) lower estimate,2015,17972.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1990,15387.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1991,17951.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1992,21315.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1993,25450.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1994,29671.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1995,33830.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1996,37290.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1997,39637.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1998,41421.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,1999,42696.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2000,43396.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2001,43831.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2002,43610.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2003,43279.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2004,42600.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2005,41493.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2006,40370.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2007,39139.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2008,37960.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2009,36758.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2010,36894.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2011,37010.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2012,37810.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2013,38239.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2014,38246.0
+AIDS-related deaths,Number,Males Young people (15-24) upper estimate,2015,37652.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1990,18085.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1991,21899.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1992,26518.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1993,31980.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1994,38094.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1995,44797.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1996,50774.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1997,56389.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1998,61403.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,1999,65360.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2000,68386.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2001,70443.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2002,71469.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2003,71516.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2004,70651.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2005,68574.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2006,65985.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2007,63341.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2008,60569.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2009,58470.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2010,57251.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2011,56632.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2012,56404.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2013,55931.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2014,55093.0
+AIDS-related deaths,Number,All sexes Young people (15-24) estimate,2015,54559.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1990,9756.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1991,11990.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1992,14752.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1993,17992.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1994,21504.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1995,25313.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1996,28920.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1997,32321.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1998,34967.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,1999,37648.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2000,39234.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2001,40578.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2002,41520.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2003,42000.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2004,42091.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2005,41462.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2006,40390.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2007,39183.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2008,38094.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2009,37326.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2010,37086.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2011,37125.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2012,37461.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2013,37796.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2014,37725.0
+AIDS-related deaths,Number,All sexes Young people (15-24) lower estimate,2015,38174.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1990,33449.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1991,39625.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1992,47328.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1993,56702.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1994,66808.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1995,77671.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1996,88321.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1997,97024.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1998,104614.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,1999,111035.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2000,115670.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2001,118650.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2002,119000.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2003,118136.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2004,115574.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2005,111147.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2006,106475.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2007,101279.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2008,96205.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2009,91289.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2010,89431.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2011,87010.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2012,85999.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2013,84006.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2014,82018.0
+AIDS-related deaths,Number,All sexes Young people (15-24) upper estimate,2015,79979.0
+AIDS-related deaths,Number,Adults (15+) estimate,1999,1161590.0
+AIDS-related deaths,Number,Adults (15+) estimate,2000,1300800.0
+AIDS-related deaths,Number,Adults (15+) estimate,2001,1440170.0
+AIDS-related deaths,Number,Adults (15+) estimate,2002,1563810.0
+AIDS-related deaths,Number,Adults (15+) estimate,2003,1665860.0
+AIDS-related deaths,Number,Adults (15+) estimate,2004,1732930.0
+AIDS-related deaths,Number,Adults (15+) estimate,2005,1738810.0
+AIDS-related deaths,Number,Adults (15+) estimate,2006,1699700.0
+AIDS-related deaths,Number,Adults (15+) estimate,2007,1618110.0
+AIDS-related deaths,Number,Adults (15+) estimate,2008,1500200.0
+AIDS-related deaths,Number,Adults (15+) estimate,2009,1389050.0
+AIDS-related deaths,Number,Adults (15+) estimate,2010,1311170.0
+AIDS-related deaths,Number,Adults (15+) estimate,2011,1272120.0
+AIDS-related deaths,Number,Adults (15+) estimate,2012,1216700.0
+AIDS-related deaths,Number,Adults (15+) estimate,2013,1131940.0
+AIDS-related deaths,Number,Adults (15+) estimate,2014,1051090.0
+AIDS-related deaths,Number,Adults (15+) estimate,2015,1002000.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1990,184848.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1991,237200.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1992,300824.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1993,374738.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1994,459729.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1995,556135.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1996,626718.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1997,723070.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1998,841800.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,1999,959590.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2000,1084330.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2001,1208240.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2002,1325610.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2003,1420280.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2004,1489710.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2005,1501280.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2006,1472450.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2007,1408590.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2008,1306000.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2009,1207310.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2010,1134410.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2011,1094600.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2012,1046080.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2013,967878.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2014,892912.0
+AIDS-related deaths,Number,Adults (15+) lower estimate,2015,844969.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1990,321726.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1991,399801.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1992,491874.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1993,595909.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1994,715275.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1995,845793.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1996,946201.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1997,1080280.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1998,1236560.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,1999,1387480.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2000,1541260.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2001,1691860.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2002,1819880.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2003,1922900.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2004,1990790.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2005,1988870.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2006,1942660.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2007,1842290.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2008,1712910.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2009,1589690.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2010,1504880.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2011,1463440.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2012,1403570.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2013,1314330.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2014,1230790.0
+AIDS-related deaths,Number,Adults (15+) upper estimate,2015,1181630.0
+AIDS-related deaths,Number,All ages estimate,1990,309724.0
+AIDS-related deaths,Number,All ages estimate,1991,389895.0
+AIDS-related deaths,Number,All ages estimate,1992,482613.0
+AIDS-related deaths,Number,All ages estimate,1993,588455.0
+AIDS-related deaths,Number,All ages estimate,1994,707841.0
+AIDS-related deaths,Number,All ages estimate,1995,841293.0
+AIDS-related deaths,Number,All ages estimate,1996,947644.0
+AIDS-related deaths,Number,All ages estimate,1997,1083510.0
+AIDS-related deaths,Number,All ages estimate,1998,1239680.0
+AIDS-related deaths,Number,All ages estimate,1999,1390000.0
+AIDS-related deaths,Number,All ages estimate,2000,1543750.0
+AIDS-related deaths,Number,All ages estimate,2001,1694920.0
+AIDS-related deaths,Number,All ages estimate,2002,1827030.0
+AIDS-related deaths,Number,All ages estimate,2003,1933700.0
+AIDS-related deaths,Number,All ages estimate,2004,2001200.0
+AIDS-related deaths,Number,All ages estimate,2005,2003130.0
+AIDS-related deaths,Number,All ages estimate,2006,1955980.0
+AIDS-related deaths,Number,All ages estimate,2007,1860930.0
+AIDS-related deaths,Number,All ages estimate,2008,1726140.0
+AIDS-related deaths,Number,All ages estimate,2009,1599230.0
+AIDS-related deaths,Number,All ages estimate,2010,1499420.0
+AIDS-related deaths,Number,All ages estimate,2011,1442120.0
+AIDS-related deaths,Number,All ages estimate,2012,1368970.0
+AIDS-related deaths,Number,All ages estimate,2013,1267390.0
+AIDS-related deaths,Number,All ages estimate,2014,1170330.0
+AIDS-related deaths,Number,All ages estimate,2015,1107610.0
+AIDS-related deaths,Number,All ages lower estimate,1990,240568.0
+AIDS-related deaths,Number,All ages lower estimate,1991,305849.0
+AIDS-related deaths,Number,All ages lower estimate,1992,383618.0
+AIDS-related deaths,Number,All ages lower estimate,1993,474479.0
+AIDS-related deaths,Number,All ages lower estimate,1994,574885.0
+AIDS-related deaths,Number,All ages lower estimate,1995,690293.0
+AIDS-related deaths,Number,All ages lower estimate,1996,777466.0
+AIDS-related deaths,Number,All ages lower estimate,1997,893594.0
+AIDS-related deaths,Number,All ages lower estimate,1998,1028210.0
+AIDS-related deaths,Number,All ages lower estimate,1999,1161800.0
+AIDS-related deaths,Number,All ages lower estimate,2000,1299150.0
+AIDS-related deaths,Number,All ages lower estimate,2001,1441200.0
+AIDS-related deaths,Number,All ages lower estimate,2002,1559830.0
+AIDS-related deaths,Number,All ages lower estimate,2003,1662360.0
+AIDS-related deaths,Number,All ages lower estimate,2004,1732300.0
+AIDS-related deaths,Number,All ages lower estimate,2005,1742180.0
+AIDS-related deaths,Number,All ages lower estimate,2006,1706440.0
+AIDS-related deaths,Number,All ages lower estimate,2007,1630080.0
+AIDS-related deaths,Number,All ages lower estimate,2008,1509740.0
+AIDS-related deaths,Number,All ages lower estimate,2009,1393510.0
+AIDS-related deaths,Number,All ages lower estimate,2010,1300070.0
+AIDS-related deaths,Number,All ages lower estimate,2011,1244500.0
+AIDS-related deaths,Number,All ages lower estimate,2012,1185650.0
+AIDS-related deaths,Number,All ages lower estimate,2013,1084310.0
+AIDS-related deaths,Number,All ages lower estimate,2014,994528.0
+AIDS-related deaths,Number,All ages lower estimate,2015,936089.0
+AIDS-related deaths,Number,All ages upper estimate,1990,399834.0
+AIDS-related deaths,Number,All ages upper estimate,1991,498261.0
+AIDS-related deaths,Number,All ages upper estimate,1992,609009.0
+AIDS-related deaths,Number,All ages upper estimate,1993,734727.0
+AIDS-related deaths,Number,All ages upper estimate,1994,871028.0
+AIDS-related deaths,Number,All ages upper estimate,1995,1021190.0
+AIDS-related deaths,Number,All ages upper estimate,1996,1143470.0
+AIDS-related deaths,Number,All ages upper estimate,1997,1300980.0
+AIDS-related deaths,Number,All ages upper estimate,1998,1474530.0
+AIDS-related deaths,Number,All ages upper estimate,1999,1640920.0
+AIDS-related deaths,Number,All ages upper estimate,2000,1810140.0
+AIDS-related deaths,Number,All ages upper estimate,2001,1974800.0
+AIDS-related deaths,Number,All ages upper estimate,2002,2111060.0
+AIDS-related deaths,Number,All ages upper estimate,2003,2219440.0
+AIDS-related deaths,Number,All ages upper estimate,2004,2294360.0
+AIDS-related deaths,Number,All ages upper estimate,2005,2285030.0
+AIDS-related deaths,Number,All ages upper estimate,2006,2222060.0
+AIDS-related deaths,Number,All ages upper estimate,2007,2113030.0
+AIDS-related deaths,Number,All ages upper estimate,2008,1960210.0
+AIDS-related deaths,Number,All ages upper estimate,2009,1819300.0
+AIDS-related deaths,Number,All ages upper estimate,2010,1710710.0
+AIDS-related deaths,Number,All ages upper estimate,2011,1653580.0
+AIDS-related deaths,Number,All ages upper estimate,2012,1580130.0
+AIDS-related deaths,Number,All ages upper estimate,2013,1475820.0
+AIDS-related deaths,Number,All ages upper estimate,2014,1375060.0
+AIDS-related deaths,Number,All ages upper estimate,2015,1314760.0
+AIDS-related deaths,Number,Children (0-14) estimate,1990,65351.9
+AIDS-related deaths,Number,Children (0-14) estimate,1991,80240.5
+AIDS-related deaths,Number,Children (0-14) estimate,1992,96660.9
+AIDS-related deaths,Number,Children (0-14) estimate,1993,114246.0
+AIDS-related deaths,Number,Children (0-14) estimate,1994,133086.0
+AIDS-related deaths,Number,Children (0-14) estimate,1995,153146.0
+AIDS-related deaths,Number,Children (0-14) estimate,1996,173613.0
+AIDS-related deaths,Number,Children (0-14) estimate,1997,193409.0
+AIDS-related deaths,Number,Children (0-14) estimate,1998,211923.0
+AIDS-related deaths,Number,Children (0-14) estimate,1999,228399.0
+AIDS-related deaths,Number,Children (0-14) estimate,2000,242940.0
+AIDS-related deaths,Number,Children (0-14) estimate,2001,254746.0
+AIDS-related deaths,Number,Children (0-14) estimate,2002,263221.0
+AIDS-related deaths,Number,Children (0-14) estimate,2003,267837.0
+AIDS-related deaths,Number,Children (0-14) estimate,2004,268261.0
+AIDS-related deaths,Number,Children (0-14) estimate,2005,264302.0
+AIDS-related deaths,Number,Children (0-14) estimate,2006,256284.0
+AIDS-related deaths,Number,Children (0-14) estimate,2007,242821.0
+AIDS-related deaths,Number,Children (0-14) estimate,2008,225943.0
+AIDS-related deaths,Number,Children (0-14) estimate,2009,210183.0
+AIDS-related deaths,Number,Children (0-14) estimate,2010,188252.0
+AIDS-related deaths,Number,Children (0-14) estimate,2011,170001.0
+AIDS-related deaths,Number,Children (0-14) estimate,2012,152268.0
+AIDS-related deaths,Number,Children (0-14) estimate,2013,135442.0
+AIDS-related deaths,Number,Children (0-14) estimate,2014,119231.0
+AIDS-related deaths,Number,Children (0-14) estimate,2015,105603.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1990,54979.2
+AIDS-related deaths,Number,Children (0-14) lower estimate,1991,68026.2
+AIDS-related deaths,Number,Children (0-14) lower estimate,1992,81927.1
+AIDS-related deaths,Number,Children (0-14) lower estimate,1993,97832.2
+AIDS-related deaths,Number,Children (0-14) lower estimate,1994,114321.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1995,132990.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1996,151294.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1997,168120.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1998,185510.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,1999,200170.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2000,212234.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2001,225121.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2002,232062.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2003,235833.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2004,236485.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2005,232966.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2006,224742.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2007,210812.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2008,195399.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2009,181142.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2010,160313.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2011,142624.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2012,126810.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2013,109935.0
+AIDS-related deaths,Number,Children (0-14) lower estimate,2014,95179.6
+AIDS-related deaths,Number,Children (0-14) lower estimate,2015,83868.1
+AIDS-related deaths,Number,Children (0-14) upper estimate,1990,79603.4
+AIDS-related deaths,Number,Children (0-14) upper estimate,1991,96922.3
+AIDS-related deaths,Number,Children (0-14) upper estimate,1992,115312.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1993,135372.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1994,156437.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1995,177720.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1996,200546.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1997,222162.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1998,242414.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,1999,260744.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2000,277108.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2001,291193.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2002,297218.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2003,302927.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2004,301709.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2005,299876.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2006,289359.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2007,276364.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2008,258766.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2009,242579.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2010,218947.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2011,200136.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2012,182724.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2013,162774.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2014,146854.0
+AIDS-related deaths,Number,Children (0-14) upper estimate,2015,133242.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1990,94248.4
+AIDS-related deaths,Number,Females Adults (15+) estimate,1991,123376.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1992,158238.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1993,199259.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1994,246734.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1995,301127.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1996,354645.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1997,417176.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1998,486738.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,1999,557743.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2000,630720.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2001,702941.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2002,768557.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2003,824961.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2004,862285.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2005,866013.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2006,846412.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2007,803727.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2008,736067.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2009,673602.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2010,626541.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2011,594406.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2012,553088.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2013,492777.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2014,443396.0
+AIDS-related deaths,Number,Females Adults (15+) estimate,2015,417105.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1990,71289.7
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1991,94507.3
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1992,123335.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1993,157464.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1994,197355.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1995,243359.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1996,287151.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1997,338901.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1998,398670.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,1999,460750.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2000,525760.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2001,589733.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2002,651489.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2003,703345.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2004,741261.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2005,747708.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2006,733243.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2007,699658.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2008,640785.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2009,585469.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2010,542075.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2011,511458.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2012,475528.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2013,421354.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2014,376670.0
+AIDS-related deaths,Number,Females Adults (15+) lower estimate,2015,351736.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1990,124079.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1991,159293.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1992,201664.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1993,250400.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1994,307057.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1995,370111.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1996,433533.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1997,506325.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1998,585628.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,1999,666200.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2000,747312.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2001,825789.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2002,894403.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2003,952252.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2004,990591.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2005,990550.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2006,967399.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2007,915083.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2008,840433.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2009,770902.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2010,719105.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2011,683805.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2012,638037.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2013,572178.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2014,519201.0
+AIDS-related deaths,Number,Females Adults (15+) upper estimate,2015,491881.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1990,150131.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1991,186255.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1992,227714.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1993,274951.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1994,328026.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1995,387003.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1996,419372.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1997,472918.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1998,541016.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,1999,603847.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2000,670099.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2001,737238.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2002,795238.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2003,840903.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2004,870663.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2005,872816.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2006,853287.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2007,814395.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2008,764141.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2009,715443.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2010,684628.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2011,677727.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2012,663605.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2013,639152.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2014,607701.0
+AIDS-related deaths,Number,Males Adults (15+) estimate,2015,584911.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1990,113559.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1991,142673.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1992,177487.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1993,217279.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1994,262378.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1995,312761.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1996,339559.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1997,384184.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1998,443126.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,1999,498838.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2000,558586.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2001,618511.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2002,674107.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2003,716938.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2004,748464.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2005,753585.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2006,739202.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2007,708944.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2008,665223.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2009,621836.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2010,592333.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2011,583153.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2012,570546.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2013,546514.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2014,516248.0
+AIDS-related deaths,Number,Males Adults (15+) lower estimate,2015,493245.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1990,197649.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1991,240476.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1992,290206.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1993,345518.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1994,408224.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1995,475659.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1996,512657.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1997,573978.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1998,650929.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,1999,721275.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2000,793970.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2001,866081.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2002,925456.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2003,970653.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2004,1000218.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2005,998337.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2006,975258.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2007,927225.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2008,872487.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2009,818784.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2010,785774.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2011,779653.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2012,765526.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2013,742139.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2014,711597.0
+AIDS-related deaths,Number,Males Adults (15+) upper estimate,2015,689769.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2011,840206.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2012,936389.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2013,1009820.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2014,1073160.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2015,1110070.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2011,1438200.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2012,1429310.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2013,1438350.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2014,1438910.0
+Pregnant women needing ARV for preventing MTCT,Number,estimate,2015,1444130.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2010,1284030.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2011,1276040.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2012,1282720.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2013,1283110.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2014,1283500.0
+New HIV Infections,Number,Adults (15+) estimate,1990,1824510.0
+Pregnant women needing ARV for preventing MTCT,Number,lower estimate,2015,1292890.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2010,1623020.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2011,1632530.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2012,1614530.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2013,1618400.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2014,1612970.0
+Pregnant women needing ARV for preventing MTCT,Number,upper estimate,2015,1613800.0
+Pregnant women who received ARV for preventing MTCT,Number,program data,2010,715217.0
+New HIV Infections,Number,Adults (15+) estimate,1991,2109630.0
+New HIV Infections,Number,Adults (15+) estimate,1992,2353440.0
+New HIV Infections,Number,Adults (15+) estimate,1993,2541400.0
+New HIV Infections,Number,Adults (15+) estimate,1994,2793910.0
+New HIV Infections,Number,Adults (15+) estimate,1995,2926900.0
+New HIV Infections,Number,Adults (15+) estimate,1996,3017820.0
+New HIV Infections,Number,Adults (15+) estimate,1997,3033830.0
+New HIV Infections,Number,Adults (15+) estimate,1998,2964910.0
+New HIV Infections,Number,Adults (15+) estimate,1999,2853330.0
+New HIV Infections,Number,Adults (15+) estimate,2000,2698990.0
+New HIV Infections,Number,Adults (15+) estimate,2001,2546500.0
+New HIV Infections,Number,Adults (15+) estimate,2002,2398780.0
+New HIV Infections,Number,Adults (15+) estimate,2003,2264150.0
+New HIV Infections,Number,Adults (15+) estimate,2004,2146740.0
+New HIV Infections,Number,Adults (15+) estimate,2005,2056660.0
+New HIV Infections,Number,Adults (15+) estimate,2006,1988120.0
+New HIV Infections,Number,Adults (15+) estimate,2007,1956980.0
+New HIV Infections,Number,Adults (15+) estimate,2008,1922120.0
+New HIV Infections,Number,Adults (15+) estimate,2009,1912640.0
+New HIV Infections,Number,Adults (15+) estimate,2010,1910450.0
+New HIV Infections,Number,Adults (15+) estimate,2011,1920930.0
+New HIV Infections,Number,Adults (15+) estimate,2012,1928410.0
+New HIV Infections,Number,Adults (15+) estimate,2013,1934070.0
+New HIV Infections,Number,Adults (15+) estimate,2014,1936450.0
+New HIV Infections,Number,Adults (15+) estimate,2015,1923230.0
+New HIV Infections,Number,Adults (15+) lower estimate,1990,1608120.0
+New HIV Infections,Number,Adults (15+) lower estimate,1991,1878360.0
+New HIV Infections,Number,Adults (15+) lower estimate,1992,2100090.0
+New HIV Infections,Number,Adults (15+) lower estimate,1993,2267420.0
+New HIV Infections,Number,Adults (15+) lower estimate,1994,2495360.0
+New HIV Infections,Number,Adults (15+) lower estimate,1995,2624060.0
+New HIV Infections,Number,Adults (15+) lower estimate,1996,2732410.0
+New HIV Infections,Number,Adults (15+) lower estimate,1997,2759430.0
+New HIV Infections,Number,Adults (15+) lower estimate,1998,2694950.0
+New HIV Infections,Number,Adults (15+) lower estimate,1999,2588210.0
+New HIV Infections,Number,Adults (15+) lower estimate,2000,2451980.0
+New HIV Infections,Number,Adults (15+) lower estimate,2001,2312760.0
+New HIV Infections,Number,Adults (15+) lower estimate,2002,2177220.0
+New HIV Infections,Number,Adults (15+) lower estimate,2003,2055590.0
+New HIV Infections,Number,Adults (15+) lower estimate,2004,1948340.0
+New HIV Infections,Number,Adults (15+) lower estimate,2005,1866610.0
+New HIV Infections,Number,Adults (15+) lower estimate,2006,1809230.0
+New HIV Infections,Number,Adults (15+) lower estimate,2007,1773570.0
+New HIV Infections,Number,Adults (15+) lower estimate,2008,1737040.0
+New HIV Infections,Number,Adults (15+) lower estimate,2009,1723880.0
+New HIV Infections,Number,Adults (15+) lower estimate,2010,1709640.0
+New HIV Infections,Number,Adults (15+) lower estimate,2011,1716480.0
+New HIV Infections,Number,Adults (15+) lower estimate,2012,1718560.0
+New HIV Infections,Number,Adults (15+) lower estimate,2013,1720090.0
+New HIV Infections,Number,Adults (15+) lower estimate,2014,1715130.0
+New HIV Infections,Number,Adults (15+) lower estimate,2015,1693250.0
+New HIV Infections,Number,Adults (15+) upper estimate,1990,2084110.0
+New HIV Infections,Number,Adults (15+) upper estimate,1991,2377400.0
+New HIV Infections,Number,Adults (15+) upper estimate,1992,2641270.0
+New HIV Infections,Number,Adults (15+) upper estimate,1993,2865910.0
+New HIV Infections,Number,Adults (15+) upper estimate,1994,3162130.0
+New HIV Infections,Number,Adults (15+) upper estimate,1995,3293750.0
+New HIV Infections,Number,Adults (15+) upper estimate,1996,3360770.0
+New HIV Infections,Number,Adults (15+) upper estimate,1997,3361520.0
+New HIV Infections,Number,Adults (15+) upper estimate,1998,3268170.0
+New HIV Infections,Number,Adults (15+) upper estimate,1999,3130090.0
+New HIV Infections,Number,Adults (15+) upper estimate,2000,2968570.0
+New HIV Infections,Number,Adults (15+) upper estimate,2001,2801920.0
+New HIV Infections,Number,Adults (15+) upper estimate,2002,2651720.0
+New HIV Infections,Number,Adults (15+) upper estimate,2003,2510410.0
+New HIV Infections,Number,Adults (15+) upper estimate,2004,2381920.0
+New HIV Infections,Number,Adults (15+) upper estimate,2005,2284110.0
+New HIV Infections,Number,Adults (15+) upper estimate,2006,2207150.0
+New HIV Infections,Number,Adults (15+) upper estimate,2007,2173080.0
+New HIV Infections,Number,Adults (15+) upper estimate,2008,2134970.0
+New HIV Infections,Number,Adults (15+) upper estimate,2009,2125560.0
+New HIV Infections,Number,Adults (15+) upper estimate,2010,2141080.0
+New HIV Infections,Number,Adults (15+) upper estimate,2011,2165020.0
+New HIV Infections,Number,Adults (15+) upper estimate,2012,2181750.0
+New HIV Infections,Number,Adults (15+) upper estimate,2013,2198350.0
+New HIV Infections,Number,Adults (15+) upper estimate,2014,2205790.0
+New HIV Infections,Number,Adults (15+) upper estimate,2015,2212350.0
+New HIV Infections,Number,All ages estimate,1990,2013520.0
+New HIV Infections,Number,All ages estimate,1991,2333870.0
+New HIV Infections,Number,All ages estimate,1992,2614640.0
+New HIV Infections,Number,All ages estimate,1993,2840140.0
+New HIV Infections,Number,All ages estimate,1994,3131290.0
+New HIV Infections,Number,All ages estimate,1995,3302380.0
+New HIV Infections,Number,All ages estimate,1996,3428730.0
+New HIV Infections,Number,All ages estimate,1997,3473980.0
+New HIV Infections,Number,All ages estimate,1998,3428020.0
+New HIV Infections,Number,All ages estimate,1999,3333160.0
+New HIV Infections,Number,All ages estimate,2000,3188840.0
+New HIV Infections,Number,All ages estimate,2001,3041700.0
+New HIV Infections,Number,All ages estimate,2002,2892850.0
+New HIV Infections,Number,All ages estimate,2003,2749030.0
+New HIV Infections,Number,All ages estimate,2004,2616010.0
+New HIV Infections,Number,All ages estimate,2005,2504630.0
+New HIV Infections,Number,All ages estimate,2006,2415770.0
+New HIV Infections,Number,All ages estimate,2007,2356500.0
+New HIV Infections,Number,All ages estimate,2008,2296660.0
+New HIV Infections,Number,All ages estimate,2009,2245660.0
+New HIV Infections,Number,All ages estimate,2010,2205040.0
+New HIV Infections,Number,All ages estimate,2011,2186940.0
+New HIV Infections,Number,All ages estimate,2012,2158040.0
+New HIV Infections,Number,All ages estimate,2013,2135150.0
+New HIV Infections,Number,All ages estimate,2014,2101330.0
+New HIV Infections,Number,All ages estimate,2015,2069170.0
+New HIV Infections,Number,All ages lower estimate,1990,1774740.0
+New HIV Infections,Number,All ages lower estimate,1991,2078510.0
+New HIV Infections,Number,All ages lower estimate,1992,2335490.0
+New HIV Infections,Number,All ages lower estimate,1993,2529840.0
+New HIV Infections,Number,All ages lower estimate,1994,2804820.0
+New HIV Infections,Number,All ages lower estimate,1995,2963010.0
+New HIV Infections,Number,All ages lower estimate,1996,3103450.0
+New HIV Infections,Number,All ages lower estimate,1997,3151550.0
+New HIV Infections,Number,All ages lower estimate,1998,3110100.0
+New HIV Infections,Number,All ages lower estimate,1999,3023750.0
+New HIV Infections,Number,All ages lower estimate,2000,2898060.0
+New HIV Infections,Number,All ages lower estimate,2001,2764530.0
+New HIV Infections,Number,All ages lower estimate,2002,2628490.0
+New HIV Infections,Number,All ages lower estimate,2003,2496110.0
+New HIV Infections,Number,All ages lower estimate,2004,2362490.0
+New HIV Infections,Number,All ages lower estimate,2005,2265040.0
+New HIV Infections,Number,All ages lower estimate,2006,2201670.0
+New HIV Infections,Number,All ages lower estimate,2007,2135040.0
+New HIV Infections,Number,All ages lower estimate,2008,2080060.0
+New HIV Infections,Number,All ages lower estimate,2009,2021450.0
+New HIV Infections,Number,All ages lower estimate,2010,1970990.0
+New HIV Infections,Number,All ages lower estimate,2011,1943420.0
+New HIV Infections,Number,All ages lower estimate,2012,1917730.0
+New HIV Infections,Number,All ages lower estimate,2013,1888440.0
+New HIV Infections,Number,All ages lower estimate,2014,1852440.0
+New HIV Infections,Number,All ages lower estimate,2015,1809030.0
+New HIV Infections,Number,All ages upper estimate,1990,2307210.0
+New HIV Infections,Number,All ages upper estimate,1991,2638460.0
+New HIV Infections,Number,All ages upper estimate,1992,2940640.0
+New HIV Infections,Number,All ages upper estimate,1993,3207480.0
+New HIV Infections,Number,All ages upper estimate,1994,3540380.0
+New HIV Infections,Number,All ages upper estimate,1995,3704360.0
+New HIV Infections,Number,All ages upper estimate,1996,3821110.0
+New HIV Infections,Number,All ages upper estimate,1997,3836070.0
+New HIV Infections,Number,All ages upper estimate,1998,3778500.0
+New HIV Infections,Number,All ages upper estimate,1999,3651750.0
+New HIV Infections,Number,All ages upper estimate,2000,3509280.0
+New HIV Infections,Number,All ages upper estimate,2001,3343140.0
+New HIV Infections,Number,All ages upper estimate,2002,3182830.0
+New HIV Infections,Number,All ages upper estimate,2003,3032670.0
+New HIV Infections,Number,All ages upper estimate,2004,2884970.0
+New HIV Infections,Number,All ages upper estimate,2005,2777980.0
+New HIV Infections,Number,All ages upper estimate,2006,2674440.0
+New HIV Infections,Number,All ages upper estimate,2007,2609900.0
+New HIV Infections,Number,All ages upper estimate,2008,2544930.0
+New HIV Infections,Number,All ages upper estimate,2009,2500040.0
+New HIV Infections,Number,All ages upper estimate,2010,2466060.0
+New HIV Infections,Number,All ages upper estimate,2011,2461950.0
+New HIV Infections,Number,All ages upper estimate,2012,2444270.0
+New HIV Infections,Number,All ages upper estimate,2013,2434100.0
+New HIV Infections,Number,All ages upper estimate,2014,2402370.0
+New HIV Infections,Number,All ages upper estimate,2015,2383230.0
+New HIV Infections,Number,Children (0-14) estimate,1990,189006.0
+New HIV Infections,Number,Children (0-14) estimate,1991,224236.0
+New HIV Infections,Number,Children (0-14) estimate,1992,261202.0
+New HIV Infections,Number,Children (0-14) estimate,1993,298744.0
+New HIV Infections,Number,Children (0-14) estimate,1994,337397.0
+New HIV Infections,Number,Children (0-14) estimate,1995,375463.0
+New HIV Infections,Number,Children (0-14) estimate,1996,410888.0
+New HIV Infections,Number,Children (0-14) estimate,1997,440155.0
+New HIV Infections,Number,Children (0-14) estimate,1998,463105.0
+New HIV Infections,Number,Children (0-14) estimate,1999,479847.0
+New HIV Infections,Number,Children (0-14) estimate,2000,489850.0
+New HIV Infections,Number,Children (0-14) estimate,2001,495190.0
+New HIV Infections,Number,Children (0-14) estimate,2002,494064.0
+New HIV Infections,Number,Children (0-14) estimate,2003,484878.0
+New HIV Infections,Number,Children (0-14) estimate,2004,469270.0
+New HIV Infections,Number,Children (0-14) estimate,2005,447982.0
+New HIV Infections,Number,Children (0-14) estimate,2006,427649.0
+New HIV Infections,Number,Children (0-14) estimate,2007,399516.0
+New HIV Infections,Number,Children (0-14) estimate,2008,374541.0
+New HIV Infections,Number,Children (0-14) estimate,2009,333036.0
+New HIV Infections,Number,Children (0-14) estimate,2010,294575.0
+New HIV Infections,Number,Children (0-14) estimate,2011,266028.0
+New HIV Infections,Number,Children (0-14) estimate,2012,229631.0
+New HIV Infections,Number,Children (0-14) estimate,2013,201095.0
+New HIV Infections,Number,Children (0-14) estimate,2014,164883.0
+New HIV Infections,Number,Children (0-14) estimate,2015,145932.0
+New HIV Infections,Number,Children (0-14) lower estimate,1990,160432.0
+New HIV Infections,Number,Children (0-14) lower estimate,1991,190318.0
+New HIV Infections,Number,Children (0-14) lower estimate,1992,223476.0
+New HIV Infections,Number,Children (0-14) lower estimate,1993,255039.0
+New HIV Infections,Number,Children (0-14) lower estimate,1994,287890.0
+New HIV Infections,Number,Children (0-14) lower estimate,1995,327278.0
+New HIV Infections,Number,Children (0-14) lower estimate,1996,354803.0
+New HIV Infections,Number,Children (0-14) lower estimate,1997,382139.0
+New HIV Infections,Number,Children (0-14) lower estimate,1998,403339.0
+New HIV Infections,Number,Children (0-14) lower estimate,1999,414549.0
+New HIV Infections,Number,Children (0-14) lower estimate,2000,427328.0
+New HIV Infections,Number,Children (0-14) lower estimate,2001,436312.0
+New HIV Infections,Number,Children (0-14) lower estimate,2002,429480.0
+New HIV Infections,Number,Children (0-14) lower estimate,2003,421907.0
+New HIV Infections,Number,Children (0-14) lower estimate,2004,407651.0
+New HIV Infections,Number,Children (0-14) lower estimate,2005,389975.0
+New HIV Infections,Number,Children (0-14) lower estimate,2006,366807.0
+New HIV Infections,Number,Children (0-14) lower estimate,2007,343502.0
+New HIV Infections,Number,Children (0-14) lower estimate,2008,320654.0
+New HIV Infections,Number,Children (0-14) lower estimate,2009,280933.0
+New HIV Infections,Number,Children (0-14) lower estimate,2010,247089.0
+New HIV Infections,Number,Children (0-14) lower estimate,2011,220219.0
+New HIV Infections,Number,Children (0-14) lower estimate,2012,186968.0
+New HIV Infections,Number,Children (0-14) lower estimate,2013,158008.0
+New HIV Infections,Number,Children (0-14) lower estimate,2014,125700.0
+New HIV Infections,Number,Children (0-14) lower estimate,2015,108574.0
+New HIV Infections,Number,Children (0-14) upper estimate,1990,228011.0
+New HIV Infections,Number,Children (0-14) upper estimate,1991,267982.0
+New HIV Infections,Number,Children (0-14) upper estimate,1992,309629.0
+New HIV Infections,Number,Children (0-14) upper estimate,1993,351817.0
+New HIV Infections,Number,Children (0-14) upper estimate,1994,394770.0
+New HIV Infections,Number,Children (0-14) upper estimate,1995,431668.0
+New HIV Infections,Number,Children (0-14) upper estimate,1996,470474.0
+New HIV Infections,Number,Children (0-14) upper estimate,1997,504347.0
+New HIV Infections,Number,Children (0-14) upper estimate,1998,532835.0
+New HIV Infections,Number,Children (0-14) upper estimate,1999,547449.0
+New HIV Infections,Number,Children (0-14) upper estimate,2000,559718.0
+New HIV Infections,Number,Children (0-14) upper estimate,2001,567051.0
+New HIV Infections,Number,Children (0-14) upper estimate,2002,560047.0
+New HIV Infections,Number,Children (0-14) upper estimate,2003,553721.0
+New HIV Infections,Number,Children (0-14) upper estimate,2004,533819.0
+New HIV Infections,Number,Children (0-14) upper estimate,2005,510972.0
+New HIV Infections,Number,Children (0-14) upper estimate,2006,492343.0
+New HIV Infections,Number,Children (0-14) upper estimate,2007,462121.0
+New HIV Infections,Number,Children (0-14) upper estimate,2008,436775.0
+New HIV Infections,Number,Children (0-14) upper estimate,2009,391138.0
+New HIV Infections,Number,Children (0-14) upper estimate,2010,351046.0
+New HIV Infections,Number,Children (0-14) upper estimate,2011,327549.0
+New HIV Infections,Number,Children (0-14) upper estimate,2012,288152.0
+New HIV Infections,Number,Children (0-14) upper estimate,2013,252117.0
+New HIV Infections,Number,Children (0-14) upper estimate,2014,215201.0
+New HIV Infections,Number,Children (0-14) upper estimate,2015,192646.0
+New HIV Infections,Number,Females Adults (15+) estimate,1990,868360.0
+New HIV Infections,Number,Females Adults (15+) estimate,1991,1004620.0
+New HIV Infections,Number,Females Adults (15+) estimate,1992,1139760.0
+New HIV Infections,Number,Females Adults (15+) estimate,1993,1265210.0
+New HIV Infections,Number,Females Adults (15+) estimate,1994,1398300.0
+New HIV Infections,Number,Females Adults (15+) estimate,1995,1483440.0
+New HIV Infections,Number,Females Adults (15+) estimate,1996,1537990.0
+New HIV Infections,Number,Females Adults (15+) estimate,1997,1544140.0
+New HIV Infections,Number,Females Adults (15+) estimate,1998,1504510.0
+New HIV Infections,Number,Females Adults (15+) estimate,1999,1442280.0
+New HIV Infections,Number,Females Adults (15+) estimate,2000,1355100.0
+New HIV Infections,Number,Females Adults (15+) estimate,2001,1270130.0
+New HIV Infections,Number,Females Adults (15+) estimate,2002,1185600.0
+New HIV Infections,Number,Females Adults (15+) estimate,2003,1110710.0
+New HIV Infections,Number,Females Adults (15+) estimate,2004,1048410.0
+New HIV Infections,Number,Females Adults (15+) estimate,2005,1000740.0
+New HIV Infections,Number,Females Adults (15+) estimate,2006,964660.0
+New HIV Infections,Number,Females Adults (15+) estimate,2007,949276.0
+New HIV Infections,Number,Females Adults (15+) estimate,2008,932252.0
+New HIV Infections,Number,Females Adults (15+) estimate,2009,925614.0
+New HIV Infections,Number,Females Adults (15+) estimate,2010,920070.0
+New HIV Infections,Number,Females Adults (15+) estimate,2011,922693.0
+New HIV Infections,Number,Females Adults (15+) estimate,2012,922677.0
+New HIV Infections,Number,Females Adults (15+) estimate,2013,920966.0
+New HIV Infections,Number,Females Adults (15+) estimate,2014,916357.0
+New HIV Infections,Number,Females Adults (15+) estimate,2015,903645.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1990,765369.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1991,894482.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1992,1017060.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1993,1128810.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1994,1248880.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1995,1329960.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1996,1392540.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1997,1404470.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1998,1367530.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,1999,1308270.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2000,1231080.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2001,1153540.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2002,1076090.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2003,1008400.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2004,951522.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2005,908265.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2006,877861.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2007,860310.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2008,842487.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2009,834265.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2010,823357.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2011,824490.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2012,822270.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2013,819074.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2014,811630.0
+New HIV Infections,Number,Females Adults (15+) lower estimate,2015,795586.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1990,991914.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1991,1132130.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1992,1279150.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1993,1426760.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1994,1582590.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1995,1669380.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1996,1712770.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1997,1710920.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1998,1658400.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,1999,1582180.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2000,1490450.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2001,1397520.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2002,1310620.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2003,1231520.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2004,1163270.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2005,1111410.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2006,1070940.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2007,1054100.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2008,1035490.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2009,1028660.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2010,1031140.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2011,1039940.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2012,1043890.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2013,1046810.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2014,1043820.0
+New HIV Infections,Number,Females Adults (15+) upper estimate,2015,1039490.0
+New HIV Infections,Number,Males Adults (15+) estimate,1990,956150.0
+New HIV Infections,Number,Males Adults (15+) estimate,1991,1105010.0
+New HIV Infections,Number,Males Adults (15+) estimate,1992,1213690.0
+New HIV Infections,Number,Males Adults (15+) estimate,1993,1276200.0
+New HIV Infections,Number,Males Adults (15+) estimate,1994,1395610.0
+New HIV Infections,Number,Males Adults (15+) estimate,1995,1443460.0
+New HIV Infections,Number,Males Adults (15+) estimate,1996,1479830.0
+New HIV Infections,Number,Males Adults (15+) estimate,1997,1489680.0
+New HIV Infections,Number,Males Adults (15+) estimate,1998,1460400.0
+New HIV Infections,Number,Males Adults (15+) estimate,1999,1411040.0
+New HIV Infections,Number,Males Adults (15+) estimate,2000,1343890.0
+New HIV Infections,Number,Males Adults (15+) estimate,2001,1276380.0
+New HIV Infections,Number,Males Adults (15+) estimate,2002,1213180.0
+New HIV Infections,Number,Males Adults (15+) estimate,2003,1153430.0
+New HIV Infections,Number,Males Adults (15+) estimate,2004,1098320.0
+New HIV Infections,Number,Males Adults (15+) estimate,2005,1055910.0
+New HIV Infections,Number,Males Adults (15+) estimate,2006,1023440.0
+New HIV Infections,Number,Males Adults (15+) estimate,2007,1007710.0
+New HIV Infections,Number,Males Adults (15+) estimate,2008,989860.0
+New HIV Infections,Number,Males Adults (15+) estimate,2009,987012.0
+New HIV Infections,Number,Males Adults (15+) estimate,2010,990373.0
+New HIV Infections,Number,Males Adults (15+) estimate,2011,998230.0
+New HIV Infections,Number,Males Adults (15+) estimate,2012,1005740.0
+New HIV Infections,Number,Males Adults (15+) estimate,2013,1013090.0
+New HIV Infections,Number,Males Adults (15+) estimate,2014,1020090.0
+New HIV Infections,Number,Males Adults (15+) estimate,2015,1019600.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1990,842749.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1991,983872.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1992,1083035.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1993,1138617.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1994,1246479.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1995,1294108.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1996,1339875.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1997,1354943.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1998,1327428.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,1999,1279932.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2000,1220898.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2001,1159223.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2002,1101126.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2003,1047183.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2004,996814.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2005,958336.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2006,931351.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2007,913266.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2008,894547.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2009,889603.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2010,886274.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2011,891986.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2012,896295.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2013,901005.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2014,903502.0
+New HIV Infections,Number,Males Adults (15+) lower estimate,2015,897676.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1990,1092196.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1991,1245266.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1992,1362126.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1993,1439157.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1994,1579543.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1995,1624380.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1996,1648000.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1997,1650583.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1998,1609774.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,1999,1547904.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2000,1478120.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2001,1404404.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2002,1341104.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2003,1278883.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2004,1218643.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2005,1172685.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2006,1136192.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2007,1118987.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2008,1099474.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2009,1096889.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2010,1109931.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2011,1125074.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2012,1137867.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2013,1151523.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2014,1161974.0
+New HIV Infections,Number,Males Adults (15+) upper estimate,2015,1172877.0
