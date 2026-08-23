@@ -1,0 +1,77 @@
+&esc,print a backslash,Unnamed: 2,clean_text,cluster
+&esc,line break; cequivalent to '.br',,esc,0
+&esc!,ignore rest of input line,,esc,0
+"&esc""",begin a comment until end of line,,esc,0
+&esc#,comment character within a line,,esc,0
+&esc$,refer to nth argument in a macro,,esc,0
+&esc$*,refer to all arguments as a single string,,esc,0
+&esc$0,refer to macro name itself,,esc,0
+&esc$@,refer to all arguments individually,,esc,0
+&esc$^,refer to all arguments%ceach quoted individually,,esc,0
+&esc%,reserved for future use,,esc,0
+&esc&,zero-width space,,esc,0
+&esc',zero-width line break,,esc,0
+&esc(xx,special character; cdigraph form,,esc xx,0
+&esc),end a macro argument group,,esc,0
+&esc*,interpolate a string,,esc,0
+&esc&&comma,kern by a small space amount,,esc comma,0
+&esc-,discretionary hyphen,,esc,0
+&esc.,leader dots,,esc,0
+&esc/,italic correction,,esc,0
+&esc0,escape to the output device's character set,,esc,0
+&esc,print a space,,esc,0
+&esc?,non-breaking space,,esc,0
+&escA,mark location in an environment,,esca,8
+&esca,mark horizontal place,,esca,8
+&escB,begin a word boundary,,escb,9
+&escb,backward branch to a macro,,escb,9
+&escc,continue input line,,escc,2
+&escC'xx',print a special character,,escc xx,2
+&escd,move down half a line,,escd,2
+&escD'xx,draw function,,escd xx,2
+&esce,print current escape character,,esce,6
+&escE,synonym for &esce,,esce,6
+&escf,change font,,escf,3
+&escF,embed external file,,escf,3
+&escg,groff-specific control%cvaries,,escg,2
+&escH,set character height,,esch,2
+&esch'xx',horizontal motion,,esch xx,2
+&esck,mark horizontal place in register,,esck,2
+&escl'xx',draw horizontal line,,escl xx,2
+&escL,begin a left-to-right environment,,escl,2
+&escm,change color,,escm,7
+&escM,call macro,,escm,7
+&escn'xx',print the value of a number register,,escn xx,1
+&escn(xx,print/increment a number register,,escn xx,1
+&escN'xx',print a character by code,,escn xx,1
+&escnewline,equivalent to '.br',,escnewline,2
+&esco'xx',overstrike characters,,esco xx,2
+&escO,open a local diversion,,esco,2
+&escp,pause for input,,escp,2
+&escR,reverse line feed,,escr,5
+&escR'xx',conditional return,,escr xx,5
+&escr,carriage return,,escr,5
+&escRET,hard return,,escret,2
+&escS,superimpose previous and next characters,,escs,2
+&escs,change point size,,escs,2
+&escSP,synonym for &esc,,escsp,2
+&escspace,insert a space,,escspace,2
+&esct,horizontal tab,,esct,2
+&escu,move up half a line,,escu,2
+&escv'xx',vertical motion,,escv xx,2
+&escV,validate vertical position,,escv,2
+&escw'xx',return width of string,,escw xx,2
+&escx'xx',extra vertical space,,escx xx,4
+&escX'xx',embed external data,,escx xx,4
+&escY,groff-specific control%cvaries,,escy,2
+&escz'xx',print character without space,,escz xx,2
+&escZ'xx',print string underlined,,escz xx,2
+&esc[name],special character by name,,esc,0
+&esc&esc,print a backslash,,esc esc,0
+&esc^,raise text by half a line,,esc,0
+&esc_,underline next character,,esc,0
+&esc`,left single quote,,esc,0
+&esc{,begin a no-space mode group,,esc,0
+&esc},end a no-space mode group,,esc,0
+&esc|,zero-width space,,esc,0
+&esc~,non-breaking space,,esc,0
