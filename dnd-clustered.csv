@@ -1,0 +1,31 @@
+name,herotype,weapons,spells,clean_text,cluster
+bam,Bard,"Dagger, sling, club","Transmutation, Enchantment ",bam,0
+niem,Sorcerer,"light crossbow, battleaxe",Necromancy ,niem,3
+aem,Paladin,Greataxe,"Abjuration, Conjuration",aem,3
+yaeks,Rogue,"club, battleaxe","Conjuration, Evocation, Transmutation",yaeks,3
+jeeks,Druid,"Dagger, Greataxe","Evocation, Transmutation, Necromancy ",jeeks,3
+aez,Sorcerer,"club, light crossbow","Evocation, Enchantment ",aez,2
+sax,Bard,"light crossbow, battleaxe,  Dagger, sling, club",Necromancy ,sax,3
+eert,Bard,Greataxe,"Transmutation, Necromancy ",eert,3
+wuc,Sorcerer,"light crossbow, battleaxe",Necromancy ,wuc,3
+yac,Sorcerer,Greataxe,"Conjuration, Evocation, Transmutation",yac,3
+Jocelyn Churchill,Paladin,club,"Evocation, Enchantment ",jocelyn churchill,3
+Robert Perry,Rogue,"Dagger, sling, club","Abjuration, Conjuration",robert perry,3
+Tim Carlton,Rogue,"light crossbow, sling",Necromancy ,tim carlton,3
+Rolf Rylan,Paladin,"light crossbow, battleaxe",Necromancy ,rolf rylan,3
+Manfred Watsons,Rogue,Greataxe,"Evocation, Enchantment ",manfred watsons,3
+Kildrak Caebrek,Paladin,club,Necromancy ,kildrak caebrek,3
+Erias Silverstone,Rogue,"sling, light crossbow","Abjuration, Conjuration",erias silverstone,3
+Baern Rakankrak,Druid,Dagger,"Conjuration, Evocation, Transmutation",baern rakankrak,3
+Traubon Durthane,Sorcerer,light crossbow,"Evocation, Transmutation, Necromancy ",traubon durthane,3
+Oskar Strakeln,Bard,sling,"Evocation, Enchantment ",oskar strakeln,3
+Braak Presley,Paladin,"light crossbow, battleaxe,  Dagger, sling, club",Necromancy ,braak presley,3
+Odorr Spalding,Rogue,"light crossbow, battleaxe","Transmutation, Necromancy ",odorr spalding,3
+Dench Sydney,Druid,Greataxe,Necromancy ,dench sydney,3
+Zed Ryley,Sorcerer,sling,Evocation,zed ryley,3
+Ugarth Ainsley,Bard,club,Transmutation,ugarth ainsley,3
+Jantroph,Paladin,"light crossbow, battleaxe",Abjuration,jantroph,3
+Qualnus,Rogue,Dagger,Evocation,qualnus,3
+Orox,Druid,"sling, club",Abjuration,orox,3
+Irv,Sorcerer,light crossbow,Conjuration,irv,1
+Irv,Bard,Dagger,,irv,1
