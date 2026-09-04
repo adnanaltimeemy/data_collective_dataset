@@ -1,0 +1,103 @@
+geofips,geoname,2013,text,cluster
+1998,Alabama (Metropolitan Portion),88.9,alabama  metropolitan portion ,2
+1999,Alabama (Nonmetropolitan Portion),82.9,alabama  nonmetropolitan portion ,2
+2998,Alaska (Metropolitan Portion),110.0,alaska  metropolitan portion ,2
+2999,Alaska (Nonmetropolitan Portion),98.6,alaska  nonmetropolitan portion ,2
+4998,Arizona (Metropolitan Portion),97.6,arizona  metropolitan portion ,2
+4999,Arizona (Nonmetropolitan Portion),89.1,arizona  nonmetropolitan portion ,2
+5998,Arkansas (Metropolitan Portion),89.2,arkansas  metropolitan portion ,2
+5999,Arkansas (Nonmetropolitan Portion),84.2,arkansas  nonmetropolitan portion ,2
+6998,California (Metropolitan Portion),112.8,california  metropolitan portion ,2
+6999,California (Nonmetropolitan Portion),97.5,california  nonmetropolitan portion ,2
+8998,Colorado (Metropolitan Portion),103.4,colorado  metropolitan portion ,2
+8999,Colorado (Nonmetropolitan Portion),96.3,colorado  nonmetropolitan portion ,2
+9998,Connecticut (Metropolitan Portion),109.0,connecticut  metropolitan portion ,2
+9999,Connecticut (Nonmetropolitan Portion),102.3,connecticut  nonmetropolitan portion ,2
+10998,Delaware (Metropolitan Portion),101.6,delaware  metropolitan portion ,2
+10999,Delaware (Nonmetropolitan Portion),0.0,delaware  nonmetropolitan portion ,1
+11998,District of Columbia (Metropolitan Portion),118.1,district of columbia  metropolitan portion ,2
+11999,District of Columbia (Nonmetropolitan Portion),0.0,district of columbia  nonmetropolitan portion ,1
+12998,Florida (Metropolitan Portion),99.4,florida  metropolitan portion ,2
+12999,Florida (Nonmetropolitan Portion),88.6,florida  nonmetropolitan portion ,2
+13998,Georgia (Metropolitan Portion),93.5,georgia  metropolitan portion ,2
+13999,Georgia (Nonmetropolitan Portion),84.7,georgia  nonmetropolitan portion ,2
+15998,Hawaii (Metropolitan Portion),119.3,hawaii  metropolitan portion ,2
+15999,Hawaii (Nonmetropolitan Portion),98.9,hawaii  nonmetropolitan portion ,2
+16998,Idaho (Metropolitan Portion),93.4,idaho  metropolitan portion ,2
+16999,Idaho (Nonmetropolitan Portion),91.0,idaho  nonmetropolitan portion ,2
+17998,Illinois (Metropolitan Portion),103.3,illinois  metropolitan portion ,2
+17999,Illinois (Nonmetropolitan Portion),84.2,illinois  nonmetropolitan portion ,2
+18998,Indiana (Metropolitan Portion),93.0,indiana  metropolitan portion ,2
+18999,Indiana (Nonmetropolitan Portion),84.5,indiana  nonmetropolitan portion ,2
+19998,Iowa (Metropolitan Portion),93.2,iowa  metropolitan portion ,2
+19999,Iowa (Nonmetropolitan Portion),86.1,iowa  nonmetropolitan portion ,2
+20998,Kansas (Metropolitan Portion),93.4,kansas  metropolitan portion ,2
+20999,Kansas (Nonmetropolitan Portion),85.1,kansas  nonmetropolitan portion ,2
+21998,Kentucky (Metropolitan Portion),90.8,kentucky  metropolitan portion ,2
+21999,Kentucky (Nonmetropolitan Portion),86.2,kentucky  nonmetropolitan portion ,2
+22998,Louisiana (Metropolitan Portion),92.7,louisiana  metropolitan portion ,2
+22999,Louisiana (Nonmetropolitan Portion),83.7,louisiana  nonmetropolitan portion ,2
+23998,Maine (Metropolitan Portion),98.9,maine  metropolitan portion ,2
+23999,Maine (Nonmetropolitan Portion),94.8,maine  nonmetropolitan portion ,2
+24998,Maryland (Metropolitan Portion),112.0,maryland  metropolitan portion ,2
+24999,Maryland (Nonmetropolitan Portion),91.0,maryland  nonmetropolitan portion ,2
+25998,Massachusetts (Metropolitan Portion),107.7,massachusetts  metropolitan portion ,2
+25999,Massachusetts (Nonmetropolitan Portion),99.4,massachusetts  nonmetropolitan portion ,2
+26998,Michigan (Metropolitan Portion),95.6,michigan  metropolitan portion ,2
+26999,Michigan (Nonmetropolitan Portion),86.6,michigan  nonmetropolitan portion ,2
+27998,Minnesota (Metropolitan Portion),100.6,minnesota  metropolitan portion ,2
+27999,Minnesota (Nonmetropolitan Portion),86.6,minnesota  nonmetropolitan portion ,2
+28998,Mississippi (Metropolitan Portion),90.2,mississippi  metropolitan portion ,2
+28999,Mississippi (Nonmetropolitan Portion),83.2,mississippi  nonmetropolitan portion ,2
+29998,Missouri (Metropolitan Portion),90.7,missouri  metropolitan portion ,0
+29999,Missouri (Nonmetropolitan Portion),84.1,missouri  nonmetropolitan portion ,0
+30998,Montana (Metropolitan Portion),97.5,montana  metropolitan portion ,0
+30999,Montana (Nonmetropolitan Portion),91.8,montana  nonmetropolitan portion ,0
+31998,Nebraska (Metropolitan Portion),93.2,nebraska  metropolitan portion ,0
+31999,Nebraska (Nonmetropolitan Portion),85.6,nebraska  nonmetropolitan portion ,0
+32998,Nevada (Metropolitan Portion),98.7,nevada  metropolitan portion ,0
+32999,Nevada (Nonmetropolitan Portion),93.9,nevada  nonmetropolitan portion ,0
+33998,New Hampshire (Metropolitan Portion),108.5,new hampshire  metropolitan portion ,0
+33999,New Hampshire (Nonmetropolitan Portion),100.5,new hampshire  nonmetropolitan portion ,0
+34998,New Jersey (Metropolitan Portion),114.8,new jersey  metropolitan portion ,0
+34999,New Jersey (Nonmetropolitan Portion),0.0,new jersey  nonmetropolitan portion ,1
+35998,New Mexico (Metropolitan Portion),96.3,new mexico  metropolitan portion ,0
+35999,New Mexico (Nonmetropolitan Portion),91.3,new mexico  nonmetropolitan portion ,0
+36998,New York (Metropolitan Portion),117.2,new york  metropolitan portion ,0
+36999,New York (Nonmetropolitan Portion),94.5,new york  nonmetropolitan portion ,0
+37998,North Carolina (Metropolitan Portion),92.9,north carolina  metropolitan portion ,0
+37999,North Carolina (Nonmetropolitan Portion),85.7,north carolina  nonmetropolitan portion ,0
+38998,North Dakota (Metropolitan Portion),93.9,north dakota  metropolitan portion ,0
+38999,North Dakota (Nonmetropolitan Portion),88.7,north dakota  nonmetropolitan portion ,0
+39998,Ohio (Metropolitan Portion),90.5,ohio  metropolitan portion ,0
+39999,Ohio (Nonmetropolitan Portion),84.5,ohio  nonmetropolitan portion ,0
+40998,Oklahoma (Metropolitan Portion),91.8,oklahoma  metropolitan portion ,0
+40999,Oklahoma (Nonmetropolitan Portion),86.1,oklahoma  nonmetropolitan portion ,0
+41998,Oregon (Metropolitan Portion),99.7,oregon  metropolitan portion ,0
+41999,Oregon (Nonmetropolitan Portion),92.6,oregon  nonmetropolitan portion ,0
+42998,Pennsylvania (Metropolitan Portion),99.6,pennsylvania  metropolitan portion ,0
+42999,Pennsylvania (Nonmetropolitan Portion),91.2,pennsylvania  nonmetropolitan portion ,0
+44998,Rhode Island (Metropolitan Portion),98.3,rhode island  metropolitan portion ,0
+44999,Rhode Island (Nonmetropolitan Portion),0.0,rhode island  nonmetropolitan portion ,1
+45998,South Carolina (Metropolitan Portion),91.4,south carolina  metropolitan portion ,0
+45999,South Carolina (Nonmetropolitan Portion),83.9,south carolina  nonmetropolitan portion ,0
+46998,South Dakota (Metropolitan Portion),91.7,south dakota  metropolitan portion ,0
+46999,South Dakota (Nonmetropolitan Portion),84.0,south dakota  nonmetropolitan portion ,0
+47998,Tennessee (Metropolitan Portion),91.9,tennessee  metropolitan portion ,0
+47999,Tennessee (Nonmetropolitan Portion),84.8,tennessee  nonmetropolitan portion ,0
+48998,Texas (Metropolitan Portion),98.0,texas  metropolitan portion ,0
+48999,Texas (Nonmetropolitan Portion),87.7,texas  nonmetropolitan portion ,0
+49998,Utah (Metropolitan Portion),97.9,utah  metropolitan portion ,0
+49999,Utah (Nonmetropolitan Portion),93.0,utah  nonmetropolitan portion ,0
+50998,Vermont (Metropolitan Portion),101.3,vermont  metropolitan portion ,0
+50999,Vermont (Nonmetropolitan Portion),98.7,vermont  nonmetropolitan portion ,0
+51998,Virginia (Metropolitan Portion),105.8,virginia  metropolitan portion ,0
+51999,Virginia (Nonmetropolitan Portion),88.6,virginia  nonmetropolitan portion ,0
+53998,Washington (Metropolitan Portion),104.0,washington  metropolitan portion ,0
+53999,Washington (Nonmetropolitan Portion),95.9,washington  nonmetropolitan portion ,0
+54998,West Virginia (Metropolitan Portion),88.8,west virginia  metropolitan portion ,0
+54999,West Virginia (Nonmetropolitan Portion),86.7,west virginia  nonmetropolitan portion ,0
+55998,Wisconsin (Metropolitan Portion),94.7,wisconsin  metropolitan portion ,0
+55999,Wisconsin (Nonmetropolitan Portion),87.2,wisconsin  nonmetropolitan portion ,0
+56998,Wyoming (Metropolitan Portion),97.6,wyoming  metropolitan portion ,0
+56999,Wyoming (Nonmetropolitan Portion),94.5,wyoming  nonmetropolitan portion ,0
