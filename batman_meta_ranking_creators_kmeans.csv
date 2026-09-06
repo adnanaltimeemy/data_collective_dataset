@@ -1,0 +1,61 @@
+Name,CreatorType,Score,Number,combined_text,clean_text,cluster,PCA1,PCA2
+Richard Starkings,Letters,36.78,4,Richard Starkings Letters,richard starkings letters,4,-0.007547964546050445,-0.23763915932653235
+Frank Miller,Script,35.74,3,Frank Miller Script,frank miller script,9,-0.28651955750368535,0.18918347260212448
+John Costanza,Letters,31.56,8,John Costanza Letters,john costanza letters,4,0.0466748044353461,-0.25574463537603526
+Jeph Loeb,Script,24.11,4,Jeph Loeb Script,jeph loeb script,3,-0.6572535549295019,0.5951931420664208
+Todd Klein,Letters,23.44,8,Todd Klein Letters,todd klein letters,4,-0.0071116003861136055,-0.22347400712039356
+Klaus Janson,Cover,19.0,2,Klaus Janson Cover,klaus janson cover,1,-0.014505776263168855,-0.17311834394640152
+Klaus Janson,Inks,19.0,2,Klaus Janson Inks,klaus janson inks,0,-0.014901751369271205,-0.17140898928386525
+Frank Miller,Pencils,17.85,2,Frank Miller Pencils,frank miller pencils,9,-0.054160873423388274,-0.09116501185850626
+Lynn Varley,Colors,17.85,2,Lynn Varley Colors,lynn varley colors,2,0.7295674688491826,0.5205546207415829
+Richmond Lewis,Colors,17.83,2,Richmond Lewis Colors,richmond lewis colors,2,0.7295674688491828,0.5205546207415828
+David Mazzucchelli,Pencils,17.62,1,David Mazzucchelli Pencils,david mazzucchelli pencils,8,0.01147660866605728,-0.18652764279977221
+David Mazzucchelli,Cover,17.62,1,David Mazzucchelli Cover,david mazzucchelli cover,8,0.011683568580300008,-0.20422820365316116
+David Mazzucchelli,Inks,17.62,1,David Mazzucchelli Inks,david mazzucchelli inks,8,0.011248590894010943,-0.20235048173403095
+Tim Sale,Pencils,17.5,3,Tim Sale Pencils,tim sale pencils,7,-0.026597074549103247,-0.24622491185218756
+Tim Sale,Inks,17.5,3,Tim Sale Inks,tim sale inks,7,-0.026830153698144076,-0.26239897495748726
+Tim Sale,Cover,16.69,2,Tim Sale Cover,tim sale cover,7,-0.0263855206852779,-0.26431837721775164
+Grant Morrison,Script,14.41,6,Grant Morrison Script,grant morrison script,3,-0.6572535549295021,0.5951931420664209
+Gregory Wright,Colors,14.36,2,Gregory Wright Colors,gregory wright colors,2,0.7295674688491826,0.5205546207415828
+Alan Moore,Script,13.48,1,Alan Moore Script,alan moore script,3,-0.6572535549295021,0.5951931420664209
+Brian Bolland,Pencils,13.48,1,Brian Bolland Pencils,brian bolland pencils,1,-0.060679277140076156,-0.15991188174145668
+Brian Bolland,Cover,13.48,1,Brian Bolland Cover,brian bolland cover,1,-0.060475052069143866,-0.17737854096894495
+Brian Bolland,Inks,13.48,1,Brian Bolland Inks,brian bolland inks,1,-0.0609042818026476,-0.1755256319477509
+John Higgins,Colors,13.48,1,John Higgins Colors,john higgins colors,2,0.4957549358311082,0.27375300635346583
+Scott Snyder,Script,10.54,6,Scott Snyder Script,scott snyder script,3,-0.4193796414943586,0.32830274411064025
+Dave McKean,Pencils,10.21,1,Dave McKean Pencils,dave mckean pencils,6,0.05009349411637721,-0.17486267320029242
+Dave McKean,Cover,10.21,1,Dave McKean Cover,dave mckean cover,6,0.050305047980202605,-0.19295613856585656
+Dave McKean,Inks,10.21,1,Dave McKean Inks,dave mckean inks,6,0.04986041496733637,-0.19103673630559204
+Dave McKean,Colors,10.21,1,Dave McKean Colors,dave mckean colors,6,0.3554849248499466,0.10945704513420773
+Gaspar Saladino,Letters,10.21,1,Gaspar Saladino Letters,gaspar saladino letters,4,-0.0036458895704992375,-0.3439564476085954
+Jim Starlin,Script,9.41,2,Jim Starlin Script,jim starlin script,3,-0.48111280104742105,0.36018471114529726
+Alex Sinclair,Colors,8.38,3,Alex Sinclair Colors,alex sinclair colors,2,0.7295674688491828,0.5205546207415827
+Jim Lee,Pencils,7.36,3,Jim Lee Pencils,jim lee pencils,1,-0.051087543591237954,-0.14476268302025813
+Scott Williams,Inks,7.08,2,Scott Williams Inks,scott williams inks,0,-0.06180006192511712,-0.12570109327305107
+Rob Leigh,Letters,6.87,5,Rob Leigh Letters,rob leigh letters,4,-0.0036458895704992375,-0.3439564476085954
+Jim Lee,Cover,6.61,1,Jim Lee Cover,jim lee cover,1,-0.050887919318694,-0.161835851981037
+Jim Aparo/Mike Mignola/Mike DeCarlo,Pencils,5.8,1,Jim Aparo/Mike Mignola/Mike DeCarlo Pencils,jim aparo mike mignola mike decarlo pencils,0,-0.040585640410205265,-0.14804120338609256
+Jim Aparo,Cover,5.8,1,Jim Aparo Cover,jim aparo cover,1,-0.05213810286667624,-0.16826823359197826
+Jim Aparo/Mike Mignola,Inks,5.8,1,Jim Aparo/Mike Mignola Inks,jim aparo mike mignola inks,0,-0.0435378666074244,-0.16220277309573958
+Adrienne Roy/Anthony Tollin,Colors,5.8,1,Adrienne Roy/Anthony Tollin Colors,adrienne roy anthony tollin colors,2,0.7295674688491828,0.5205546207415827
+Greg Capullo,Pencils,5.65,3,Greg Capullo Pencils,greg capullo pencils,0,-0.017919407813233743,-0.2009525047902208
+FCO Plascencia,Colors,5.65,3,FCO Plascencia Colors,fco plascencia colors,2,0.7295674688491828,0.5205546207415827
+Greg Capullo,Cover,5.59,2,Greg Capullo Cover,greg capullo cover,0,-0.01771857261221738,-0.2181292402469331
+Greg Capullo/Jonathan Glapion,Inks,5.11,1,Greg Capullo/Jonathan Glapion Inks,greg capullo jonathan glapion inks,0,-0.018140677691759508,-0.21630708709973523
+Richard Starkings/Jimmy Betancourt/Comicraft,Letters,5.11,1,Richard Starkings/Jimmy Betancourt/Comicraft Letters,richard starkings jimmy betancourt comicraft letters,4,-0.007547964546050354,-0.23763915932653248
+Kelley Jones/Bob LeRose/Sam Kieth,Cover,4.62,1,Kelley Jones/Bob LeRose/Sam Kieth Cover,kelley jones bob lerose sam kieth cover,1,-0.017788879445234794,-0.22002636043049517
+Jock/Francesco Francavilla,Pencils,4.4,1,Jock/Francesco Francavilla Pencils,jock francesco francavilla pencils,5,0.014180928862567556,-0.18482702549404764
+Jock/Francesco Francavilla,Cover,4.4,1,Jock/Francesco Francavilla Cover,jock francesco francavilla cover,5,0.014346703779567508,-0.19900517693492178
+Jock/Francesco Francavilla,Inks,4.4,1,Jock/Francesco Francavilla Inks,jock francesco francavilla inks,5,0.013998286598852777,-0.1975011214446022
+David Baron/Francesco Francavilla,Colors,4.4,1,David Baron/Francesco Francavilla Colors,david baron francesco francavilla colors,5,0.2811208458759038,0.07014967868724925
+Todd Klein/Jared K. Fletcher/Sal Cipriano,Letters,4.4,1,Todd Klein/Jared K. Fletcher/Sal Cipriano Letters,todd klein jared fletcher sal cipriano letters,4,-0.006208361465906468,-0.21400844759712312
+Ed Brubaker,Script,3.93,1,Ed Brubaker Script,brubaker script,3,-0.6572535549295021,0.5951931420664208
+Tim Sale/Doug Mahnke/Patrick Zircher,Pencils,3.93,1,Tim Sale/Doug Mahnke/Patrick Zircher Pencils,tim sale doug mahnke patrick zircher pencils,7,-0.0518011315631691,-0.20558062860247395
+David Baron,Colors,3.93,1,David Baron Colors,david baron colors,2,0.34507148478551875,0.16700348030269196
+Bernie Wrightson,Inks,3.6,1,Bernie Wrightson Inks,bernie wrightson inks,0,-0.018877743194166255,-0.21532592775828596
+Dennis O'Neil,Script,2.82,3,Dennis O'Neil Script,dennis neil script,3,-0.6572535549295021,0.5951931420664208
+Doug Moench,Script,2.82,2,Doug Moench Script,doug moench script,3,-0.41609490691854456,0.32795745537247334
+Brian Augustyn,Script,2.5,1,Brian Augustyn Script,brian augustyn script,3,-0.4576635131638626,0.34014238003065694
+John Workman,Letters,2.5,1,John Workman Letters,john workman letters,4,0.026204179307272663,-0.21344554365210194
+Jared K. Fletcher/John Workman,Letters,1.91,1,Jared K. Fletcher/John Workman Letters,jared fletcher john workman letters,4,0.01920542984489183,-0.20972766211297317
+Ken Lopez,Letters,1.84,2,Ken Lopez Letters,ken lopez letters,4,-0.0036458895704992375,-0.3439564476085954
