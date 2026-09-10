@@ -1,0 +1,514 @@
+35,99,2,2.1,2.2,badung,Unnamed: 6,Unnamed: 7,NULL,NULL.1,NULL.2,utc+08:00,80351,80361,Unnamed: 14,text,cluster
+36,99,2,2,2,bangli,,,,,,utc+08:00,80611,80671.0,,bangli utc+08:00,4
+37,99,2,2,2,buleleng,,,,,,utc+08:00,81111,81173.0,,buleleng utc+08:00,4
+38,99,2,3,2,denpasar,,,,,,utc+08:00,80111,80239.0,,denpasar utc+08:00,4
+39,99,2,2,2,gianyar,,,,,,utc+08:00,80511,80582.0,,gianyar utc+08:00,4
+40,99,2,2,2,jembrana,,,,,,utc+08:00,82211,82262.0,,jembrana utc+08:00,4
+41,99,2,2,2,karangasem,,,,,,utc+08:00,80811,80871.0,,karangasem utc+08:00,4
+42,99,2,2,2,klungkung,,,,,,utc+08:00,80711,80771.0,,klungkung utc+08:00,4
+43,99,2,2,2,tabanan,,,,,,utc+08:00,82111,82191.0,,tabanan utc+08:00,4
+44,99,27,2,2,bangka,,,,,,utc+07:00,33172,33253.0,,bangka utc+07:00,3
+45,99,27,2,2,bangka barat,,,,,,utc+07:00,33311,33371.0,,bangka barat utc+07:00,0
+46,99,27,2,2,bangka selatan,,,,,,utc+07:00,33777,33791.0,,bangka selatan utc+07:00,3
+47,99,27,2,2,bangka tengah,,,,,,utc+07:00,33674,33684.0,,bangka tengah utc+07:00,3
+48,99,27,2,2,belitung,,,,,,utc+07:00,33411,33481.0,,belitung utc+07:00,3
+49,99,27,2,2,belitung timur,,,,,,utc+07:00,33511,33571.0,,belitung timur utc+07:00,3
+50,99,27,3,2,pangkal pinang,,,,,,utc+07:00,33111,33141.0,,pangkal pinang utc+07:00,3
+51,99,25,3,2,cilegon,,,,,,utc+07:00,42411,42441.0,,cilegon utc+07:00,3
+52,99,25,2,2,lebak,,,,,,utc+07:00,42311,42396.0,,lebak utc+07:00,3
+53,99,25,2,2,pandeglang,,,,,,utc+07:00,42211,42286.0,,pandeglang utc+07:00,3
+54,99,25,2,2,serang,,,,,,utc+07:00,42161,42455.0,,serang utc+07:00,3
+55,99,25,3,2,serang,,,,,,utc+07:00,42111,42191.0,,serang utc+07:00,3
+56,99,25,2,2,tangerang,,,,,,utc+07:00,15211,15820.0,,tangerang utc+07:00,3
+57,99,25,3,2,tangerang,,,,,,utc+07:00,15111,15157.0,,tangerang utc+07:00,3
+58,99,25,3,2,tangerang selatan,,,,,,utc+07:00,15220,15415.0,,tangerang selatan utc+07:00,3
+59,99,3,3,2,bengkulu,,,,,,utc+07:00,38113,38223.0,,bengkulu utc+07:00,3
+60,99,3,2,2,bengkulu selatan,,,,,,utc+07:00,38511,38571.0,,bengkulu selatan utc+07:00,3
+61,99,3,2,2,bengkulu tengah,,,,,,utc+07:00,38371,38386.0,,bengkulu tengah utc+07:00,3
+62,99,3,2,2,bengkulu utara,,,,,,utc+07:00,38326,38657.0,,bengkulu utara utc+07:00,3
+63,99,3,2,2,kaur,,,,,,utc+07:00,38955,38965.0,,kaur utc+07:00,3
+64,99,3,2,2,kepahiang,,,,,,utc+07:00,39371,39374.0,,kepahiang utc+07:00,3
+65,99,3,2,2,lebong,,,,,,utc+07:00,39261,39269.0,,lebong utc+07:00,3
+66,99,3,2,2,muko muko,,,,,,utc+07:00,38711,38768.0,,muko muko utc+07:00,3
+67,99,3,2,2,rejang lebong,,,,,,utc+07:00,39111,39183.0,,rejang lebong utc+07:00,3
+68,99,3,2,2,seluma,,,,,,utc+07:00,38873,38888.0,,seluma utc+07:00,3
+69,99,8,2,2,bantul,,,,,,utc+07:00,55181,55792.0,,bantul utc+07:00,3
+70,99,8,2,2,gunung kidul,,,,,,utc+07:00,55811,55893.0,,gunung kidul utc+07:00,3
+71,99,8,2,2,kulon progo,,,,,,utc+07:00,55651,55674.0,,kulon progo utc+07:00,3
+72,99,8,2,2,sleman,,,,,,utc+07:00,55264,55584.0,,sleman utc+07:00,3
+73,99,8,3,2,yogyakarta,,,,,,utc+07:00,55111,55271.0,,yogyakarta utc+07:00,3
+74,99,4,3,2,jakarta barat,,,,,,utc+07:00,11110,11810.0,,jakarta barat utc+07:00,0
+75,99,4,3,2,jakarta pusat,,,,,,utc+07:00,10110,10710.0,,jakarta pusat utc+07:00,3
+76,99,4,3,2,jakarta selatan,,,,,,utc+07:00,12110,12910.0,,jakarta selatan utc+07:00,3
+77,99,4,3,2,jakarta timur,,,,,,utc+07:00,13110,13910.0,,jakarta timur utc+07:00,3
+78,99,4,3,2,jakarta utara,,,,,,utc+07:00,14110,14440.0,,jakarta utara utc+07:00,3
+79,99,4,2,2,kepulauan seribu,,,,,,utc+07:00,14510,14530.0,,kepulauan seribu utc+07:00,1
+80,99,26,2,2,boalemo,,,,,,utc+08:00,96261,96265.0,,boalemo utc+08:00,4
+81,99,26,2,2,bone bolango,,,,,,utc+08:00,96582,96585.0,,bone bolango utc+08:00,4
+82,99,26,2,2,gorontalo,,,,,,utc+08:00,96123,96272.0,,gorontalo utc+08:00,4
+83,99,26,3,2,gorontalo,,,,,,utc+08:00,96111,96135.0,,gorontalo utc+08:00,4
+84,99,26,2,2,gorontalo utara,,,,,,utc+08:00,96252,96525.0,,gorontalo utara utc+08:00,4
+85,99,26,2,2,pohuwato,,,,,,utc+08:00,96265,96469.0,,pohuwato utc+08:00,4
+86,99,5,2,2,batang hari,,,,,,utc+07:00,36611,36657.0,,batang hari utc+07:00,3
+87,99,5,2,2,bungo,,,,,,utc+07:00,37211,37263.0,,bungo utc+07:00,3
+88,99,5,3,2,jambi,,,,,,utc+07:00,36111,36261.0,,jambi utc+07:00,3
+89,99,5,2,2,kerinci,,,,,,utc+07:00,37152,37175.0,,kerinci utc+07:00,3
+90,99,5,2,2,merangin,,,,,,utc+07:00,37311,37372.0,,merangin utc+07:00,3
+91,99,5,2,2,muaro jambi,,,,,,utc+07:00,36361,36382.0,,muaro jambi utc+07:00,3
+92,99,5,2,2,sarolangun,,,,,,utc+07:00,37382,37492.0,,sarolangun utc+07:00,3
+93,99,5,3,2,sungaipenuh,,,,,,utc+07:00,37111,37171.0,,sungaipenuh utc+07:00,3
+94,99,5,2,2,tanjung jabung barat,,,,,,utc+07:00,36511,36555.0,,tanjung jabung barat utc+07:00,0
+95,99,5,2,2,tanjung jabung timur,,,,,,utc+07:00,36572,36773.0,,tanjung jabung timur utc+07:00,3
+96,99,5,2,2,tebo,,,,,,utc+07:00,37259,37573.0,,tebo utc+07:00,3
+97,99,22,2,2,bandung,,,,,,utc+07:00,40191,40973.0,,bandung utc+07:00,3
+98,99,22,3,2,bandung,,,,,,utc+07:00,40111,40614.0,,bandung utc+07:00,3
+99,99,22,2,2,bandung barat,,,,,,utc+07:00,40391,40566.0,,bandung barat utc+07:00,0
+100,99,22,3,2,banjar,,,,,,utc+07:00,46311,46331.0,,banjar utc+07:00,3
+101,99,22,2,2,bekasi,,,,,,utc+07:00,17211,17730.0,,bekasi utc+07:00,3
+102,99,22,3,2,bekasi,,,,,,utc+07:00,17111,17432.0,,bekasi utc+07:00,3
+103,99,22,2,2,bogor,,,,,,utc+07:00,16110,16960.0,,bogor utc+07:00,3
+104,99,22,3,2,bogor,,,,,,utc+07:00,16111,16161.0,,bogor utc+07:00,3
+105,99,22,2,2,ciamis,,,,,,utc+07:00,46211,46388.0,,ciamis utc+07:00,3
+106,99,22,2,2,cianjur,,,,,,utc+07:00,43215,43292.0,,cianjur utc+07:00,3
+107,99,22,3,2,cimahi,,,,,,utc+07:00,40511,40531.0,,cimahi utc+07:00,3
+108,99,22,2,2,cirebon,,,,,,utc+07:00,45151,45652.0,,cirebon utc+07:00,3
+109,99,22,3,2,cirebon,,,,,,utc+07:00,45111,45141.0,,cirebon utc+07:00,3
+110,99,22,3,2,depok,,,,,,utc+07:00,16411,16512.0,,depok utc+07:00,3
+111,99,22,2,2,garut,,,,,,utc+07:00,44111,44193.0,,garut utc+07:00,3
+112,99,22,2,2,indramayu,,,,,,utc+07:00,45211,45365.0,,indramayu utc+07:00,3
+113,99,22,2,2,karawang,,,,,,utc+07:00,41311,41385.0,,karawang utc+07:00,3
+114,99,22,2,2,kuningan,,,,,,utc+07:00,45511,45595.0,,kuningan utc+07:00,3
+115,99,22,2,2,majalengka,,,,,,utc+07:00,45411,45476.0,,majalengka utc+07:00,3
+116,99,22,2,2,pangandaran,,,,,,utc+07:00,46267,46397.0,,pangandaran utc+07:00,3
+117,99,22,2,2,purwakarta,,,,,,utc+07:00,41111,41181.0,,purwakarta utc+07:00,3
+118,99,22,2,2,subang,,,,,,utc+07:00,41211,41286.0,,subang utc+07:00,3
+119,99,22,2,2,sukabumi,,,,,,utc+07:00,43132,43368.0,,sukabumi utc+07:00,3
+120,99,22,3,2,sukabumi,,,,,,utc+07:00,43111,43161.0,,sukabumi utc+07:00,3
+121,99,22,2,2,sumedang,,,,,,utc+07:00,45311,45393.0,,sumedang utc+07:00,3
+122,99,22,2,2,tasikmalaya,,,,,,utc+07:00,46153,46475.0,,tasikmalaya utc+07:00,3
+123,99,22,3,2,tasikmalaya,,,,,,utc+07:00,46111,46196.0,,tasikmalaya utc+07:00,3
+124,99,9,2,2,bengkayang,,,,,,utc+07:00,79181,79286.0,,bengkayang utc+07:00,3
+125,99,9,2,2,kapuas hulu,,,,,,utc+07:00,78711,78775.0,,kapuas hulu utc+07:00,3
+126,99,9,2,2,kayong utara,,,,,,utc+07:00,78852,78857.0,,kayong utara utc+07:00,3
+127,99,9,2,2,ketapang,,,,,,utc+07:00,78811,78876.0,,ketapang utc+07:00,3
+128,99,9,2,2,kubu raya,,,,,,utc+07:00,78234,78393.0,,kubu raya utc+07:00,3
+129,99,9,2,2,landak,,,,,,utc+07:00,79355,79367.0,,landak utc+07:00,3
+130,99,9,2,2,melawi,,,,,,utc+07:00,79671,79682.0,,melawi utc+07:00,3
+131,99,9,2,2,pontianak,,,,,,utc+07:00,78351,78915.0,,pontianak utc+07:00,3
+132,99,9,3,2,pontianak,,,,,,utc+07:00,78111,78241.0,,pontianak utc+07:00,3
+133,99,9,2,2,sambas,,,,,,utc+07:00,79154,79467.0,,sambas utc+07:00,3
+134,99,9,2,2,sanggau,,,,,,utc+07:00,78511,78591.0,,sanggau utc+07:00,3
+135,99,9,2,2,sekadau,,,,,,utc+07:00,79511,79588.0,,sekadau utc+07:00,3
+136,99,9,3,2,singkawang,,,,,,utc+07:00,79111,79251.0,,singkawang utc+07:00,3
+137,99,9,2,2,sintang,,,,,,utc+07:00,78611,78694.0,,sintang utc+07:00,3
+138,99,6,2,2,banjarnegara,,,,,,utc+07:00,53411,53482.0,,banjarnegara utc+07:00,3
+139,99,6,2,2,banyumas,,,,,,utc+07:00,53111,53196.0,,banyumas utc+07:00,3
+140,99,6,2,2,batang,,,,,,utc+07:00,51211,51281.0,,batang utc+07:00,3
+141,99,6,2,2,blora,,,,,,utc+07:00,58211,58384.0,,blora utc+07:00,3
+142,99,6,2,2,boyolali,,,,,,utc+07:00,57311,57391.0,,boyolali utc+07:00,3
+143,99,6,2,2,brebes,,,,,,utc+07:00,52211,52276.0,,brebes utc+07:00,3
+144,99,6,2,2,cilacap,,,,,,utc+07:00,53211,53283.0,,cilacap utc+07:00,3
+145,99,6,2,2,demak,,,,,,utc+07:00,59511,59583.0,,demak utc+07:00,3
+146,99,6,2,2,grobogan,,,,,,utc+07:00,58111,58193.0,,grobogan utc+07:00,3
+147,99,6,2,2,jepara,,,,,,utc+07:00,59411,59466.0,,jepara utc+07:00,3
+148,99,6,2,2,karanganyar,,,,,,utc+07:00,57171,57794.0,,karanganyar utc+07:00,3
+149,99,6,2,2,kebumen,,,,,,utc+07:00,54311,54474.0,,kebumen utc+07:00,3
+150,99,6,2,2,kendal,,,,,,utc+07:00,51311,51383.0,,kendal utc+07:00,3
+151,99,6,2,2,klaten,,,,,,utc+07:00,57411,57486.0,,klaten utc+07:00,3
+152,99,6,2,2,kudus,,,,,,utc+07:00,59311,59382.0,,kudus utc+07:00,3
+153,99,6,2,2,magelang,,,,,,utc+07:00,56126,56511.0,,magelang utc+07:00,3
+154,99,6,3,2,magelang,,,,,,utc+07:00,56111,56127.0,,magelang utc+07:00,3
+155,99,6,2,2,pati,,,,,,utc+07:00,59111,59186.0,,pati utc+07:00,3
+156,99,6,2,2,pekalongan,,,,,,utc+07:00,51127,51193.0,,pekalongan utc+07:00,3
+157,99,6,3,2,pekalongan,,,,,,utc+07:00,51111,51151.0,,pekalongan utc+07:00,3
+158,99,6,2,2,pemalang,,,,,,utc+07:00,52311,52371.0,,pemalang utc+07:00,3
+159,99,6,2,2,purbalingga,,,,,,utc+07:00,53311,53393.0,,purbalingga utc+07:00,3
+160,99,6,2,2,purworejo,,,,,,utc+07:00,54112,54265.0,,purworejo utc+07:00,3
+161,99,6,2,2,rembang,,,,,,utc+07:00,59211,59274.0,,rembang utc+07:00,3
+162,99,6,3,2,salatiga,,,,,,utc+07:00,50711,50741.0,,salatiga utc+07:00,3
+163,99,6,2,2,semarang,,,,,,utc+07:00,50123,50777.0,,semarang utc+07:00,3
+164,99,6,3,2,semarang,,,,,,utc+07:00,50111,50271.0,,semarang utc+07:00,3
+165,99,6,2,2,sragen,,,,,,utc+07:00,57211,57293.0,,sragen utc+07:00,3
+166,99,6,2,2,sukoharjo,,,,,,utc+07:00,57161,57571.0,,sukoharjo utc+07:00,3
+167,99,6,3,2,surakarta (solo),,,,,,utc+07:00,57116,57199.0,,surakarta (solo) utc+07:00,3
+168,99,6,2,2,tegal,,,,,,utc+07:00,52121,52473.0,,tegal utc+07:00,3
+169,99,6,3,2,tegal,,,,,,utc+07:00,52111,52141.0,,tegal utc+07:00,3
+170,99,6,2,2,temanggung,,,,,,utc+07:00,56211,56283.0,,temanggung utc+07:00,3
+171,99,6,2,2,wonogiri,,,,,,utc+07:00,57611,57698.0,,wonogiri utc+07:00,3
+172,99,6,2,2,wonosobo,,,,,,utc+07:00,56311,56374.0,,wonosobo utc+07:00,3
+173,99,7,2,2,bangkalan,,,,,,utc+07:00,69112,69175.0,,bangkalan utc+07:00,3
+174,99,7,2,2,banyuwangi,,,,,,utc+07:00,68411,68488.0,,banyuwangi utc+07:00,3
+175,99,7,3,2,batu,,,,,,utc+07:00,65311,65331.0,,batu utc+07:00,3
+176,99,7,2,2,blitar,,,,,,utc+07:00,66151,66194.0,,blitar utc+07:00,3
+177,99,7,3,2,blitar,,,,,,utc+07:00,66113,66133.0,,blitar utc+07:00,3
+178,99,7,2,2,bojonegoro,,,,,,utc+07:00,62111,62195.0,,bojonegoro utc+07:00,3
+179,99,7,2,2,bondowoso,,,,,,utc+07:00,68211,68291.0,,bondowoso utc+07:00,3
+180,99,7,2,2,gresik,,,,,,utc+07:00,61111,61182.0,,gresik utc+07:00,3
+181,99,7,2,2,jember,,,,,,utc+07:00,68111,68196.0,,jember utc+07:00,3
+182,99,7,2,2,jombang,,,,,,utc+07:00,61411,61485.0,,jombang utc+07:00,3
+183,99,7,2,2,kediri,,,,,,utc+07:00,64113,64294.0,,kediri utc+07:00,3
+184,99,7,3,2,kediri,,,,,,utc+07:00,64111,64131.0,,kediri utc+07:00,3
+185,99,7,2,2,lamongan,,,,,,utc+07:00,62211,62293.0,,lamongan utc+07:00,3
+186,99,7,2,2,lumajang,,,,,,utc+07:00,67311,67383.0,,lumajang utc+07:00,3
+187,99,7,2,2,madiun,,,,,,utc+07:00,63112,63182.0,,madiun utc+07:00,3
+188,99,7,3,2,madiun,,,,,,utc+07:00,63111,63131.0,,madiun utc+07:00,3
+189,99,7,2,2,magetan,,,,,,utc+07:00,63137,63395.0,,magetan utc+07:00,3
+190,99,7,2,2,malang,,,,,,utc+07:00,65151,65393.0,,malang utc+07:00,3
+191,99,7,3,2,malang,,,,,,utc+07:00,65111,65146.0,,malang utc+07:00,3
+192,99,7,2,2,mojokerto,,,,,,utc+07:00,61351,61385.0,,mojokerto utc+07:00,3
+193,99,7,3,2,mojokerto,,,,,,utc+07:00,61311,61321.0,,mojokerto utc+07:00,3
+194,99,7,2,2,nganjuk,,,,,,utc+07:00,64311,64484.0,,nganjuk utc+07:00,3
+195,99,7,2,2,ngawi,,,,,,utc+07:00,63211,63285.0,,ngawi utc+07:00,3
+196,99,7,2,2,pacitan,,,,,,utc+07:00,63511,63584.0,,pacitan utc+07:00,3
+197,99,7,2,2,pamekasan,,,,,,utc+07:00,69311,69383.0,,pamekasan utc+07:00,3
+198,99,7,2,2,pasuruan,,,,,,utc+07:00,67151,67186.0,,pasuruan utc+07:00,3
+199,99,7,3,2,pasuruan,,,,,,utc+07:00,67111,67171.0,,pasuruan utc+07:00,3
+200,99,7,2,2,ponorogo,,,,,,utc+07:00,63411,63493.0,,ponorogo utc+07:00,3
+201,99,7,2,2,probolinggo,,,,,,utc+07:00,67251,67293.0,,probolinggo utc+07:00,3
+202,99,7,3,2,probolinggo,,,,,,utc+07:00,67211,67231.0,,probolinggo utc+07:00,3
+203,99,7,2,2,sampang,,,,,,utc+07:00,69212,69291.0,,sampang utc+07:00,3
+204,99,7,2,2,sidoarjo,,,,,,utc+07:00,61212,61276.0,,sidoarjo utc+07:00,3
+205,99,7,2,2,situbondo,,,,,,utc+07:00,68311,68374.0,,situbondo utc+07:00,3
+206,99,7,2,2,sumenep,,,,,,utc+07:00,69412,69493.0,,sumenep utc+07:00,3
+207,99,7,3,2,surabaya,,,,,,utc+07:00,60111,60293.0,,surabaya utc+07:00,3
+208,99,7,2,2,trenggalek,,,,,,utc+07:00,66311,66382.0,,trenggalek utc+07:00,3
+209,99,7,2,2,tuban,,,,,,utc+07:00,62311,62391.0,,tuban utc+07:00,3
+210,99,7,2,2,tulungagung,,,,,,utc+07:00,66212,66293.0,,tulungagung utc+07:00,3
+211,99,10,2,2,balangan,,,,,,utc+08:00,71611,71666.0,,balangan utc+08:00,4
+212,99,10,2,2,banjar,,,,,,utc+08:00,70611,71213.0,,banjar utc+08:00,4
+213,99,10,3,2,banjarbaru,,,,,,utc+08:00,70713,70731.0,,banjarbaru utc+08:00,4
+214,99,10,3,2,banjarmasin,,,,,,utc+08:00,70111,70241.0,,banjarmasin utc+08:00,4
+215,99,10,2,2,barito kuala,,,,,,utc+08:00,70511,70582.0,,barito kuala utc+08:00,4
+216,99,10,2,2,hulu sungai selatan,,,,,,utc+08:00,71211,71292.0,,hulu sungai selatan utc+08:00,4
+217,99,10,2,2,hulu sungai tengah,,,,,,utc+08:00,71311,71391.0,,hulu sungai tengah utc+08:00,4
+218,99,10,2,2,hulu sungai utara,,,,,,utc+08:00,71412,71471.0,,hulu sungai utara utc+08:00,4
+219,99,10,2,2,kotabaru,,,,,,utc+08:00,72111,72181.0,,kotabaru utc+08:00,4
+220,99,10,2,2,tabalong,,,,,,utc+08:00,71512,71575.0,,tabalong utc+08:00,4
+221,99,10,2,2,tanah bumbu,,,,,,utc+08:00,72211,72275.0,,tanah bumbu utc+08:00,4
+222,99,10,2,2,tanah laut,,,,,,utc+08:00,70812,70883.0,,tanah laut utc+08:00,4
+223,99,10,2,2,tapin,,,,,,utc+08:00,71111,71191.0,,tapin utc+08:00,4
+224,99,11,2,2,barito selatan,,,,,,utc+07:00,73711,73763.0,,barito selatan utc+07:00,3
+225,99,11,2,2,barito timur,,,,,,utc+07:00,73612,73681.0,,barito timur utc+07:00,3
+226,99,11,2,2,barito utara,,,,,,utc+07:00,73811,73881.0,,barito utara utc+07:00,3
+227,99,11,2,2,gunung mas,,,,,,utc+07:00,74511,74571.0,,gunung mas utc+07:00,3
+228,99,11,2,2,kapuas,,,,,,utc+07:00,73511,74581.0,,kapuas utc+07:00,3
+229,99,11,2,2,katingan,,,,,,utc+07:00,74413,74463.0,,katingan utc+07:00,3
+230,99,11,2,2,kotawaringin barat,,,,,,utc+07:00,74111,74184.0,,kotawaringin barat utc+07:00,0
+231,99,11,2,2,kotawaringin timur,,,,,,utc+07:00,74311,74363.0,,kotawaringin timur utc+07:00,3
+232,99,11,2,2,lamandau,,,,,,utc+07:00,74162,74664.0,,lamandau utc+07:00,3
+233,99,11,2,2,murung raya,,,,,,utc+07:00,73911,73991.0,,murung raya utc+07:00,3
+234,99,11,3,2,palangka raya,,,,,,utc+07:00,73111,73227.0,,palangka raya utc+07:00,3
+235,99,11,2,2,pulang pisau,,,,,,utc+07:00,74811,74874.0,,pulang pisau utc+07:00,3
+236,99,11,2,2,seruyan,,,,,,utc+07:00,74213,74291.0,,seruyan utc+07:00,3
+237,99,11,2,2,sukamara,,,,,,utc+07:00,74171,74173.0,,sukamara utc+07:00,3
+238,99,12,3,2,balikpapan,,,,,,utc+08:00,76111,76131.0,,balikpapan utc+08:00,4
+239,99,12,2,2,berau,,,,,,utc+08:00,77311,77381.0,,berau utc+08:00,4
+240,99,12,3,2,bontang,,,,,,utc+08:00,75311,75321.0,,bontang utc+08:00,4
+241,99,12,2,2,kutai barat,,,,,,utc+08:00,75576,75779.0,,kutai barat utc+08:00,0
+242,99,12,2,2,kutai kartanegara,,,,,,utc+08:00,75251,75572.0,,kutai kartanegara utc+08:00,4
+243,99,12,2,2,kutai timur,,,,,,utc+08:00,75555,75685.0,,kutai timur utc+08:00,4
+244,99,12,2,2,mahakam ulu,,,,,,utc+08:00,75767,75779.0,,mahakam ulu utc+08:00,4
+245,99,12,2,2,paser,,,,,,utc+08:00,76251,76283.0,,paser utc+08:00,4
+246,99,12,2,2,penajam paser utara,,,,,,utc+08:00,76141,76285.0,,penajam paser utara utc+08:00,4
+247,99,12,3,2,samarinda,,,,,,utc+08:00,75111,75241.0,,samarinda utc+08:00,4
+248,99,34,2,2,bulungan (bulongan),,,,,,utc+08:00,77211,77281.0,,bulungan (bulongan) utc+08:00,4
+249,99,34,2,2,malinau,,,,,,utc+08:00,77155,77573.0,,malinau utc+08:00,4
+250,99,34,2,2,nunukan,,,,,,utc+08:00,77453,77483.0,,nunukan utc+08:00,4
+251,99,34,2,2,tana tidung,,,,,,utc+08:00,77152,77453.0,,tana tidung utc+08:00,4
+252,99,34,3,2,tarakan,,,,,,utc+08:00,77111,77116.0,,tarakan utc+08:00,4
+253,99,32,3,2,batam,,,,,,utc+07:00,29411,29481.0,,batam utc+07:00,3
+254,99,32,2,2,bintan,,,,,,utc+07:00,29132,29193.0,,bintan utc+07:00,3
+255,99,32,2,2,karimun,,,,,,utc+07:00,29661,29664.0,,karimun utc+07:00,3
+256,99,32,2,2,kepulauan anambas,,,,,,utc+07:00,29783,29792.0,,kepulauan anambas utc+07:00,1
+257,99,32,2,2,lingga,,,,,,utc+07:00,29871,29875.0,,lingga utc+07:00,3
+258,99,32,2,2,natuna,,,,,,utc+07:00,29781,29784.0,,natuna utc+07:00,3
+259,99,32,3,2,tanjung pinang,,,,,,utc+07:00,29111,29122.0,,tanjung pinang utc+07:00,3
+260,99,13,3,2,bandar lampung,,,,,,utc+07:00,35111,35241.0,,bandar lampung utc+07:00,3
+261,99,13,2,2,lampung barat,,,,,,utc+07:00,34811,34885.0,,lampung barat utc+07:00,0
+262,99,13,2,2,lampung selatan,,,,,,utc+07:00,35353,35597.0,,lampung selatan utc+07:00,3
+263,99,13,2,2,lampung tengah,,,,,,utc+07:00,34152,35513.0,,lampung tengah utc+07:00,3
+264,99,13,2,2,lampung timur,,,,,,utc+07:00,34182,34396.0,,lampung timur utc+07:00,3
+265,99,13,2,2,lampung utara,,,,,,utc+07:00,34511,34583.0,,lampung utara utc+07:00,3
+266,99,13,2,2,mesuji,,,,,,utc+07:00,34598,34698.0,,mesuji utc+07:00,3
+267,99,13,3,2,metro,,,,,,utc+07:00,34111,34119.0,,metro utc+07:00,3
+268,99,13,2,2,pesawaran,,,,,,utc+07:00,35353,35453.0,,pesawaran utc+07:00,3
+269,99,13,2,2,pesisir barat,,,,,,utc+07:00,34871,34883.0,,pesisir barat utc+07:00,0
+270,99,13,2,2,pringsewu,,,,,,utc+07:00,35372,35682.0,,pringsewu utc+07:00,3
+271,99,13,2,2,tanggamus,,,,,,utc+07:00,35374,35686.0,,tanggamus utc+07:00,3
+272,99,13,2,2,tulang bawang,,,,,,utc+07:00,34595,34682.0,,tulang bawang utc+07:00,3
+273,99,13,2,2,tulang bawang barat,,,,,,utc+07:00,34388,34693.0,,tulang bawang barat utc+07:00,0
+274,99,13,2,2,way kanan,,,,,,utc+07:00,34761,34769.0,,way kanan utc+07:00,3
+275,99,20,3,2,ambon,,,,,,utc+09:00,97114,97233.0,,ambon utc+09:00,2
+276,99,20,2,2,buru,,,,,,utc+09:00,97571,97574.0,,buru utc+09:00,2
+277,99,20,2,2,buru selatan,,,,,,utc+09:00,97512,97574.0,,buru selatan utc+09:00,2
+278,99,20,2,2,kepulauan aru,,,,,,utc+09:00,97662,97666.0,,kepulauan aru utc+09:00,1
+279,99,20,2,2,maluku barat daya,,,,,,utc+09:00,97128,97652.0,,maluku barat daya utc+09:00,0
+280,99,20,2,2,maluku tengah,,,,,,utc+09:00,97511,97593.0,,maluku tengah utc+09:00,2
+281,99,20,2,2,maluku tenggara,,,,,,utc+09:00,97611,97661.0,,maluku tenggara utc+09:00,2
+282,99,20,2,2,maluku tenggara barat,,,,,,utc+09:00,97453,97464.0,,maluku tenggara barat utc+09:00,0
+283,99,20,2,2,seram bagian barat,,,,,,utc+09:00,97561,97567.0,,seram bagian barat utc+09:00,0
+284,99,20,2,2,seram bagian timur,,,,,,utc+09:00,97554,97599.0,,seram bagian timur utc+09:00,2
+285,99,20,3,2,tual,,,,,,utc+09:00,97611,97652.0,,tual utc+09:00,2
+286,99,21,2,2,halmahera barat,,,,,,utc+09:00,97752,97755.0,,halmahera barat utc+09:00,0
+287,99,21,2,2,halmahera selatan,,,,,,utc+09:00,97756,97792.0,,halmahera selatan utc+09:00,2
+288,99,21,2,2,halmahera tengah,,,,,,utc+09:00,97853,97854.0,,halmahera tengah utc+09:00,2
+289,99,21,2,2,halmahera timur,,,,,,utc+09:00,97862,97863.0,,halmahera timur utc+09:00,2
+290,99,21,2,2,halmahera utara,,,,,,utc+09:00,97752,97764.0,,halmahera utara utc+09:00,2
+291,99,21,2,2,kepulauan sula,,,,,,utc+09:00,97792,97795.0,,kepulauan sula utc+09:00,1
+292,99,21,2,2,pulau morotai,,,,,,utc+09:00,97771,97777.0,,pulau morotai utc+09:00,2
+293,99,21,2,2,pulau taliabu,,,,,,utc+09:00,97793,97794.0,,pulau taliabu utc+09:00,2
+294,99,21,3,2,ternate,,,,,,utc+09:00,97711,97751.0,,ternate utc+09:00,2
+295,99,21,3,2,tidore kepulauan,,,,,,utc+09:00,97811,97852.0,,tidore kepulauan utc+09:00,1
+296,99,1,2,2,aceh barat,,,,,,utc+07:00,23615,23682.0,,aceh barat utc+07:00,0
+297,99,1,2,2,aceh barat daya,,,,,,utc+07:00,23762,23767.0,,aceh barat daya utc+07:00,0
+298,99,1,2,2,aceh besar,,,,,,utc+07:00,23351,23952.0,,aceh besar utc+07:00,3
+299,99,1,2,2,aceh jaya,,,,,,utc+07:00,23653,23657.0,,aceh jaya utc+07:00,3
+300,99,1,2,2,aceh selatan,,,,,,utc+07:00,23711,23774.0,,aceh selatan utc+07:00,3
+301,99,1,2,2,aceh singkil,,,,,,utc+07:00,24783,24791.0,,aceh singkil utc+07:00,3
+302,99,1,2,2,aceh tamiang,,,,,,utc+07:00,24471,24478.0,,aceh tamiang utc+07:00,3
+303,99,1,2,2,aceh tengah,,,,,,utc+07:00,24511,24571.0,,aceh tengah utc+07:00,3
+304,99,1,2,2,aceh tenggara,,,,,,utc+07:00,24651,24678.0,,aceh tenggara utc+07:00,3
+305,99,1,2,2,aceh timur,,,,,,utc+07:00,24452,24461.0,,aceh timur utc+07:00,3
+306,99,1,2,2,aceh utara,,,,,,utc+07:00,24313,24394.0,,aceh utara utc+07:00,3
+307,99,1,3,2,banda aceh,,,,,,utc+07:00,23111,23244.0,,banda aceh utc+07:00,3
+308,99,1,2,2,bener meriah,,,,,,utc+07:00,24553,24582.0,,bener meriah utc+07:00,3
+309,99,1,2,2,bireuen,,,,,,utc+07:00,24251,24357.0,,bireuen utc+07:00,3
+310,99,1,2,2,gayo lues,,,,,,utc+07:00,24653,24656.0,,gayo lues utc+07:00,3
+311,99,1,3,2,langsa,,,,,,utc+07:00,24410,24415.0,,langsa utc+07:00,3
+312,99,1,3,2,lhokseumawe,,,,,,utc+07:00,24315,24375.0,,lhokseumawe utc+07:00,3
+313,99,1,2,2,nagan raya,,,,,,utc+07:00,23661,23672.0,,nagan raya utc+07:00,3
+314,99,1,2,2,pidie,,,,,,utc+07:00,24115,24186.0,,pidie utc+07:00,3
+315,99,1,2,2,pidie jaya,,,,,,utc+07:00,24184,24188.0,,pidie jaya utc+07:00,3
+316,99,1,3,2,sabang,,,,,,utc+07:00,23517,23521.0,,sabang utc+07:00,3
+317,99,1,2,2,simeulue,,,,,,utc+07:00,23891,23894.0,,simeulue utc+07:00,3
+318,99,1,3,2,subulussalam,,,,,,utc+07:00,24782,24786.0,,subulussalam utc+07:00,3
+319,99,14,2,2,bima,,,,,,utc+08:00,84111,84191.0,,bima utc+08:00,4
+320,99,14,3,2,bima,,,,,,utc+08:00,84111,84119.0,,bima utc+08:00,4
+321,99,14,2,2,dompu,,,,,,utc+08:00,84211,84272.0,,dompu utc+08:00,4
+322,99,14,2,2,lombok barat,,,,,,utc+08:00,83351,83371.0,,lombok barat utc+08:00,0
+323,99,14,2,2,lombok tengah,,,,,,utc+08:00,83511,83581.0,,lombok tengah utc+08:00,4
+324,99,14,2,2,lombok timur,,,,,,utc+08:00,83611,83672.0,,lombok timur utc+08:00,4
+325,99,14,2,2,lombok utara,,,,,,utc+08:00,83352,83354.0,,lombok utara utc+08:00,4
+326,99,14,3,2,mataram,,,,,,utc+08:00,83115,83238.0,,mataram utc+08:00,4
+327,99,14,2,2,sumbawa,,,,,,utc+08:00,84311,84384.0,,sumbawa utc+08:00,4
+328,99,14,2,2,sumbawa barat,,,,,,utc+08:00,84454,84458.0,,sumbawa barat utc+08:00,0
+329,99,15,2,2,alor,,,,,,utc+08:00,85811,85881.0,,alor utc+08:00,4
+330,99,15,2,2,belu,,,,,,utc+08:00,85711,85773.0,,belu utc+08:00,4
+331,99,15,2,2,ende,,,,,,utc+08:00,86111,86382.0,,ende utc+08:00,4
+332,99,15,2,2,flores timur,,,,,,utc+08:00,86211,86272.0,,flores timur utc+08:00,4
+333,99,15,2,2,kupang,,,,,,utc+08:00,85223,85391.0,,kupang utc+08:00,4
+334,99,15,3,2,kupang,,,,,,utc+08:00,85111,85231.0,,kupang utc+08:00,4
+335,99,15,2,2,lembata,,,,,,utc+08:00,86616,86692.0,,lembata utc+08:00,4
+336,99,15,2,2,malaka,,,,,,utc+08:00,85718,85766.0,,malaka utc+08:00,4
+337,99,15,2,2,manggarai,,,,,,utc+08:00,86511,86592.0,,manggarai utc+08:00,4
+338,99,15,2,2,manggarai barat,,,,,,utc+08:00,86752,86757.0,,manggarai barat utc+08:00,0
+339,99,15,2,2,manggarai timur,,,,,,utc+08:00,86571,86584.0,,manggarai timur utc+08:00,4
+340,99,15,2,2,nagekeo,,,,,,utc+08:00,86462,86472.0,,nagekeo utc+08:00,4
+341,99,15,2,2,ngada,,,,,,utc+08:00,86411,86461.0,,ngada utc+08:00,4
+342,99,15,2,2,rote ndao,,,,,,utc+08:00,85912,85982.0,,rote ndao utc+08:00,4
+343,99,15,2,2,sabu raijua,,,,,,utc+08:00,85391,85393.0,,sabu raijua utc+08:00,4
+344,99,15,2,2,sikka,,,,,,utc+08:00,86111,86215.0,,sikka utc+08:00,4
+345,99,15,2,2,sumba barat,,,,,,utc+08:00,87211,87284.0,,sumba barat utc+08:00,0
+346,99,15,2,2,sumba barat daya,,,,,,utc+08:00,87252,87263.0,,sumba barat daya utc+08:00,0
+347,99,15,2,2,sumba tengah,,,,,,utc+08:00,87258,87283.0,,sumba tengah utc+08:00,4
+348,99,15,2,2,sumba timur,,,,,,utc+08:00,87111,87182.0,,sumba timur utc+08:00,4
+349,99,15,2,2,timor tengah selatan,,,,,,utc+08:00,85511,85575.0,,timor tengah selatan utc+08:00,4
+350,99,15,2,2,timor tengah utara,,,,,,utc+08:00,85611,85682.0,,timor tengah utara utc+08:00,4
+351,99,28,2,2,asmat,,,,,,utc+09:00,99766,99782.0,,asmat utc+09:00,2
+352,99,28,2,2,biak numfor,,,,,,utc+09:00,98111,98172.0,,biak numfor utc+09:00,2
+353,99,28,2,2,boven digoel,,,,,,utc+09:00,99661,99665.0,,boven digoel utc+09:00,2
+354,99,28,2,2,deiyai (deliyai),,,,,,utc+09:00,98724,98781.0,,deiyai (deliyai) utc+09:00,2
+355,99,28,2,2,dogiyai,,,,,,utc+09:00,98854,98863.0,,dogiyai utc+09:00,2
+356,99,28,2,2,intan jaya,,,,,,utc+09:00,98767,98784.0,,intan jaya utc+09:00,2
+357,99,28,2,2,jayapura,,,,,,utc+09:00,99352,99364.0,,jayapura utc+09:00,2
+358,99,28,3,2,jayapura,,,,,,utc+09:00,99111,99351.0,,jayapura utc+09:00,2
+359,99,28,2,2,jayawijaya,,,,,,utc+09:00,99511,99566.0,,jayawijaya utc+09:00,2
+360,99,28,2,2,keerom,,,,,,utc+09:00,99465,99469.0,,keerom utc+09:00,2
+361,99,28,2,2,kepulauan yapen (yapen waropen),,,,,,utc+09:00,98211,98255.0,,kepulauan yapen (yapen waropen) utc+09:00,1
+362,99,28,2,2,lanny jaya,,,,,,utc+09:00,99555,99567.0,,lanny jaya utc+09:00,2
+363,99,28,2,2,mamberamo raya,,,,,,utc+09:00,98262,99377.0,,mamberamo raya utc+09:00,2
+364,99,28,2,2,mamberamo tengah,,,,,,utc+09:00,99553,99558.0,,mamberamo tengah utc+09:00,2
+365,99,28,2,2,mappi,,,,,,utc+09:00,99853,99881.0,,mappi utc+09:00,2
+366,99,28,2,2,merauke,,,,,,utc+09:00,99611,99656.0,,merauke utc+09:00,2
+367,99,28,2,2,mimika,,,,,,utc+09:00,99910,99974.0,,mimika utc+09:00,2
+368,99,28,2,2,nabire,,,,,,utc+09:00,98811,98861.0,,nabire utc+09:00,2
+369,99,28,2,2,nduga,,,,,,utc+09:00,99564,99565.0,,nduga utc+09:00,2
+370,99,28,2,2,paniai,,,,,,utc+09:00,98711,98782.0,,paniai utc+09:00,2
+371,99,28,2,2,pegunungan bintang,,,,,,utc+09:00,99572,99577.0,,pegunungan bintang utc+09:00,2
+372,99,28,2,2,puncak,,,,,,utc+09:00,98971,98976.0,,puncak utc+09:00,2
+373,99,28,2,2,puncak jaya,,,,,,utc+09:00,98911,98918.0,,puncak jaya utc+09:00,2
+374,99,28,2,2,sarmi,,,,,,utc+09:00,99355,99374.0,,sarmi utc+09:00,2
+375,99,28,2,2,supiori,,,,,,utc+09:00,98161,98162.0,,supiori utc+09:00,2
+376,99,28,2,2,tolikara,,,,,,utc+09:00,99561,99569.0,,tolikara utc+09:00,2
+377,99,28,2,2,waropen,,,,,,utc+09:00,98261,98263.0,,waropen utc+09:00,2
+378,99,28,2,2,yahukimo,,,,,,utc+09:00,99571,99582.0,,yahukimo utc+09:00,2
+379,99,28,2,2,yalimo,,,,,,utc+09:00,99583,99587.0,,yalimo utc+09:00,2
+380,99,31,2,2,fakfak,,,,,,utc+09:00,98611,98662.0,,fakfak utc+09:00,2
+381,99,31,2,2,kaimana,,,,,,utc+09:00,98653,98656.0,,kaimana utc+09:00,2
+382,99,31,2,2,manokwari,,,,,,utc+09:00,98311,98357.0,,manokwari utc+09:00,2
+383,99,31,2,2,manokwari selatan,,,,,,utc+09:00,98353,98359.0,,manokwari selatan utc+09:00,2
+384,99,31,2,2,maybrat,,,,,,utc+09:00,98461,98463.0,,maybrat utc+09:00,2
+385,99,31,2,2,pegunungan arfak,,,,,,utc+09:00,98315,98359.0,,pegunungan arfak utc+09:00,2
+386,99,31,2,2,raja ampat,,,,,,utc+09:00,98481,98484.0,,raja ampat utc+09:00,2
+387,99,31,2,2,sorong,,,,,,utc+09:00,98451,98471.0,,sorong utc+09:00,2
+388,99,31,3,2,sorong,,,,,,utc+09:00,98411,98416.0,,sorong utc+09:00,2
+389,99,31,2,2,sorong selatan,,,,,,utc+09:00,98454,98456.0,,sorong selatan utc+09:00,2
+390,99,31,2,2,tambrauw,,,,,,utc+09:00,98371,98473.0,,tambrauw utc+09:00,2
+391,99,31,2,2,teluk bintuni,,,,,,utc+09:00,98363,98373.0,,teluk bintuni utc+09:00,2
+392,99,31,2,2,teluk wondama,,,,,,utc+09:00,98361,98362.0,,teluk wondama utc+09:00,2
+393,99,29,2,2,bengkalis,,,,,,utc+07:00,28711,28784.0,,bengkalis utc+07:00,3
+394,99,29,3,2,dumai,,,,,,utc+07:00,28811,28882.0,,dumai utc+07:00,3
+395,99,29,2,2,indragiri hilir,,,,,,utc+07:00,29211,29282.0,,indragiri hilir utc+07:00,3
+396,99,29,2,2,indragiri hulu,,,,,,utc+07:00,29311,29371.0,,indragiri hulu utc+07:00,3
+397,99,29,2,2,kampar,,,,,,utc+07:00,28411,28471.0,,kampar utc+07:00,3
+398,99,29,2,2,kepulauan meranti,,,,,,utc+07:00,28752,28755.0,,kepulauan meranti utc+07:00,1
+399,99,29,2,2,kuantan singingi,,,,,,utc+07:00,29511,29566.0,,kuantan singingi utc+07:00,3
+400,99,29,3,2,pekanbaru,,,,,,utc+07:00,28111,28292.0,,pekanbaru utc+07:00,3
+401,99,29,2,2,pelalawan,,,,,,utc+07:00,28353,28384.0,,pelalawan utc+07:00,3
+402,99,29,2,2,rokan hilir,,,,,,utc+07:00,28911,28992.0,,rokan hilir utc+07:00,3
+403,99,29,2,2,rokan hulu,,,,,,utc+07:00,28554,28565.0,,rokan hulu utc+07:00,3
+404,99,29,2,2,siak,,,,,,utc+07:00,28654,28773.0,,siak utc+07:00,3
+405,99,33,2,2,majene,,,,,,utc+08:00,91411,91453.0,,majene utc+08:00,4
+406,99,33,2,2,mamasa,,,,,,utc+08:00,91361,91373.0,,mamasa utc+08:00,4
+407,99,33,2,2,mamuju,,,,,,utc+08:00,91352,91563.0,,mamuju utc+08:00,4
+408,99,33,2,2,mamuju tengah,,,,,,utc+08:00,91512,91563.0,,mamuju tengah utc+08:00,4
+409,99,33,2,2,mamuju utara,,,,,,utc+08:00,91512,91574.0,,mamuju utara utc+08:00,4
+410,99,33,2,2,polewali mandar,,,,,,utc+08:00,91311,96365.0,,polewali mandar utc+08:00,4
+411,99,24,2,2,bantaeng,,,,,,utc+08:00,92411,92461.0,,bantaeng utc+08:00,4
+412,99,24,2,2,barru,,,,,,utc+08:00,90711,90762.0,,barru utc+08:00,4
+413,99,24,2,2,bone,,,,,,utc+08:00,90225,92781.0,,bone utc+08:00,4
+414,99,24,2,2,bulukumba,,,,,,utc+08:00,92511,92661.0,,bulukumba utc+08:00,4
+415,99,24,2,2,enrekang,,,,,,utc+08:00,91711,91761.0,,enrekang utc+08:00,4
+416,99,24,2,2,gowa,,,,,,utc+08:00,90225,92176.0,,gowa utc+08:00,4
+417,99,24,2,2,jeneponto,,,,,,utc+08:00,92311,92371.0,,jeneponto utc+08:00,4
+418,99,24,2,2,luwu,,,,,,utc+08:00,91921,91999.0,,luwu utc+08:00,4
+419,99,24,2,2,luwu timur,,,,,,utc+08:00,91981,92985.0,,luwu timur utc+08:00,4
+420,99,24,2,2,luwu utara,,,,,,utc+08:00,91854,92965.0,,luwu utara utc+08:00,4
+421,99,24,3,2,makassar,,,,,,utc+08:00,90111,90241.0,,makassar utc+08:00,4
+422,99,24,2,2,maros,,,,,,utc+08:00,90511,92754.0,,maros utc+08:00,4
+423,99,24,3,2,palopo,,,,,,utc+08:00,91911,91958.0,,palopo utc+08:00,4
+424,99,24,2,2,pangkajene kepulauan,,,,,,utc+08:00,90561,90673.0,,pangkajene kepulauan utc+08:00,1
+425,99,24,3,2,parepare,,,,,,utc+08:00,91111,91131.0,,parepare utc+08:00,4
+426,99,24,2,2,pinrang,,,,,,utc+08:00,91211,91272.0,,pinrang utc+08:00,4
+427,99,24,2,2,selayar (kepulauan selayar),,,,,,utc+08:00,92811,92863.0,,selayar (kepulauan selayar) utc+08:00,1
+428,99,24,2,2,sidenreng rappang/rapang,,,,,,utc+08:00,91611,91691.0,,sidenreng rappang/rapang utc+08:00,4
+429,99,24,2,2,sinjai,,,,,,utc+08:00,91671,92671.0,,sinjai utc+08:00,4
+430,99,24,2,2,soppeng,,,,,,utc+08:00,90811,90871.0,,soppeng utc+08:00,4
+431,99,24,2,2,takalar,,,,,,utc+08:00,92211,92261.0,,takalar utc+08:00,4
+432,99,24,2,2,tana toraja,,,,,,utc+08:00,91811,91881.0,,tana toraja utc+08:00,4
+433,99,24,2,2,toraja utara,,,,,,utc+08:00,91831,91862.0,,toraja utara utc+08:00,4
+434,99,24,2,2,wajo,,,,,,utc+08:00,90911,90993.0,,wajo utc+08:00,4
+435,99,16,2,2,banggai,,,,,,utc+08:00,94711,94773.0,,banggai utc+08:00,4
+436,99,16,2,2,banggai kepulauan,,,,,,utc+08:00,94714,94885.0,,banggai kepulauan utc+08:00,1
+437,99,16,2,2,banggai laut,,,,,,utc+08:00,94891,94892.0,,banggai laut utc+08:00,4
+438,99,16,2,2,buol,,,,,,utc+08:00,94563,94568.0,,buol utc+08:00,4
+439,99,16,2,2,donggala,,,,,,utc+08:00,94351,94362.0,,donggala utc+08:00,4
+440,99,16,2,2,morowali,,,,,,utc+08:00,94971,94976.0,,morowali utc+08:00,4
+441,99,16,2,2,morowali utara,,,,,,utc+08:00,94965,94972.0,,morowali utara utc+08:00,4
+442,99,16,3,2,palu,,,,,,utc+08:00,94111,94231.0,,palu utc+08:00,4
+443,99,16,2,2,parigi moutong,,,,,,utc+08:00,94471,94479.0,,parigi moutong utc+08:00,4
+444,99,16,2,2,poso,,,,,,utc+08:00,94611,94664.0,,poso utc+08:00,4
+445,99,16,2,2,sigi,,,,,,utc+08:00,94112,94364.0,,sigi utc+08:00,4
+446,99,16,2,2,tojo una-una,,,,,,utc+08:00,94681,94692.0,,tojo una-una utc+08:00,4
+447,99,16,2,2,toli-toli,,,,,,utc+08:00,94511,94562.0,,toli-toli utc+08:00,4
+448,99,17,3,2,bau-bau,,,,,,utc+08:00,93711,93758.0,,bau-bau utc+08:00,4
+449,99,17,2,2,bombana,,,,,,utc+08:00,93771,93783.0,,bombana utc+08:00,4
+450,99,17,2,2,buton,,,,,,utc+08:00,93754,93756.0,,buton utc+08:00,4
+451,99,17,2,2,buton selatan,,,,,,utc+08:00,93752,93753.0,,buton selatan utc+08:00,4
+452,99,17,2,2,buton tengah,,,,,,utc+08:00,93761,93781.0,,buton tengah utc+08:00,4
+453,99,17,2,2,buton utara,,,,,,utc+08:00,93671,93673.0,,buton utara utc+08:00,4
+454,99,17,3,2,kendari,,,,,,utc+08:00,93111,93234.0,,kendari utc+08:00,4
+455,99,17,2,2,kolaka,,,,,,utc+08:00,93511,93915.0,,kolaka utc+08:00,4
+456,99,17,2,2,kolaka timur,,,,,,utc+08:00,93571,93575.0,,kolaka timur utc+08:00,4
+457,99,17,2,2,kolaka utara,,,,,,utc+08:00,93911,93958.0,,kolaka utara utc+08:00,4
+458,99,17,2,2,konawe,,,,,,utc+08:00,93351,93464.0,,konawe utc+08:00,4
+459,99,17,2,2,konawe kepulauan,,,,,,utc+08:00,93393,,,konawe kepulauan utc+08:00,1
+460,99,17,2,2,konawe selatan,,,,,,utc+08:00,93395,93892.0,,konawe selatan utc+08:00,4
+461,99,17,2,2,konawe utara,,,,,,utc+08:00,93352,93353.0,,konawe utara utc+08:00,4
+462,99,17,2,2,muna,,,,,,utc+08:00,93611,93674.0,,muna utc+08:00,4
+463,99,17,2,2,muna barat,,,,,,utc+08:00,93652,93664.0,,muna barat utc+08:00,0
+464,99,17,2,2,wakatobi,,,,,,utc+08:00,93791,93795.0,,wakatobi utc+08:00,4
+465,99,23,3,2,bitung,,,,,,utc+08:00,95511,95551.0,,bitung utc+08:00,4
+466,99,23,2,2,bolaang mongondow (bolmong),,,,,,utc+08:00,95751,95773.0,,bolaang mongondow (bolmong) utc+08:00,4
+467,99,23,2,2,bolaang mongondow selatan,,,,,,utc+08:00,95774,95775.0,,bolaang mongondow selatan utc+08:00,4
+468,99,23,2,2,bolaang mongondow timur,,,,,,utc+08:00,95775,95782.0,,bolaang mongondow timur utc+08:00,4
+469,99,23,2,2,bolaang mongondow utara,,,,,,utc+08:00,95762,95765.0,,bolaang mongondow utara utc+08:00,4
+470,99,23,2,2,kepulauan sangihe,,,,,,utc+08:00,95811,95858.0,,kepulauan sangihe utc+08:00,1
+471,99,23,2,2,kepulauan siau tagulandang biaro (sitaro),,,,,,utc+08:00,95861,95864.0,,kepulauan siau tagulandang biaro (sitaro) utc+08:00,1
+472,99,23,2,2,kepulauan talaud,,,,,,utc+08:00,95871,95885.0,,kepulauan talaud utc+08:00,1
+473,99,23,3,2,kotamobagu,,,,,,utc+08:00,95711,95717.0,,kotamobagu utc+08:00,4
+474,99,23,3,2,manado,,,,,,utc+08:00,95111,95249.0,,manado utc+08:00,4
+475,99,23,2,2,minahasa,,,,,,utc+08:00,95371,95694.0,,minahasa utc+08:00,4
+476,99,23,2,2,minahasa selatan,,,,,,utc+08:00,95352,95999.0,,minahasa selatan utc+08:00,4
+477,99,23,2,2,minahasa tenggara,,,,,,utc+08:00,95995,95998.0,,minahasa tenggara utc+08:00,4
+478,99,23,2,2,minahasa utara,,,,,,utc+08:00,95371,95379.0,,minahasa utara utc+08:00,4
+479,99,23,3,2,tomohon,,,,,,utc+08:00,95411,95446.0,,tomohon utc+08:00,4
+480,99,18,2,2,agam,,,,,,utc+07:00,26151,26473.0,,agam utc+07:00,3
+481,99,18,3,2,bukittinggi,,,,,,utc+07:00,26111,26131.0,,bukittinggi utc+07:00,3
+482,99,18,2,2,dharmasraya,,,,,,utc+07:00,27573,27684.0,,dharmasraya utc+07:00,3
+483,99,18,2,2,kepulauan mentawai,,,,,,utc+07:00,25391,25394.0,,kepulauan mentawai utc+07:00,1
+484,99,18,2,2,lima puluh koto/kota,,,,,,utc+07:00,26251,26273.0,,lima puluh koto/kota utc+07:00,3
+485,99,18,3,2,padang,,,,,,utc+07:00,25111,25237.0,,padang utc+07:00,3
+486,99,18,3,2,padang panjang,,,,,,utc+07:00,27111,27121.0,,padang panjang utc+07:00,3
+487,99,18,2,2,padang pariaman,,,,,,utc+07:00,25552,25586.0,,padang pariaman utc+07:00,3
+488,99,18,3,2,pariaman,,,,,,utc+07:00,25511,25531.0,,pariaman utc+07:00,3
+489,99,18,2,2,pasaman,,,,,,utc+07:00,26311,26381.0,,pasaman utc+07:00,3
+490,99,18,2,2,pasaman barat,,,,,,utc+07:00,26366,26573.0,,pasaman barat utc+07:00,0
+491,99,18,3,2,payakumbuh,,,,,,utc+07:00,26211,26231.0,,payakumbuh utc+07:00,3
+492,99,18,2,2,pesisir selatan,,,,,,utc+07:00,25651,25674.0,,pesisir selatan utc+07:00,3
+493,99,18,3,2,sawah lunto,,,,,,utc+07:00,27411,27441.0,,sawah lunto utc+07:00,3
+494,99,18,2,2,sijunjung (sawah lunto sijunjung),,,,,,utc+07:00,27511,27572.0,,sijunjung (sawah lunto sijunjung) utc+07:00,3
+495,99,18,2,2,solok,,,,,,utc+07:00,27355,27388.0,,solok utc+07:00,3
+496,99,18,3,2,solok,,,,,,utc+07:00,27311,27321.0,,solok utc+07:00,3
+497,99,18,2,2,solok selatan,,,,,,utc+07:00,27775,27779.0,,solok selatan utc+07:00,3
+498,99,18,2,2,tanah datar,,,,,,utc+07:00,27151,27294.0,,tanah datar utc+07:00,3
+499,99,30,2,2,banyuasin,,,,,,utc+07:00,30911,30975.0,,banyuasin utc+07:00,3
+500,99,30,2,2,empat lawang,,,,,,utc+07:00,31453,31596.0,,empat lawang utc+07:00,3
+501,99,30,2,2,lahat,,,,,,utc+07:00,31356,31591.0,,lahat utc+07:00,3
+502,99,30,3,2,lubuk linggau,,,,,,utc+07:00,31611,31626.0,,lubuk linggau utc+07:00,3
+503,99,30,2,2,muara enim,,,,,,utc+07:00,31171,31711.0,,muara enim utc+07:00,3
+504,99,30,2,2,musi banyuasin,,,,,,utc+07:00,30711,30759.0,,musi banyuasin utc+07:00,3
+505,99,30,2,2,musi rawas,,,,,,utc+07:00,30771,31668.0,,musi rawas utc+07:00,3
+506,99,30,2,2,musi rawas utara,,,,,,utc+07:00,31654,31669.0,,musi rawas utara utc+07:00,3
+507,99,30,2,2,ogan ilir,,,,,,utc+07:00,30653,30869.0,,ogan ilir utc+07:00,3
+508,99,30,2,2,ogan komering ilir,,,,,,utc+07:00,30617,30681.0,,ogan komering ilir utc+07:00,3
+509,99,30,2,2,ogan komering ulu,,,,,,utc+07:00,32111,32192.0,,ogan komering ulu utc+07:00,3
+510,99,30,2,2,ogan komering ulu selatan,,,,,,utc+07:00,32211,32279.0,,ogan komering ulu selatan utc+07:00,3
+511,99,30,2,2,ogan komering ulu timur,,,,,,utc+07:00,32184,32387.0,,ogan komering ulu timur utc+07:00,3
+512,99,30,3,2,pagar alam,,,,,,utc+07:00,31511,31551.0,,pagar alam utc+07:00,3
+513,99,30,3,2,palembang,,,,,,utc+07:00,30111,30266.0,,palembang utc+07:00,3
+514,99,30,2,2,penukal abab lematang ilir,,,,,,utc+07:00,31211,31315.0,,penukal abab lematang ilir utc+07:00,3
+515,99,30,3,2,prabumulih,,,,,,utc+07:00,31111,31141.0,,prabumulih utc+07:00,3
+516,99,19,2,2,asahan,,,,,,utc+07:00,21211,21381.0,,asahan utc+07:00,3
+517,99,19,2,2,batu bara,,,,,,utc+07:00,21252,21258.0,,batu bara utc+07:00,3
+518,99,19,3,2,binjai,,,,,,utc+07:00,20711,20741.0,,binjai utc+07:00,3
+519,99,19,2,2,dairi,,,,,,utc+07:00,22211,22283.0,,dairi utc+07:00,3
+520,99,19,2,2,deli serdang,,,,,,utc+07:00,20351,20585.0,,deli serdang utc+07:00,3
+521,99,19,3,2,gunungsitoli,,,,,,utc+07:00,22811,22871.0,,gunungsitoli utc+07:00,3
+522,99,19,2,2,humbang hasundutan,,,,,,utc+07:00,22454,22475.0,,humbang hasundutan utc+07:00,3
+523,99,19,2,2,karo,,,,,,utc+07:00,22111,22173.0,,karo utc+07:00,3
+524,99,19,2,2,labuhan batu,,,,,,utc+07:00,21411,21473.0,,labuhan batu utc+07:00,3
+525,99,19,2,2,labuhan batu selatan,,,,,,utc+07:00,21461,21465.0,,labuhan batu selatan utc+07:00,3
+526,99,19,2,2,labuhan batu utara,,,,,,utc+07:00,21452,21475.0,,labuhan batu utara utc+07:00,3
+527,99,19,2,2,langkat,,,,,,utc+07:00,20761,20881.0,,langkat utc+07:00,3
+528,99,19,2,2,mandailing natal,,,,,,utc+07:00,22911,22998.0,,mandailing natal utc+07:00,3
+529,99,19,3,2,medan,,,,,,utc+07:00,20111,20524.0,,medan utc+07:00,3
+530,99,19,2,2,nias,,,,,,utc+07:00,22815,22872.0,,nias utc+07:00,3
+531,99,19,2,2,nias barat,,,,,,utc+07:00,22812,22875.0,,nias barat utc+07:00,0
+532,99,19,2,2,nias selatan,,,,,,utc+07:00,22864,22881.0,,nias selatan utc+07:00,3
+533,99,19,2,2,nias utara,,,,,,utc+07:00,22814,22861.0,,nias utara utc+07:00,3
+534,99,19,2,2,padang lawas,,,,,,utc+07:00,22742,22774.0,,padang lawas utc+07:00,3
+535,99,19,2,2,padang lawas utara,,,,,,utc+07:00,22733,22762.0,,padang lawas utara utc+07:00,3
+536,99,19,3,2,padang sidempuan,,,,,,utc+07:00,22711,22753.0,,padang sidempuan utc+07:00,3
+537,99,19,2,2,pakpak bharat,,,,,,utc+07:00,22271,22272.0,,pakpak bharat utc+07:00,3
+538,99,19,3,2,pematang siantar,,,,,,utc+07:00,21111,21141.0,,pematang siantar utc+07:00,3
+539,99,19,2,2,samosir,,,,,,utc+07:00,22391,22396.0,,samosir utc+07:00,3
+540,99,19,2,2,serdang bedagai,,,,,,utc+07:00,20984,20998.0,,serdang bedagai utc+07:00,3
+541,99,19,3,2,sibolga,,,,,,utc+07:00,22511,22533.0,,sibolga utc+07:00,3
+542,99,19,2,2,simalungun,,,,,,utc+07:00,21151,21187.0,,simalungun utc+07:00,3
+543,99,19,3,2,tanjung balai,,,,,,utc+07:00,21311,21364.0,,tanjung balai utc+07:00,3
+544,99,19,2,2,tapanuli selatan,,,,,,utc+07:00,22732,22774.0,,tapanuli selatan utc+07:00,3
+545,99,19,2,2,tapanuli tengah,,,,,,utc+07:00,22562,22654.0,,tapanuli tengah utc+07:00,3
+546,99,19,2,2,tapanuli utara,,,,,,utc+07:00,22411,22476.0,,tapanuli utara utc+07:00,3
+547,99,19,3,2,tebing tinggi,,,,,,utc+07:00,20611,20631.0,,tebing tinggi utc+07:00,3
+548,99,19,2,2,toba samosir,,,,,,utc+07:00,22312,22386.0,,toba samosir utc+07:00,3
