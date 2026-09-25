@@ -1,0 +1,8 @@
+id,code,name,demonym,text,cluster
+africa,AF,Africa,African,africa af africa african,2
+antarctica,AN,Antarctica,Antarctican,antarctica antarctica antarctican,0
+asia,AS,Asia,Asian,asia asia asian,0
+australia,OC,Australia,Australian,australia oc australia australian,0
+europe,EU,Europe,European,europe eu europe european,3
+north-america,,North America,North American,north america north america north american,1
+south-america,SA,South America,South American,south america sa south america south american,1
