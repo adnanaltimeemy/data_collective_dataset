@@ -1,0 +1,42 @@
+Section,Metric,Freetrade,Trading 212,Assessment / Notes,clean_text,cluster,sentiment,sentiment_label
+Executive conclusion,Overall positioning,Long-term investing platform with broad wrappers and traditional investments,"Low-cost, broad exchange-traded investing platform",Trading 212 generally suits frequent overseas dealing; Freetrade suits wrapper breadth and long-term simplicity,trading     generally suits frequent overseas dealing  freetrade suits wrapper breadth and long term simplicity,1,0.03333333333333334,Neutral
+Ownership,Publicly listed?,No; wholly owned by IG Group Holdings plc,No; privately held group,Neither is a standalone publicly traded company,neither is a standalone publicly traded company,0,0.0,Neutral
+Ownership,Public-market exposure,Available indirectly through IG Group shares,No direct public-market exposure,Buying IG shares is not the same as buying Freetrade shares,buying ig shares is not the same as buying freetrade shares,1,0.0,Neutral
+Ownership,Founders / control,Owned by IG Group after acquisition,"Controlled by founders Borislav Nedialkov and Ivan Ashminov, according to reporting",Private ownership limits direct investor access to Trading 212,private ownership limits direct investor access to trading    ,2,0.05,Neutral
+Financials,Latest reported revenue,Approximately £31.0m for 2025 in available reporting,Approximately £345.8m group revenue for 2025,Not fully like-for-like; group structures differ,not fully like for like  group structures differ,0,0.0,Neutral
+Financials,Latest reported profit / loss,Approximately £24.4m pre-tax loss for 2025,Approximately £127.7m profit before tax for 2025,Trading 212 reported stronger profitability,trading     reported stronger profitability,2,0.0,Neutral
+Financials,Reported scale,More than 1.6m users; AUA varies by reporting date,Approximately 4.5m funded accounts and around £25bn client assets reported,Trading 212 appears larger by reported customer and asset measures,trading     appears larger by reported customer and asset measures,2,0.0,Neutral
+Account types,Stocks and Shares ISA,Yes,Yes,Both support UK ISAs,both support uk isas,0,0.0,Neutral
+Account types,General Investment Account,Yes,Yes,Available on both platforms,available on both platforms,3,0.4,Positive
+Account types,SIPP,Yes,Yes,Check current tariff and investment availability,check current tariff and investment availability,0,0.0,Neutral
+Account types,Junior ISA,Yes,Not currently offered in cited comparison,Freetrade has the advantage for family investing,freetrade has the advantage for family investing,1,0.0,Neutral
+Investment range,Individual shares,Yes,Yes,Trading 212 generally offers a broader universe,trading     generally offers a broader universe,2,0.1,Positive
+Investment range,ETFs / ETPs / ETCs,Yes,Yes,Trading 212 is generally broader,trading     is generally broader,2,0.05000000000000002,Positive
+Investment range,Traditional funds,Yes,Generally not available,Freetrade is stronger for fund-based portfolios,freetrade is stronger for fund based portfolios,1,0.0,Neutral
+Investment range,Investment trusts / REITs,Yes,Yes,Availability varies by instrument,availability varies by instrument,0,0.0,Neutral
+Investment range,Gilts / Treasury bills,Yes,Not a core equivalent in cited comparison,Freetrade may suit investors seeking government-related instruments,freetrade may suit investors seeking government related instruments,1,0.0,Neutral
+Investment range,Fractional shares,Yes,Yes,Useful for small regular contributions,useful for small regular contributions,0,0.016666666666666663,Neutral
+Features,Automated investing,Yes,Yes,Both support recurring investment tools,both support recurring investment tools,0,0.0,Neutral
+Features,Pies / portfolio automation,Portfolio tools available,Pies and recurring investments are major features,Trading 212 has a stronger Pies proposition,trading     has a stronger pies proposition,2,0.0,Neutral
+Charges,Trading commission,£0 commission; other costs may apply,£0 commission; other costs may apply,Headline tie,headline tie,0,0.0,Neutral
+Charges,Basic / standard platform fee,Basic £0; Standard £4.99/month; Plus £9.99/month reported by current sources,Typically no platform fee for Invest/ISA; verify current tariff,Freetrade paid plans require a break-even calculation,freetrade paid plans require a break even calculation,1,0.0,Neutral
+Charges,Foreign exchange,Varies by plan; approximately 0.99% on Basic in cited comparisons,Approximately 0.15% in cited comparisons,Trading 212 generally cheaper for non-GBP dealing,trading     generally cheaper for non gbp dealing,2,0.05000000000000002,Positive
+Charges,"Illustrative FX cost on £10,000",About £99 at 0.99%,About £15 at 0.15%,Before spreads and exchange-rate movement,before spreads and exchange rate movement,0,0.0,Neutral
+Charges,Deposits,Bank transfer generally free; payment-method limits may apply,Bank transfer generally free; card-deposit thresholds may apply,Bank transfer is usually simplest,bank transfer is usually simplest,0,-0.25,Negative
+Charges,Withdrawals,Generally free,Generally free,Check live tariff for exceptional services,check live tariff for exceptional services,0,0.4015151515151515,Positive
+Charges,Inactivity fee,None reported,None reported,No need to trade to avoid an inactivity fee,no need to trade to avoid an inactivity fee,0,0.0,Neutral
+Risk / protection,Market risk,Investments can fall; no platform eliminates loss risk,Investments can fall; no platform eliminates loss risk,FSCS protection does not cover market losses,fscs protection does not cover market losses,0,0.0,Neutral
+Suitability,Frequent overseas share buyer,Less attractive on Basic FX pricing,Generally stronger,Lower cited FX charge,lower cited fx charge,0,0.0,Neutral
+Suitability,Long-term ISA investor,Strong,Strong,Choice depends on investment range and interface preference,choice depends on investment range and interface preference,0,0.0,Neutral
+Suitability,Pension investor,Strong SIPP proposition,Competitive for shares and ETFs; verify tariff,Compare pension costs and available investments,compare pension costs and available investments,3,0.4,Positive
+Suitability,Investor wanting funds or gilts,Strong,Weaker equivalent offering,Freetrade advantage,freetrade advantage,1,0.0,Neutral
+Suitability,Parent opening Junior ISA,Strong,Not currently available in cited comparison,Freetrade advantage,freetrade advantage,1,0.0,Neutral
+Suitability,Small regular investor using Pies,Adequate,Strong,Trading 212 advantage,trading     advantage,1,0.0,Neutral
+Due diligence,Check live FX rate,Required,Required,FX applies to both purchase and sale of non-GBP assets,fx applies to both purchase and sale of non gbp assets,0,0.0,Neutral
+Due diligence,Check instrument availability,Required,Required,"Compare the exact shares, ETFs or funds intended",compare the exact shares  etfs or funds intended,0,0.25,Positive
+Due diligence,Review custody and protection disclosures,Required,Required,"Understand nominee, client-money and compensation arrangements",understand nominee  client money and compensation arrangements,0,0.0,Neutral
+Overall assessment,Best general fit,Investors prioritising wrapper breadth and traditional investments,Investors prioritising low-cost overseas dealing and broad ETFs/shares,There is no universal winner,there is no universal winner,0,0.0,Neutral
+Disclaimer,Information status,Informational comparison only,Informational comparison only,Charges and features can change; investments are at risk,charges and features can change  investments are at risk,0,0.0,Neutral
+Sources,Primary comparison,"Freetrade: Freetrade vs Trading 212 | Fees, ISA & SIPP Compared",,Accessed 8 October 2026,accessed   october     ,0,0.0,Neutral
+Sources,Financial reporting,Finance Magnates / FX News Group reporting on Trading 212 2025 group accounts,,Published October 2026,published october     ,0,0.0,Neutral
+Sources,Additional comparison context,"Wise, UK.StockBrokers.com, Forbes Advisor UK",,Used for pricing and feature context,used for pricing and feature context,0,0.0,Neutral
